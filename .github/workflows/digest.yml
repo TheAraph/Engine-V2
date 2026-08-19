@@ -29,6 +29,11 @@ jobs:
           FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
         run: python fpl_digest.py
 
+      - name: Mini-league intel (skips cleanly before GW1 is played)
+        env:
+          FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
+        run: python league_intel.py || echo "league intel skipped"
+
       - name: Commit snapshot and digest
         run: |
           git config user.name  "fpl-bot"
