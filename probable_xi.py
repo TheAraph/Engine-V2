@@ -41,8 +41,18 @@ def rank_club(squad):
             starts_pct = min(p.get("starts", 0) / 34, 1.0)
             p["unproven"] = p.get("starts", 0) == 0
             p["score"] = 0.5 * starts_pct + 0.5 * price_pct
-            if p["status"] != "a" or p["news"]:
-                p["score"] *= 0.35          # flagged players drop but do not vanish
+            # A player who cannot play cannot be in a probable XI. Ruled-out and
+            # unknown-return players are excluded outright; doubts are penalised.
+            ch = p.get("chance_now")
+            if ch is None:
+                ch = p.get("chance") if p.get("chance") is not None else (0 if p["news"] else 100)
+            p["chance_pct"] = ch
+            if p["status"] in ("i", "s", "u", "n") or ch == 0:
+                p["score"] = -1.0           # never selectable
+            elif ch <= 50:
+                p["score"] *= 0.25
+            elif ch < 100 or p["news"]:
+                p["score"] *= 0.70
     return squad
 
 def badge(p):
@@ -52,6 +62,8 @@ def badge(p):
     if p.get("fks") == 1:       bits.append('<span class="sp">FK 1</span>')
     if p.get("corners") == 1:   bits.append('<span class="sp">COR 1</span>')
     if p.get("unproven"):       bits.append('<span class="sp unp">UNPROVEN</span>')
+    if 0 < (p.get("chance_pct") or 100) < 100:
+                                bits.append(f'<span class="sp unp">{p["chance_pct"]}% FIT</span>')
     if p["news"]:               bits.append(f'<span class="sp out">{esc(p["news"][:26])}</span>')
     return "".join(bits)
 
@@ -60,7 +72,8 @@ for team in sorted(teams):
     squad = rank_club(teams[team])
     xi, bench = [], []
     for pos, n in FORM.items():
-        grp = sorted([p for p in squad if p["pos"] == pos], key=lambda p: -p["score"])
+        grp = sorted([p for p in squad if p["pos"] == pos and p["score"] >= 0],
+                     key=lambda p: -p["score"])
         xi += grp[:n]
         bench += grp[n:n + 2]
     rows = ""
