@@ -1,102 +1,21 @@
 {
-  "generated_at": "2026-08-19T17:53:24.468996+00:00",
+  "generated_at": "2026-08-19T17:58:27.417559+00:00",
   "next_gw": 1,
   "deadline": "2026-08-21T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 595,
     "flagged": 114,
-    "managers": 6308524
+    "managers": 6311728
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Vicario",
-        "team": "TOT",
-        "pos": "GKP",
-        "cost": 4.5,
-        "sel": 1.1,
-        "news": "Has joined Juventus on loan for the rest of the season",
-        "chance": 0
-      },
-      {
-        "name": "Nedeljkovic",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.0,
-        "sel": 0.8,
-        "news": "Has joined Rangers on loan for the rest of the season",
-        "chance": 0
-      },
-      {
-        "name": "Piroe",
-        "team": "LEE",
-        "pos": "FWD",
-        "cost": 5.0,
-        "sel": 0.5,
-        "news": "Has joined West Ham United on loan for the rest of the season",
-        "chance": 0
-      },
-      {
-        "name": "Bornauw",
-        "team": "LEE",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 0.0,
-        "news": "Has joined Hamburg SV on loan for the rest of the season",
-        "chance": 0
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Mason-Clark",
-        "team": "COV",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "recovered": [],
     "price_rises": [],
     "price_falls": [],
     "form_risers": [],
-    "ownership_surges": [
-      {
-        "name": "Calafiori",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 29.9,
-        "news": "",
-        "chance": null,
-        "sel_from": 28.7,
-        "sel_to": 29.9
-      },
-      {
-        "name": "Tzolis",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.5,
-        "sel": 17.6,
-        "news": "",
-        "chance": null,
-        "sel_from": 16.6,
-        "sel_to": 17.6
-      },
-      {
-        "name": "Konsa",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 15.7,
-        "news": "",
-        "chance": null,
-        "sel_from": 14.7,
-        "sel_to": 15.7
-      }
-    ]
+    "ownership_surges": []
   },
   "flagged": [
     {
@@ -1974,7 +1893,7 @@
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-19T17:53:30.315748+00:00",
+    "collected_at": "2026-08-19T17:58:33.998047+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
