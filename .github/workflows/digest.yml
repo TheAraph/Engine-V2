@@ -29,6 +29,9 @@ jobs:
           FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
         run: python fpl_digest.py
 
+      - name: Probable XIs
+        run: python probable_xi.py
+
       - name: Mini-league intel (skips cleanly before GW1 is played)
         env:
           FPL_ENTRY_ID: ${{ vars.FPL_ENTRY_ID }}
