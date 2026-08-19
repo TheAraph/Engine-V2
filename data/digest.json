@@ -1,21 +1,102 @@
 {
-  "generated_at": "2026-08-19T09:23:35.556696+00:00",
+  "generated_at": "2026-08-19T17:53:24.468996+00:00",
   "next_gw": 1,
   "deadline": "2026-08-21T17:30:00Z",
-  "is_first_run": true,
+  "is_first_run": false,
   "totals": {
-    "players": 592,
-    "flagged": 111,
-    "managers": 6032661
+    "players": 595,
+    "flagged": 114,
+    "managers": 6308524
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Vicario",
+        "team": "TOT",
+        "pos": "GKP",
+        "cost": 4.5,
+        "sel": 1.1,
+        "news": "Has joined Juventus on loan for the rest of the season",
+        "chance": 0
+      },
+      {
+        "name": "Nedeljkovic",
+        "team": "AVL",
+        "pos": "DEF",
+        "cost": 4.0,
+        "sel": 0.8,
+        "news": "Has joined Rangers on loan for the rest of the season",
+        "chance": 0
+      },
+      {
+        "name": "Piroe",
+        "team": "LEE",
+        "pos": "FWD",
+        "cost": 5.0,
+        "sel": 0.5,
+        "news": "Has joined West Ham United on loan for the rest of the season",
+        "chance": 0
+      },
+      {
+        "name": "Bornauw",
+        "team": "LEE",
+        "pos": "DEF",
+        "cost": 4.5,
+        "sel": 0.0,
+        "news": "Has joined Hamburg SV on loan for the rest of the season",
+        "chance": 0
+      }
+    ],
     "worsened": [],
-    "recovered": [],
+    "recovered": [
+      {
+        "name": "Mason-Clark",
+        "team": "COV",
+        "pos": "MID",
+        "cost": 5.5,
+        "sel": 0.1,
+        "news": "",
+        "chance": 100
+      }
+    ],
     "price_rises": [],
     "price_falls": [],
     "form_risers": [],
-    "ownership_surges": []
+    "ownership_surges": [
+      {
+        "name": "Calafiori",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 29.9,
+        "news": "",
+        "chance": null,
+        "sel_from": 28.7,
+        "sel_to": 29.9
+      },
+      {
+        "name": "Tzolis",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 17.6,
+        "news": "",
+        "chance": null,
+        "sel_from": 16.6,
+        "sel_to": 17.6
+      },
+      {
+        "name": "Konsa",
+        "team": "AVL",
+        "pos": "DEF",
+        "cost": 4.5,
+        "sel": 15.7,
+        "news": "",
+        "chance": null,
+        "sel_from": 14.7,
+        "sel_to": 15.7
+      }
+    ]
   },
   "flagged": [
     {
@@ -23,7 +104,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 5.6,
+      "sel": 5.1,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -33,7 +114,7 @@
       "team": "NFO",
       "pos": "MID",
       "cost": 4.5,
-      "sel": 5.1,
+      "sel": 4.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -43,7 +124,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 4.5,
-      "sel": 3.4,
+      "sel": 2.9,
       "news": "Has joined Internazionale permanently",
       "chance": 0,
       "status": "unavailable"
@@ -53,7 +134,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 2.7,
+      "sel": 2.5,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -63,7 +144,7 @@
       "team": "SUN",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 2.5,
+      "sel": 2.3,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,7 +154,7 @@
       "team": "MUN",
       "pos": "FWD",
       "cost": 7.0,
-      "sel": 1.6,
+      "sel": 1.5,
       "news": "Shin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -83,7 +164,7 @@
       "team": "BOU",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 1.4,
+      "sel": 1.2,
       "news": "Foot injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -93,8 +174,28 @@
       "team": "HUL",
       "pos": "FWD",
       "cost": 4.5,
-      "sel": 1.4,
+      "sel": 1.2,
       "news": "Has joined Konyaspor permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Vicario",
+      "team": "TOT",
+      "pos": "GKP",
+      "cost": 4.5,
+      "sel": 1.1,
+      "news": "Has joined Juventus on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Nedeljkovic",
+      "team": "AVL",
+      "pos": "DEF",
+      "cost": 4.0,
+      "sel": 0.8,
+      "news": "Has joined Rangers on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
     },
@@ -103,7 +204,7 @@
       "team": "AVL",
       "pos": "FWD",
       "cost": 5.5,
-      "sel": 0.9,
+      "sel": 0.8,
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -113,7 +214,7 @@
       "team": "AVL",
       "pos": "MID",
       "cost": 6.0,
-      "sel": 0.8,
+      "sel": 0.7,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -123,30 +224,10 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 5.0,
-      "sel": 0.7,
+      "sel": 0.6,
       "news": "Has joined Atletico Madrid permanently",
       "chance": 0,
       "status": "unavailable"
-    },
-    {
-      "name": "Chalobah",
-      "team": "CHE",
-      "pos": "DEF",
-      "cost": 5.5,
-      "sel": 0.6,
-      "news": "Has joined Como permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Wright",
-      "team": "COV",
-      "pos": "FWD",
-      "cost": 5.5,
-      "sel": 0.6,
-      "news": "Thigh injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Masuaku",
@@ -159,6 +240,36 @@
       "status": "unavailable"
     },
     {
+      "name": "Chalobah",
+      "team": "CHE",
+      "pos": "DEF",
+      "cost": 5.5,
+      "sel": 0.5,
+      "news": "Has joined Como permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Wright",
+      "team": "COV",
+      "pos": "FWD",
+      "cost": 5.5,
+      "sel": 0.5,
+      "news": "Thigh injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Piroe",
+      "team": "LEE",
+      "pos": "FWD",
+      "cost": 5.0,
+      "sel": 0.5,
+      "news": "Has joined West Ham United on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Saliba",
       "team": "ARS",
       "pos": "DEF",
@@ -167,16 +278,6 @@
       "news": "Back injury - Unknown return date",
       "chance": 0,
       "status": "injured"
-    },
-    {
-      "name": "Digne",
-      "team": "AVL",
-      "pos": "DEF",
-      "cost": 4.5,
-      "sel": 0.4,
-      "news": "Has joined Paris Saint-Germain permanently",
-      "chance": 0,
-      "status": "unavailable"
     },
     {
       "name": "Soler",
@@ -199,16 +300,6 @@
       "status": "doubtful"
     },
     {
-      "name": "Van den Berg",
-      "team": "BRE",
-      "pos": "DEF",
-      "cost": 5.0,
-      "sel": 0.4,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Patterson",
       "team": "SUN",
       "pos": "GKP",
@@ -219,34 +310,24 @@
       "status": "unavailable"
     },
     {
-      "name": "Alderete",
-      "team": "SUN",
+      "name": "Digne",
+      "team": "AVL",
       "pos": "DEF",
-      "cost": 5.0,
-      "sel": 0.4,
-      "news": "Knock - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "cost": 4.5,
+      "sel": 0.3,
+      "news": "Has joined Paris Saint-Germain permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
-      "name": "Minteh",
-      "team": "BHA",
-      "pos": "MID",
-      "cost": 6.0,
+      "name": "Van den Berg",
+      "team": "BRE",
+      "pos": "DEF",
+      "cost": 5.0,
       "sel": 0.3,
-      "news": "Leg injury - Expected back 28 Nov",
+      "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
-    },
-    {
-      "name": "Struijk",
-      "team": "BHA",
-      "pos": "DEF",
-      "cost": 5.0,
-      "sel": 0.3,
-      "news": "Knock - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
     },
     {
       "name": "N\u00f8rgaard",
@@ -257,16 +338,6 @@
       "news": "Unspecified injury - 25% chance of playing",
       "chance": 25,
       "status": "doubtful"
-    },
-    {
-      "name": "Garner",
-      "team": "EVE",
-      "pos": "MID",
-      "cost": 6.0,
-      "sel": 0.3,
-      "news": "Groin injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Butland",
@@ -297,6 +368,16 @@
       "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Alderete",
+      "team": "SUN",
+      "pos": "DEF",
+      "cost": 5.0,
+      "sel": 0.3,
+      "news": "Knock - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Meunier",
@@ -349,6 +430,16 @@
       "status": "doubtful"
     },
     {
+      "name": "Minteh",
+      "team": "BHA",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.2,
+      "news": "Leg injury - Expected back 28 Nov",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Baleba",
       "team": "BHA",
       "pos": "MID",
@@ -367,6 +458,26 @@
       "news": "Has joined Leicester City on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Struijk",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 5.0,
+      "sel": 0.2,
+      "news": "Knock - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Garner",
+      "team": "EVE",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.2,
+      "news": "Groin injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Zambrano",
@@ -469,26 +580,6 @@
       "status": "doubtful"
     },
     {
-      "name": "Mason-Clark",
-      "team": "COV",
-      "pos": "MID",
-      "cost": 5.5,
-      "sel": 0.1,
-      "news": "Hamstring injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
-      "name": "Markelo",
-      "team": "COV",
-      "pos": "FWD",
-      "cost": 5.0,
-      "sel": 0.1,
-      "news": "Has joined Shabab Al-Ahli Dubai permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
       "name": "Bassette",
       "team": "COV",
       "pos": "FWD",
@@ -587,16 +678,6 @@
       "news": "Hip injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
-    },
-    {
-      "name": "Rodrigo",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 6.5,
-      "sel": 0.1,
-      "news": "Back injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Bayindir",
@@ -819,6 +900,16 @@
       "status": "suspended"
     },
     {
+      "name": "Markelo",
+      "team": "COV",
+      "pos": "FWD",
+      "cost": 5.0,
+      "sel": 0.0,
+      "news": "Has joined Shabab Al-Ahli Dubai permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Cardines",
       "team": "CRY",
       "pos": "DEF",
@@ -969,6 +1060,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Bornauw",
+      "team": "LEE",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.0,
+      "news": "Has joined Hamburg SV on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Harrison",
       "team": "LEE",
       "pos": "MID",
@@ -1045,6 +1146,16 @@
       "cost": 5.0,
       "sel": 0.0,
       "news": "Has joined Burnley on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Rodrigo",
+      "team": "MCI",
+      "pos": "MID",
+      "cost": 6.5,
+      "sel": 0.0,
+      "news": "Has joined Barcelona permanently",
       "chance": 0,
       "status": "unavailable"
     },
@@ -1852,10 +1963,18 @@
       "games": 5
     }
   },
-  "squad": null,
+  "squad": {
+    "name": "Qahbaleba FC",
+    "manager": "Adam Ryan",
+    "overall_rank": null,
+    "total_points": null,
+    "bank": 0.0,
+    "value": 0.0,
+    "picks": []
+  },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-19T09:23:42.684495+00:00",
+    "collected_at": "2026-08-19T17:53:30.315748+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
@@ -1874,31 +1993,18 @@
       "@fpl_tactician": "tactical and fixture discussion",
       "@FFScout": "Fantasy Football Scout (subscription site)"
     },
-    "post_count": 3,
-    "high_signal": [
-      {
-        "handle": "fplgeneral.bsky.social",
-        "text": "New 59th Minute Pod \ud83c\udf99\n\nLatest Draft \u2705\ufe0f\nListener Qs \u2705\ufe0f\nCaptaincy \u2705\ufe0f\n\npod.fo/e/5543ca",
-        "at": "2026-08-18T09:09:36.101Z",
-        "likes": 2,
-        "reposts": 0,
-        "replies": 1,
-        "signal": [
-          "captain"
-        ],
-        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtdump33ms2r"
-      }
-    ],
+    "post_count": 2,
+    "high_signal": [],
     "other": [
       {
         "handle": "fplgeneral.bsky.social",
-        "text": "Sonny (3 years old) just picked his first FPL team \ud83d\ude0d\n\nI sorted by player ownership and let him click the colours he liked \n\nI think I like it more than my own \ud83e\udd23",
-        "at": "2026-08-18T09:08:13.735Z",
-        "likes": 19,
-        "reposts": 0,
-        "replies": 7,
+        "text": "\ud83c\udf99 10 Tips for FPL Success \ud83c\udf99\n\nThis is not the latest episode but it has the best overall advice going into the new season \ud83e\udee1\n\nopen.spotify.com/episode/74zx...",
+        "at": "2026-08-19T16:16:00.233Z",
+        "likes": 6,
+        "reposts": 2,
+        "replies": 0,
         "signal": [],
-        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtdukajxpc2r"
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mth4w3hnic2e"
       },
       {
         "handle": "fplgeneral.bsky.social",
