@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-08-20T02:09:56.183815+00:00",
+  "generated_at": "2026-08-20T07:22:43.231761+00:00",
   "next_gw": 1,
   "deadline": "2026-08-21T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 595,
     "flagged": 115,
-    "managers": 6508813
+    "managers": 6590750
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Mason-Clark",
-        "team": "COV",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.1,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
@@ -33,7 +23,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 4.7,
+      "sel": 4.6,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -43,7 +33,7 @@
       "team": "NFO",
       "pos": "MID",
       "cost": 4.5,
-      "sel": 4.5,
+      "sel": 4.4,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -53,7 +43,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 4.5,
-      "sel": 2.7,
+      "sel": 2.6,
       "news": "Has joined Internazionale permanently",
       "chance": 0,
       "status": "unavailable"
@@ -63,7 +53,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 2.3,
+      "sel": 2.2,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,7 +63,7 @@
       "team": "SUN",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 2.2,
+      "sel": 2.1,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -113,7 +103,7 @@
       "team": "TOT",
       "pos": "GKP",
       "cost": 4.5,
-      "sel": 1.0,
+      "sel": 0.9,
       "news": "Has joined Juventus on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
@@ -159,16 +149,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Masuaku",
-      "team": "SUN",
-      "pos": "DEF",
-      "cost": 4.0,
-      "sel": 0.6,
-      "news": "Has joined Konyaspor permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
       "name": "Chalobah",
       "team": "CHE",
       "pos": "DEF",
@@ -187,6 +167,16 @@
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Masuaku",
+      "team": "SUN",
+      "pos": "DEF",
+      "cost": 4.0,
+      "sel": 0.5,
+      "news": "Has joined Konyaspor permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Saliba",
@@ -529,16 +519,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Gyabi",
-      "team": "HUL",
-      "pos": "MID",
-      "cost": 4.5,
-      "sel": 0.1,
-      "news": "Thigh injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Burstow",
       "team": "HUL",
       "pos": "FWD",
@@ -657,16 +637,6 @@
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
-    },
-    {
-      "name": "Phillips",
-      "team": "TOT",
-      "pos": "DEF",
-      "cost": 4.5,
-      "sel": 0.1,
-      "news": "Has joined Middlesbrough permanently",
-      "chance": 0,
-      "status": "unavailable"
     },
     {
       "name": "Kudus",
@@ -939,6 +909,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Gyabi",
+      "team": "HUL",
+      "pos": "MID",
+      "cost": 4.5,
+      "sel": 0.0,
+      "news": "Thigh injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Gelhardt",
       "team": "HUL",
       "pos": "MID",
@@ -1147,6 +1127,16 @@
       "news": "Knee injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Phillips",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.0,
+      "news": "Has joined Middlesbrough permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Xavi",
@@ -1913,7 +1903,7 @@
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-20T02:10:04.313780+00:00",
+    "collected_at": "2026-08-20T07:22:47.945692+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
