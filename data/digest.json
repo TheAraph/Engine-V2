@@ -1,254 +1,21 @@
 {
-  "generated_at": "2026-08-21T02:16:34.832542+00:00",
+  "generated_at": "2026-08-21T07:24:06.454998+00:00",
   "next_gw": 1,
   "deadline": "2026-08-21T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 599,
     "flagged": 113,
-    "managers": 7502232
+    "managers": 7659482
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Bruno G.",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 7.0,
-        "sel": 7.0,
-        "news": "Thigh injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Henderson",
-        "team": "CRY",
-        "pos": "GKP",
-        "cost": 5.0,
-        "sel": 2.7,
-        "news": "Ankle injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Welbeck",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 6.0,
-        "sel": 1.8,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Reijnders",
-        "team": "MCI",
-        "pos": "MID",
-        "cost": 6.0,
-        "sel": 0.2,
-        "news": "Has joined Al Qadsiah permanently",
-        "chance": 0
-      },
-      {
-        "name": "Adingra",
-        "team": "SUN",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.2,
-        "news": "Ankle injury - Unknown return date",
-        "chance": 0
-      }
-    ],
-    "worsened": [
-      {
-        "name": "Yates",
-        "team": "NFO",
-        "pos": "MID",
-        "cost": 4.5,
-        "sel": 3.2,
-        "news": "Unspecified injury - Unknown return date",
-        "chance": 0,
-        "from": 75,
-        "to": 0
-      },
-      {
-        "name": "Livramento",
-        "team": "NEW",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.1,
-        "news": "Calf injury - Unknown return date",
-        "chance": 0,
-        "from": 75,
-        "to": 0
-      },
-      {
-        "name": "Gnonto",
-        "team": "LEE",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.0,
-        "news": "Hamstring injury - Unknown return date",
-        "chance": 0,
-        "from": 25,
-        "to": 0
-      }
-    ],
-    "recovered": [
-      {
-        "name": "Mukiele",
-        "team": "SUN",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 2.3,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Alderete",
-        "team": "SUN",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.4,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Meunier",
-        "team": "SUN",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 0.3,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Struijk",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.2,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Emegha",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 5.0,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Rudoni",
-        "team": "COV",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Mason-Clark",
-        "team": "COV",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "new_injuries": [],
+    "worsened": [],
+    "recovered": [],
     "price_rises": [],
     "price_falls": [],
     "form_risers": [],
-    "ownership_surges": [
-      {
-        "name": "Jo\u00e3o Pedro",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 7.5,
-        "sel": 63.0,
-        "news": "",
-        "chance": null,
-        "sel_from": 61.6,
-        "sel_to": 63.0
-      },
-      {
-        "name": "Raya",
-        "team": "ARS",
-        "pos": "GKP",
-        "cost": 6.0,
-        "sel": 36.8,
-        "news": "",
-        "chance": null,
-        "sel_from": 35.7,
-        "sel_to": 36.8
-      },
-      {
-        "name": "Mbeumo",
-        "team": "MUN",
-        "pos": "MID",
-        "cost": 8.0,
-        "sel": 35.7,
-        "news": "",
-        "chance": null,
-        "sel_from": 33.3,
-        "sel_to": 35.7
-      },
-      {
-        "name": "Calafiori",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 34.4,
-        "news": "",
-        "chance": null,
-        "sel_from": 31.0,
-        "sel_to": 34.4
-      },
-      {
-        "name": "Calvert-Lewin",
-        "team": "LEE",
-        "pos": "FWD",
-        "cost": 6.0,
-        "sel": 29.9,
-        "news": "",
-        "chance": null,
-        "sel_from": 28.6,
-        "sel_to": 29.9
-      },
-      {
-        "name": "Kinsky",
-        "team": "TOT",
-        "pos": "GKP",
-        "cost": 4.5,
-        "sel": 22.9,
-        "news": "",
-        "chance": null,
-        "sel_from": 21.8,
-        "sel_to": 22.9
-      },
-      {
-        "name": "Tzolis",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.5,
-        "sel": 21.2,
-        "news": "",
-        "chance": null,
-        "sel_from": 18.5,
-        "sel_to": 21.2
-      },
-      {
-        "name": "Maguire",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 16.0,
-        "news": "",
-        "chance": null,
-        "sel_from": 14.5,
-        "sel_to": 16.0
-      }
-    ]
+    "ownership_surges": []
   },
   "flagged": [
     {
@@ -256,7 +23,7 @@
       "team": "ARS",
       "pos": "MID",
       "cost": 7.0,
-      "sel": 7.0,
+      "sel": 6.6,
       "news": "Thigh injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -266,7 +33,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 3.5,
+      "sel": 3.3,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -276,7 +43,7 @@
       "team": "NFO",
       "pos": "MID",
       "cost": 4.5,
-      "sel": 3.2,
+      "sel": 3.0,
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -286,7 +53,7 @@
       "team": "CRY",
       "pos": "GKP",
       "cost": 5.0,
-      "sel": 2.7,
+      "sel": 2.6,
       "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -296,7 +63,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 6.0,
-      "sel": 1.8,
+      "sel": 1.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -306,7 +73,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 4.5,
-      "sel": 1.8,
+      "sel": 1.7,
       "news": "Has joined Internazionale permanently",
       "chance": 0,
       "status": "unavailable"
@@ -316,7 +83,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 1.7,
+      "sel": 1.6,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -346,7 +113,7 @@
       "team": "HUL",
       "pos": "FWD",
       "cost": 4.5,
-      "sel": 0.8,
+      "sel": 0.7,
       "news": "Has joined Konyaspor permanently",
       "chance": 0,
       "status": "unavailable"
@@ -356,7 +123,7 @@
       "team": "AVL",
       "pos": "FWD",
       "cost": 5.5,
-      "sel": 0.7,
+      "sel": 0.6,
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -366,7 +133,7 @@
       "team": "TOT",
       "pos": "GKP",
       "cost": 4.5,
-      "sel": 0.7,
+      "sel": 0.6,
       "news": "Has joined Juventus on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
@@ -386,7 +153,7 @@
       "team": "AVL",
       "pos": "MID",
       "cost": 6.0,
-      "sel": 0.5,
+      "sel": 0.4,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -582,16 +349,6 @@
       "status": "injured"
     },
     {
-      "name": "Zambrano",
-      "team": "HUL",
-      "pos": "MID",
-      "cost": 4.5,
-      "sel": 0.2,
-      "news": "Thigh injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Ekitik\u00e9",
       "team": "LIV",
       "pos": "FWD",
@@ -650,16 +407,6 @@
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
-    },
-    {
-      "name": "Adli",
-      "team": "BOU",
-      "pos": "MID",
-      "cost": 5.0,
-      "sel": 0.1,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Enes \u00dcnal",
@@ -722,6 +469,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Zambrano",
+      "team": "HUL",
+      "pos": "MID",
+      "cost": 4.5,
+      "sel": 0.1,
+      "news": "Thigh injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Burstow",
       "team": "HUL",
       "pos": "FWD",
@@ -756,16 +513,6 @@
       "team": "LEE",
       "pos": "FWD",
       "cost": 4.5,
-      "sel": 0.1,
-      "news": "Knee injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Leoni",
-      "team": "LIV",
-      "pos": "DEF",
-      "cost": 4.0,
       "sel": 0.1,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
@@ -880,6 +627,16 @@
       "news": "Suspended until 29 Aug",
       "chance": 0,
       "status": "suspended"
+    },
+    {
+      "name": "Adli",
+      "team": "BOU",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.0,
+      "news": "Unspecified injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Milambo",
@@ -1216,6 +973,16 @@
       "team": "LIV",
       "pos": "DEF",
       "cost": 5.0,
+      "sel": 0.0,
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Leoni",
+      "team": "LIV",
+      "pos": "DEF",
+      "cost": 4.0,
       "sel": 0.0,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
@@ -2116,7 +1883,7 @@
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-21T02:16:41.533098+00:00",
+    "collected_at": "2026-08-21T07:24:11.264126+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
