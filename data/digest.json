@@ -1,29 +1,383 @@
 {
-  "generated_at": "2026-08-21T07:24:06.454998+00:00",
-  "next_gw": 1,
-  "deadline": "2026-08-21T17:30:00Z",
+  "generated_at": "2026-08-22T02:08:23.448947+00:00",
+  "next_gw": 2,
+  "deadline": "2026-08-28T17:30:00Z",
   "is_first_run": false,
   "totals": {
-    "players": 599,
-    "flagged": 113,
-    "managers": 7659482
+    "players": 600,
+    "flagged": 115,
+    "managers": 9107060
   },
   "changes": {
-    "new_injuries": [],
-    "worsened": [],
-    "recovered": [],
+    "new_injuries": [
+      {
+        "name": "Pedro Porro",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 17.0,
+        "news": "Lack of match fitness - Expected back 29 Aug",
+        "chance": 0
+      },
+      {
+        "name": "Van de Ven",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.0,
+        "sel": 5.5,
+        "news": "Unspecified injury - Expected back 29 Aug",
+        "chance": 0
+      },
+      {
+        "name": "Hirst",
+        "team": "IPS",
+        "pos": "FWD",
+        "cost": 5.0,
+        "sel": 0.3,
+        "news": "Has joined Stoke City permanently",
+        "chance": 0
+      },
+      {
+        "name": "P.M.Sarr",
+        "team": "TOT",
+        "pos": "MID",
+        "cost": 5.0,
+        "sel": 0.3,
+        "news": "Hamstring injury - Unknown return date",
+        "chance": 0
+      }
+    ],
+    "worsened": [
+      {
+        "name": "Doku",
+        "team": "MCI",
+        "pos": "MID",
+        "cost": 7.5,
+        "sel": 2.0,
+        "news": "Calf injury - Expected back 5 Sep",
+        "chance": 0,
+        "from": 75,
+        "to": 0
+      },
+      {
+        "name": "N\u00f8rgaard",
+        "team": "EVE",
+        "pos": "MID",
+        "cost": 5.0,
+        "sel": 0.1,
+        "news": "Unspecified injury - Unknown return date",
+        "chance": 0,
+        "from": 25,
+        "to": 0
+      },
+      {
+        "name": "Kudus",
+        "team": "TOT",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 0.1,
+        "news": "Thigh injury - 25% chance of playing",
+        "chance": 25,
+        "from": 75,
+        "to": 25
+      },
+      {
+        "name": "Tzimas",
+        "team": "BHA",
+        "pos": "FWD",
+        "cost": 5.5,
+        "sel": 0.0,
+        "news": "Knee injury - Unknown return date",
+        "chance": 0,
+        "from": 75,
+        "to": 0
+      },
+      {
+        "name": "Jacob",
+        "team": "HUL",
+        "pos": "DEF",
+        "cost": 4.0,
+        "sel": 0.0,
+        "news": "Hip injury - Expected back 29 Aug",
+        "chance": 0,
+        "from": 75,
+        "to": 0
+      }
+    ],
+    "recovered": [
+      {
+        "name": "Matheus N.",
+        "team": "MCI",
+        "pos": "DEF",
+        "cost": 6.0,
+        "sel": 1.5,
+        "news": "",
+        "chance": 100
+      },
+      {
+        "name": "Drameh",
+        "team": "HUL",
+        "pos": "DEF",
+        "cost": 4.0,
+        "sel": 0.0,
+        "news": "",
+        "chance": 100
+      }
+    ],
     "price_rises": [],
     "price_falls": [],
-    "form_risers": [],
-    "ownership_surges": []
+    "form_risers": [
+      {
+        "name": "White",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 4.5,
+        "news": "",
+        "chance": 100,
+        "form_from": 0.0,
+        "form_to": 11.0
+      },
+      {
+        "name": "\u00d8degaard",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 8.3,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 11.0
+      },
+      {
+        "name": "Calafiori",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 39.8,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 9.0
+      },
+      {
+        "name": "Saka",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 9.5,
+        "sel": 9.4,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 9.0
+      },
+      {
+        "name": "Raya",
+        "team": "ARS",
+        "pos": "GKP",
+        "cost": 6.0,
+        "sel": 37.6,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 6.0
+      },
+      {
+        "name": "Mosquera",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 6.3,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 6.0
+      },
+      {
+        "name": "Havertz",
+        "team": "ARS",
+        "pos": "FWD",
+        "cost": 7.5,
+        "sel": 5.5,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 6.0
+      },
+      {
+        "name": "Tzolis",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 25.2,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 6.0
+      },
+      {
+        "name": "Gabriel",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 8.0,
+        "sel": 29.7,
+        "news": "",
+        "chance": null,
+        "form_from": 0.0,
+        "form_to": 5.0
+      }
+    ],
+    "ownership_surges": [
+      {
+        "name": "Jo\u00e3o Pedro",
+        "team": "CHE",
+        "pos": "FWD",
+        "cost": 7.5,
+        "sel": 64.4,
+        "news": "",
+        "chance": null,
+        "sel_from": 63.2,
+        "sel_to": 64.4
+      },
+      {
+        "name": "B.Fernandes",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 12.0,
+        "sel": 52.0,
+        "news": "",
+        "chance": null,
+        "sel_from": 50.9,
+        "sel_to": 52.0
+      },
+      {
+        "name": "Calafiori",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 39.8,
+        "news": "",
+        "chance": null,
+        "sel_from": 35.0,
+        "sel_to": 39.8
+      },
+      {
+        "name": "Mbeumo",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 8.0,
+        "sel": 38.9,
+        "news": "",
+        "chance": null,
+        "sel_from": 36.2,
+        "sel_to": 38.9
+      },
+      {
+        "name": "Calvert-Lewin",
+        "team": "LEE",
+        "pos": "FWD",
+        "cost": 6.0,
+        "sel": 31.4,
+        "news": "",
+        "chance": null,
+        "sel_from": 30.1,
+        "sel_to": 31.4
+      },
+      {
+        "name": "Tzolis",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 25.2,
+        "news": "",
+        "chance": null,
+        "sel_from": 21.7,
+        "sel_to": 25.2
+      },
+      {
+        "name": "Kinsky",
+        "team": "TOT",
+        "pos": "GKP",
+        "cost": 4.5,
+        "sel": 24.5,
+        "news": "",
+        "chance": null,
+        "sel_from": 23.2,
+        "sel_to": 24.5
+      },
+      {
+        "name": "Verbruggen",
+        "team": "BHA",
+        "pos": "GKP",
+        "cost": 4.5,
+        "sel": 22.0,
+        "news": "",
+        "chance": null,
+        "sel_from": 20.8,
+        "sel_to": 22.0
+      },
+      {
+        "name": "Maguire",
+        "team": "MUN",
+        "pos": "DEF",
+        "cost": 5.0,
+        "sel": 18.4,
+        "news": "",
+        "chance": null,
+        "sel_from": 16.3,
+        "sel_to": 18.4
+      },
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.0,
+        "sel": 10.8,
+        "news": "",
+        "chance": null,
+        "sel_from": 9.4,
+        "sel_to": 10.8
+      },
+      {
+        "name": "\u00d8degaard",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "sel": 8.3,
+        "news": "",
+        "chance": null,
+        "sel_from": 7.2,
+        "sel_to": 8.3
+      }
+    ]
   },
   "flagged": [
+    {
+      "name": "Pedro Porro",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 5.5,
+      "sel": 17.0,
+      "news": "Lack of match fitness - Expected back 29 Aug",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Van de Ven",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 5.0,
+      "sel": 5.5,
+      "news": "Unspecified injury - Expected back 29 Aug",
+      "chance": 0,
+      "status": "injured"
+    },
     {
       "name": "Bruno G.",
       "team": "ARS",
       "pos": "MID",
       "cost": 7.0,
-      "sel": 6.6,
+      "sel": 4.2,
       "news": "Thigh injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -33,18 +387,8 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 3.3,
-      "news": "Calf injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
-      "name": "Yates",
-      "team": "NFO",
-      "pos": "MID",
-      "cost": 4.5,
-      "sel": 3.0,
-      "news": "Unspecified injury - Unknown return date",
+      "sel": 2.0,
+      "news": "Calf injury - Expected back 5 Sep",
       "chance": 0,
       "status": "injured"
     },
@@ -53,8 +397,28 @@
       "team": "CRY",
       "pos": "GKP",
       "cost": 5.0,
-      "sel": 2.6,
+      "sel": 1.9,
       "news": "Ankle injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Yates",
+      "team": "NFO",
+      "pos": "MID",
+      "cost": 4.5,
+      "sel": 1.9,
+      "news": "Unspecified injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "\u0160e\u0161ko",
+      "team": "MUN",
+      "pos": "FWD",
+      "cost": 7.0,
+      "sel": 1.3,
+      "news": "Shin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -63,7 +427,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 6.0,
-      "sel": 1.7,
+      "sel": 1.2,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,37 +437,27 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 4.5,
-      "sel": 1.7,
+      "sel": 0.9,
       "news": "Has joined Internazionale permanently",
       "chance": 0,
       "status": "unavailable"
     },
     {
-      "name": "Matheus N.",
-      "team": "MCI",
-      "pos": "DEF",
-      "cost": 6.0,
-      "sel": 1.6,
-      "news": "Knock - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
-      "name": "\u0160e\u0161ko",
-      "team": "MUN",
+      "name": "Madjo",
+      "team": "AVL",
       "pos": "FWD",
-      "cost": 7.0,
-      "sel": 1.4,
-      "news": "Shin injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "cost": 5.5,
+      "sel": 0.5,
+      "news": "Unspecified injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Kroupi.Jr",
       "team": "BOU",
       "pos": "MID",
       "cost": 7.5,
-      "sel": 0.8,
+      "sel": 0.5,
       "news": "Foot injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -113,78 +467,18 @@
       "team": "HUL",
       "pos": "FWD",
       "cost": 4.5,
-      "sel": 0.7,
+      "sel": 0.4,
       "news": "Has joined Konyaspor permanently",
       "chance": 0,
       "status": "unavailable"
-    },
-    {
-      "name": "Madjo",
-      "team": "AVL",
-      "pos": "FWD",
-      "cost": 5.5,
-      "sel": 0.6,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Vicario",
       "team": "TOT",
       "pos": "GKP",
       "cost": 4.5,
-      "sel": 0.6,
+      "sel": 0.4,
       "news": "Has joined Juventus on loan for the rest of the season",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Nedeljkovic",
-      "team": "AVL",
-      "pos": "DEF",
-      "cost": 4.0,
-      "sel": 0.5,
-      "news": "Has joined Rangers on loan for the rest of the season",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Manzambi",
-      "team": "AVL",
-      "pos": "MID",
-      "cost": 6.0,
-      "sel": 0.4,
-      "news": "Knee injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Chalobah",
-      "team": "CHE",
-      "pos": "DEF",
-      "cost": 5.5,
-      "sel": 0.4,
-      "news": "Has joined Como permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Romero",
-      "team": "TOT",
-      "pos": "DEF",
-      "cost": 5.0,
-      "sel": 0.4,
-      "news": "Has joined Atletico Madrid permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Masuaku",
-      "team": "SUN",
-      "pos": "DEF",
-      "cost": 4.0,
-      "sel": 0.4,
-      "news": "Has joined Konyaspor permanently",
       "chance": 0,
       "status": "unavailable"
     },
@@ -199,11 +493,71 @@
       "status": "injured"
     },
     {
+      "name": "Nedeljkovic",
+      "team": "AVL",
+      "pos": "DEF",
+      "cost": 4.0,
+      "sel": 0.3,
+      "news": "Has joined Rangers on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Manzambi",
+      "team": "AVL",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.3,
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Hirst",
+      "team": "IPS",
+      "pos": "FWD",
+      "cost": 5.0,
+      "sel": 0.3,
+      "news": "Has joined Stoke City permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Romero",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 5.0,
+      "sel": 0.3,
+      "news": "Has joined Atletico Madrid permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "P.M.Sarr",
+      "team": "TOT",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.3,
+      "news": "Hamstring injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Masuaku",
+      "team": "SUN",
+      "pos": "DEF",
+      "cost": 4.0,
+      "sel": 0.3,
+      "news": "Has joined Konyaspor permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Soler",
       "team": "BOU",
       "pos": "DEF",
       "cost": 4.0,
-      "sel": 0.3,
+      "sel": 0.2,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -213,68 +567,8 @@
       "team": "BOU",
       "pos": "MID",
       "cost": 5.0,
-      "sel": 0.3,
+      "sel": 0.2,
       "news": "Unspecified injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
-      "name": "Wright",
-      "team": "COV",
-      "pos": "FWD",
-      "cost": 5.5,
-      "sel": 0.3,
-      "news": "Thigh injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Piroe",
-      "team": "LEE",
-      "pos": "FWD",
-      "cost": 5.0,
-      "sel": 0.3,
-      "news": "Has joined West Ham United on loan for the rest of the season",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Patterson",
-      "team": "SUN",
-      "pos": "GKP",
-      "cost": 4.0,
-      "sel": 0.3,
-      "news": "Has joined Wrexham permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "J.Timber",
-      "team": "ARS",
-      "pos": "DEF",
-      "cost": 6.5,
-      "sel": 0.2,
-      "news": "Groin injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Digne",
-      "team": "AVL",
-      "pos": "DEF",
-      "cost": 4.5,
-      "sel": 0.2,
-      "news": "Has joined Paris Saint-Germain permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Abraham",
-      "team": "AVL",
-      "pos": "FWD",
-      "cost": 5.5,
-      "sel": 0.2,
-      "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -284,17 +578,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "sel": 0.2,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Minteh",
-      "team": "BHA",
-      "pos": "MID",
-      "cost": 6.0,
-      "sel": 0.2,
-      "news": "Leg injury - Expected back 28 Nov",
+      "news": "Groin injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
@@ -304,49 +588,39 @@
       "pos": "MID",
       "cost": 5.0,
       "sel": 0.2,
-      "news": "Ankle injury - Expected back 23 Aug",
+      "news": "Ankle injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
     {
-      "name": "N\u00f8rgaard",
-      "team": "EVE",
-      "pos": "MID",
+      "name": "Chalobah",
+      "team": "CHE",
+      "pos": "DEF",
+      "cost": 5.5,
+      "sel": 0.2,
+      "news": "Has joined Como permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Wright",
+      "team": "COV",
+      "pos": "FWD",
+      "cost": 5.5,
+      "sel": 0.2,
+      "news": "Thigh injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Piroe",
+      "team": "LEE",
+      "pos": "FWD",
       "cost": 5.0,
       "sel": 0.2,
-      "news": "Unspecified injury - 25% chance of playing",
-      "chance": 25,
-      "status": "doubtful"
-    },
-    {
-      "name": "Garner",
-      "team": "EVE",
-      "pos": "MID",
-      "cost": 6.0,
-      "sel": 0.2,
-      "news": "Groin injury - Unknown return date",
+      "news": "Has joined West Ham United on loan for the rest of the season",
       "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Butland",
-      "team": "HUL",
-      "pos": "GKP",
-      "cost": 4.5,
-      "sel": 0.2,
-      "news": "Arm injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Hughes",
-      "team": "HUL",
-      "pos": "DEF",
-      "cost": 4.0,
-      "sel": 0.2,
-      "news": "Groin injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
+      "status": "unavailable"
     },
     {
       "name": "Ekitik\u00e9",
@@ -359,34 +633,34 @@
       "status": "injured"
     },
     {
-      "name": "Reijnders",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 6.0,
-      "sel": 0.2,
-      "news": "Has joined Al Qadsiah permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "A.Murphy",
-      "team": "NEW",
-      "pos": "DEF",
+      "name": "Patterson",
+      "team": "SUN",
+      "pos": "GKP",
       "cost": 4.0,
       "sel": 0.2,
-      "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
+      "news": "Has joined Wrexham permanently",
       "chance": 0,
       "status": "unavailable"
     },
     {
-      "name": "Adingra",
-      "team": "SUN",
-      "pos": "MID",
-      "cost": 5.0,
-      "sel": 0.2,
-      "news": "Ankle injury - Unknown return date",
+      "name": "J.Timber",
+      "team": "ARS",
+      "pos": "DEF",
+      "cost": 6.5,
+      "sel": 0.1,
+      "news": "Groin injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Digne",
+      "team": "AVL",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.1,
+      "news": "Has joined Paris Saint-Germain permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Gomes",
@@ -399,6 +673,16 @@
       "status": "injured"
     },
     {
+      "name": "Abraham",
+      "team": "AVL",
+      "pos": "FWD",
+      "cost": 5.5,
+      "sel": 0.1,
+      "news": "Knock - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Brooks",
       "team": "BOU",
       "pos": "MID",
@@ -407,16 +691,6 @@
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
-    },
-    {
-      "name": "Enes \u00dcnal",
-      "team": "BOU",
-      "pos": "FWD",
-      "cost": 5.5,
-      "sel": 0.1,
-      "news": "Has joined Getafe permanently",
-      "chance": 0,
-      "status": "unavailable"
     },
     {
       "name": "Rodr\u00edguez",
@@ -439,6 +713,16 @@
       "status": "injured"
     },
     {
+      "name": "Minteh",
+      "team": "BHA",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.1,
+      "news": "Leg injury - Expected back 28 Nov",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Howell",
       "team": "BHA",
       "pos": "MID",
@@ -449,24 +733,44 @@
       "status": "unavailable"
     },
     {
-      "name": "Bassette",
-      "team": "COV",
-      "pos": "FWD",
-      "cost": 4.5,
+      "name": "N\u00f8rgaard",
+      "team": "EVE",
+      "pos": "MID",
+      "cost": 5.0,
       "sel": 0.1,
-      "news": "Has joined KVC Westerlo on loan for the rest of the season",
+      "news": "Unspecified injury - Unknown return date",
       "chance": 0,
-      "status": "unavailable"
+      "status": "injured"
     },
     {
-      "name": "Lo-Tutala",
+      "name": "Garner",
+      "team": "EVE",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.1,
+      "news": "Groin injury - 25% chance of playing",
+      "chance": 25,
+      "status": "doubtful"
+    },
+    {
+      "name": "Butland",
       "team": "HUL",
       "pos": "GKP",
+      "cost": 4.5,
+      "sel": 0.1,
+      "news": "Arm injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Hughes",
+      "team": "HUL",
+      "pos": "DEF",
       "cost": 4.0,
       "sel": 0.1,
-      "news": "Has joined Colchester United on loan for the rest of the season",
+      "news": "Groin injury - Unknown return date",
       "chance": 0,
-      "status": "unavailable"
+      "status": "injured"
     },
     {
       "name": "Zambrano",
@@ -487,16 +791,6 @@
       "news": "Has joined Sheffield Wednesday on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
-    },
-    {
-      "name": "Taylor",
-      "team": "IPS",
-      "pos": "MID",
-      "cost": 4.5,
-      "sel": 0.1,
-      "news": "Knee injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Gudmundsson",
@@ -529,6 +823,16 @@
       "status": "doubtful"
     },
     {
+      "name": "Reijnders",
+      "team": "MCI",
+      "pos": "MID",
+      "cost": 6.0,
+      "sel": 0.1,
+      "news": "Has joined Al Qadsiah permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Heaton",
       "team": "MUN",
       "pos": "GKP",
@@ -539,24 +843,14 @@
       "status": "injured"
     },
     {
-      "name": "Livramento",
+      "name": "A.Murphy",
       "team": "NEW",
       "pos": "DEF",
-      "cost": 5.0,
+      "cost": 4.0,
       "sel": 0.1,
-      "news": "Calf injury - Unknown return date",
+      "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
       "chance": 0,
-      "status": "injured"
-    },
-    {
-      "name": "Joelinton",
-      "team": "NEW",
-      "pos": "MID",
-      "cost": 5.5,
-      "sel": 0.1,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
+      "status": "unavailable"
     },
     {
       "name": "Kudus",
@@ -564,8 +858,8 @@
       "pos": "MID",
       "cost": 6.5,
       "sel": 0.1,
-      "news": "Thigh injury - 75% chance of playing",
-      "chance": 75,
+      "news": "Thigh injury - 25% chance of playing",
+      "chance": 25,
       "status": "doubtful"
     },
     {
@@ -577,6 +871,16 @@
       "news": "Has joined KV Mechelen on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Adingra",
+      "team": "SUN",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.1,
+      "news": "Ankle injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Onana",
@@ -639,6 +943,16 @@
       "status": "injured"
     },
     {
+      "name": "Enes \u00dcnal",
+      "team": "BOU",
+      "pos": "FWD",
+      "cost": 5.5,
+      "sel": 0.0,
+      "news": "Has joined Getafe permanently",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Milambo",
       "team": "BRE",
       "pos": "MID",
@@ -684,9 +998,9 @@
       "pos": "FWD",
       "cost": 5.5,
       "sel": 0.0,
-      "news": "Knee injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Ferguson",
@@ -739,6 +1053,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Bassette",
+      "team": "COV",
+      "pos": "FWD",
+      "cost": 4.5,
+      "sel": 0.0,
+      "news": "Has joined KVC Westerlo on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Cardines",
       "team": "CRY",
       "pos": "DEF",
@@ -764,7 +1088,7 @@
       "pos": "MID",
       "cost": 5.0,
       "sel": 0.0,
-      "news": "Groin injury - Unknown return date",
+      "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
@@ -799,14 +1123,14 @@
       "status": "unavailable"
     },
     {
-      "name": "Drameh",
+      "name": "Lo-Tutala",
       "team": "HUL",
-      "pos": "DEF",
+      "pos": "GKP",
       "cost": 4.0,
       "sel": 0.0,
-      "news": "Hamstring injury - Expected back 29 Aug",
+      "news": "Has joined Colchester United on loan for the rest of the season",
       "chance": 0,
-      "status": "injured"
+      "status": "unavailable"
     },
     {
       "name": "Jacob",
@@ -814,9 +1138,9 @@
       "pos": "DEF",
       "cost": 4.0,
       "sel": 0.0,
-      "news": "Hip injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "news": "Hip injury - Expected back 29 Aug",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Matazo",
@@ -887,6 +1211,16 @@
       "news": "Has joined Leicester City permanently",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Taylor",
+      "team": "IPS",
+      "pos": "MID",
+      "cost": 4.5,
+      "sel": 0.0,
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Szmodics",
@@ -1099,6 +1433,26 @@
       "status": "injured"
     },
     {
+      "name": "Livramento",
+      "team": "NEW",
+      "pos": "DEF",
+      "cost": 5.0,
+      "sel": 0.0,
+      "news": "Calf injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Joelinton",
+      "team": "NEW",
+      "pos": "MID",
+      "cost": 5.5,
+      "sel": 0.0,
+      "news": "Unspecified injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Savona",
       "team": "NFO",
       "pos": "DEF",
@@ -1149,183 +1503,126 @@
       "status": "injured"
     }
   ],
-  "in_form": [],
+  "in_form": [
+    {
+      "name": "White",
+      "team": "ARS",
+      "pos": "DEF",
+      "cost": 5.5,
+      "form": 11.0,
+      "sel": 4.5,
+      "xgi90": 0.39,
+      "ep_next": 2.5
+    },
+    {
+      "name": "Raya",
+      "team": "ARS",
+      "pos": "GKP",
+      "cost": 6.0,
+      "form": 6.0,
+      "sel": 37.6,
+      "xgi90": 0.0,
+      "ep_next": 4.0
+    },
+    {
+      "name": "Mosquera",
+      "team": "ARS",
+      "pos": "DEF",
+      "cost": 5.5,
+      "form": 6.0,
+      "sel": 6.3,
+      "xgi90": 0.0,
+      "ep_next": 2.5
+    },
+    {
+      "name": "Havertz",
+      "team": "ARS",
+      "pos": "FWD",
+      "cost": 7.5,
+      "form": 6.0,
+      "sel": 5.5,
+      "xgi90": 0.29,
+      "ep_next": 2.4
+    },
+    {
+      "name": "Gabriel",
+      "team": "ARS",
+      "pos": "DEF",
+      "cost": 8.0,
+      "form": 5.0,
+      "sel": 29.7,
+      "xgi90": 0.06,
+      "ep_next": 4.0
+    }
+  ],
   "fixtures": {
-    "LIV": {
+    "NEW": {
       "fixtures": [
         {
-          "gw": 1,
-          "opp": "NEW",
-          "home": false,
-          "fdr": 3
-        },
-        {
           "gw": 2,
-          "opp": "NFO",
-          "home": true,
+          "opp": "TOT",
+          "home": false,
           "fdr": 3
         },
         {
           "gw": 3,
-          "opp": "IPS",
-          "home": false,
-          "fdr": 2
+          "opp": "BOU",
+          "home": true,
+          "fdr": 3
         },
         {
           "gw": 4,
-          "opp": "FUL",
+          "opp": "LEE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "HUL",
           "home": true,
           "fdr": 2
         },
         {
-          "gw": 5,
-          "opp": "BOU",
+          "gw": 6,
+          "opp": "COV",
           "home": false,
-          "fdr": 3
+          "fdr": 2
         }
       ],
       "avg_fdr": 2.6,
       "games": 5
     },
-    "MUN": {
+    "LIV": {
       "fixtures": [
         {
-          "gw": 1,
-          "opp": "HUL",
+          "gw": 2,
+          "opp": "NFO",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 3,
+          "opp": "IPS",
           "home": false,
           "fdr": 2
         },
         {
-          "gw": 2,
-          "opp": "IPS",
+          "gw": 4,
+          "opp": "FUL",
           "home": true,
           "fdr": 2
         },
         {
-          "gw": 3,
-          "opp": "EVE",
+          "gw": 5,
+          "opp": "BOU",
           "home": false,
           "fdr": 3
         },
         {
-          "gw": 4,
+          "gw": 6,
           "opp": "MCI",
           "home": true,
           "fdr": 4
-        },
-        {
-          "gw": 5,
-          "opp": "FUL",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 2.8,
-      "games": 5
-    },
-    "LEE": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "NFO",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 2,
-          "opp": "BRE",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 3,
-          "opp": "BHA",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 4,
-          "opp": "NEW",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 5,
-          "opp": "CRY",
-          "home": true,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 2.8,
-      "games": 5
-    },
-    "TOT": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "BRE",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 2,
-          "opp": "NEW",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 3,
-          "opp": "NFO",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 4,
-          "opp": "EVE",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "AVL",
-          "home": true,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 2.8,
-      "games": 5
-    },
-    "MCI": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "BOU",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 2,
-          "opp": "CRY",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 3,
-          "opp": "COV",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 4,
-          "opp": "MUN",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 5,
-          "opp": "SUN",
-          "home": true,
-          "fdr": 2
         }
       ],
       "avg_fdr": 2.8,
@@ -1333,12 +1630,6 @@
     },
     "EVE": {
       "fixtures": [
-        {
-          "gw": 1,
-          "opp": "CRY",
-          "home": true,
-          "fdr": 3
-        },
         {
           "gw": 2,
           "opp": "BOU",
@@ -1362,19 +1653,55 @@
           "opp": "IPS",
           "home": true,
           "fdr": 2
+        },
+        {
+          "gw": 6,
+          "opp": "HUL",
+          "home": false,
+          "fdr": 2
         }
       ],
-      "avg_fdr": 3.0,
+      "avg_fdr": 2.8,
+      "games": 5
+    },
+    "COV": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "HUL",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 3,
+          "opp": "MCI",
+          "home": false,
+          "fdr": 5
+        },
+        {
+          "gw": 4,
+          "opp": "BHA",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 5,
+          "opp": "NFO",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "NEW",
+          "home": true,
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.8,
       "games": 5
     },
     "CRY": {
       "fixtures": [
-        {
-          "gw": 1,
-          "opp": "EVE",
-          "home": false,
-          "fdr": 3
-        },
         {
           "gw": 2,
           "opp": "MCI",
@@ -1397,6 +1724,264 @@
           "gw": 5,
           "opp": "LEE",
           "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "NFO",
+          "home": true,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "MCI": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "CRY",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 3,
+          "opp": "COV",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 4,
+          "opp": "MUN",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 5,
+          "opp": "SUN",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 6,
+          "opp": "LIV",
+          "home": false,
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "HUL": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "COV",
+          "home": false,
+          "fdr": 2
+        },
+        {
+          "gw": 3,
+          "opp": "AVL",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 4,
+          "opp": "CHE",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 5,
+          "opp": "NEW",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "EVE",
+          "home": true,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "TOT": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "NEW",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 3,
+          "opp": "NFO",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 4,
+          "opp": "EVE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "AVL",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "MUN",
+          "home": false,
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "CHE": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "BHA",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 3,
+          "opp": "ARS",
+          "home": false,
+          "fdr": 5
+        },
+        {
+          "gw": 4,
+          "opp": "HUL",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 5,
+          "opp": "BRE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "BOU",
+          "home": true,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "BHA": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "CHE",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 3,
+          "opp": "LEE",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 4,
+          "opp": "COV",
+          "home": false,
+          "fdr": 2
+        },
+        {
+          "gw": 5,
+          "opp": "ARS",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 6,
+          "opp": "SUN",
+          "home": false,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "MUN": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "IPS",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 3,
+          "opp": "EVE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 4,
+          "opp": "MCI",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 5,
+          "opp": "FUL",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "TOT",
+          "home": true,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "AVL": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "ARS",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 3,
+          "opp": "HUL",
+          "home": false,
+          "fdr": 2
+        },
+        {
+          "gw": 4,
+          "opp": "NFO",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "TOT",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "BRE",
+          "home": true,
           "fdr": 3
         }
       ],
@@ -1406,12 +1991,6 @@
     "NFO": {
       "fixtures": [
         {
-          "gw": 1,
-          "opp": "LEE",
-          "home": true,
-          "fdr": 2
-        },
-        {
           "gw": 2,
           "opp": "LIV",
           "home": false,
@@ -1434,20 +2013,56 @@
           "opp": "COV",
           "home": true,
           "fdr": 2
+        },
+        {
+          "gw": 6,
+          "opp": "CRY",
+          "home": false,
+          "fdr": 3
         }
       ],
-      "avg_fdr": 3.0,
+      "avg_fdr": 3.2,
+      "games": 5
+    },
+    "LEE": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "BRE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 3,
+          "opp": "BHA",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 4,
+          "opp": "NEW",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 5,
+          "opp": "CRY",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "ARS",
+          "home": false,
+          "fdr": 5
+        }
+      ],
+      "avg_fdr": 3.2,
       "games": 5
     },
     "BRE": {
       "fixtures": [
         {
-          "gw": 1,
-          "opp": "TOT",
-          "home": true,
-          "fdr": 3
-        },
-        {
           "gw": 2,
           "opp": "LEE",
           "home": false,
@@ -1470,258 +2085,12 @@
           "opp": "CHE",
           "home": true,
           "fdr": 4
-        }
-      ],
-      "avg_fdr": 3.0,
-      "games": 5
-    },
-    "BHA": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "AVL",
-          "home": true,
-          "fdr": 3
         },
         {
-          "gw": 2,
-          "opp": "CHE",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 3,
-          "opp": "LEE",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 4,
-          "opp": "COV",
-          "home": false,
-          "fdr": 2
-        },
-        {
-          "gw": 5,
-          "opp": "ARS",
-          "home": true,
-          "fdr": 4
-        }
-      ],
-      "avg_fdr": 3.0,
-      "games": 5
-    },
-    "AVL": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "BHA",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 2,
-          "opp": "ARS",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 3,
-          "opp": "HUL",
-          "home": false,
-          "fdr": 2
-        },
-        {
-          "gw": 4,
-          "opp": "NFO",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "TOT",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.0,
-      "games": 5
-    },
-    "NEW": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "LIV",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 2,
-          "opp": "TOT",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 3,
-          "opp": "BOU",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 4,
-          "opp": "LEE",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "HUL",
-          "home": true,
-          "fdr": 2
-        }
-      ],
-      "avg_fdr": 3.0,
-      "games": 5
-    },
-    "CHE": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "FUL",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 2,
-          "opp": "BHA",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 3,
-          "opp": "ARS",
-          "home": false,
-          "fdr": 5
-        },
-        {
-          "gw": 4,
-          "opp": "HUL",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 5,
-          "opp": "BRE",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.0,
-      "games": 5
-    },
-    "ARS": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "COV",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 2,
+          "gw": 6,
           "opp": "AVL",
           "home": false,
           "fdr": 4
-        },
-        {
-          "gw": 3,
-          "opp": "CHE",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 4,
-          "opp": "SUN",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "BHA",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.2,
-      "games": 5
-    },
-    "HUL": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "MUN",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 2,
-          "opp": "COV",
-          "home": false,
-          "fdr": 2
-        },
-        {
-          "gw": 3,
-          "opp": "AVL",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 4,
-          "opp": "CHE",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 5,
-          "opp": "NEW",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.2,
-      "games": 5
-    },
-    "IPS": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "SUN",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 2,
-          "opp": "MUN",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 3,
-          "opp": "LIV",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 4,
-          "opp": "CRY",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "EVE",
-          "home": false,
-          "fdr": 3
         }
       ],
       "avg_fdr": 3.2,
@@ -1730,12 +2099,6 @@
     "SUN": {
       "fixtures": [
         {
-          "gw": 1,
-          "opp": "IPS",
-          "home": false,
-          "fdr": 2
-        },
-        {
           "gw": 2,
           "opp": "FUL",
           "home": true,
@@ -1758,91 +2121,19 @@
           "opp": "MCI",
           "home": false,
           "fdr": 5
+        },
+        {
+          "gw": 6,
+          "opp": "BHA",
+          "home": true,
+          "fdr": 2
         }
       ],
       "avg_fdr": 3.2,
       "games": 5
     },
-    "COV": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "ARS",
-          "home": false,
-          "fdr": 5
-        },
-        {
-          "gw": 2,
-          "opp": "HUL",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 3,
-          "opp": "MCI",
-          "home": false,
-          "fdr": 5
-        },
-        {
-          "gw": 4,
-          "opp": "BHA",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 5,
-          "opp": "NFO",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.4,
-      "games": 5
-    },
-    "BOU": {
-      "fixtures": [
-        {
-          "gw": 1,
-          "opp": "MCI",
-          "home": false,
-          "fdr": 5
-        },
-        {
-          "gw": 2,
-          "opp": "EVE",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 3,
-          "opp": "NEW",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 4,
-          "opp": "BRE",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 5,
-          "opp": "LIV",
-          "home": true,
-          "fdr": 4
-        }
-      ],
-      "avg_fdr": 3.6,
-      "games": 5
-    },
     "FUL": {
       "fixtures": [
-        {
-          "gw": 1,
-          "opp": "CHE",
-          "home": true,
-          "fdr": 4
-        },
         {
           "gw": 2,
           "opp": "SUN",
@@ -1866,24 +2157,380 @@
           "opp": "MUN",
           "home": true,
           "fdr": 4
+        },
+        {
+          "gw": 6,
+          "opp": "IPS",
+          "home": false,
+          "fdr": 2
         }
       ],
-      "avg_fdr": 3.6,
+      "avg_fdr": 3.2,
+      "games": 5
+    },
+    "IPS": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "MUN",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 3,
+          "opp": "LIV",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 4,
+          "opp": "CRY",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "EVE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "FUL",
+          "home": true,
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 3.2,
+      "games": 5
+    },
+    "ARS": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "AVL",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 3,
+          "opp": "CHE",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 4,
+          "opp": "SUN",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "BHA",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 6,
+          "opp": "LEE",
+          "home": true,
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 3.2,
+      "games": 5
+    },
+    "BOU": {
+      "fixtures": [
+        {
+          "gw": 2,
+          "opp": "EVE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 3,
+          "opp": "NEW",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 4,
+          "opp": "BRE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 5,
+          "opp": "LIV",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 6,
+          "opp": "CHE",
+          "home": false,
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.4,
       "games": 5
     }
   },
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": null,
-    "total_points": null,
+    "overall_rank": 2687572,
+    "total_points": 15,
     "bank": 0.0,
-    "value": 0.0,
-    "picks": []
+    "value": 100.0,
+    "picks": [
+      {
+        "name": "Verbruggen",
+        "team": "BHA",
+        "pos": "GKP",
+        "cost": 4.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 22.0,
+        "ep_next": 1.9,
+        "slot": 1,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Calafiori",
+        "team": "ARS",
+        "pos": "DEF",
+        "cost": 5.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 9.0,
+        "sel": 39.8,
+        "ep_next": 2.5,
+        "slot": 2,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.0,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 10.8,
+        "ep_next": 2.2,
+        "slot": 3,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Shaw",
+        "team": "MUN",
+        "pos": "DEF",
+        "cost": 4.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 21.6,
+        "ep_next": 1.7,
+        "slot": 4,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "B.Fernandes",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 12.0,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 52.0,
+        "ep_next": 4.0,
+        "slot": 5,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Mbeumo",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 8.0,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 38.9,
+        "ep_next": 2.8,
+        "slot": 6,
+        "captain": false,
+        "vice": true,
+        "starting": true
+      },
+      {
+        "name": "E.Le F\u00e9e",
+        "team": "SUN",
+        "pos": "MID",
+        "cost": 6.0,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 10.4,
+        "ep_next": 2.1,
+        "slot": 7,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Tzolis",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 6.0,
+        "sel": 25.2,
+        "ep_next": 2.3,
+        "slot": 8,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Calvert-Lewin",
+        "team": "LEE",
+        "pos": "FWD",
+        "cost": 6.0,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 31.4,
+        "ep_next": 2.0,
+        "slot": 9,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Haaland",
+        "team": "MCI",
+        "pos": "FWD",
+        "cost": 15.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 69.4,
+        "ep_next": 4.0,
+        "slot": 10,
+        "captain": true,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Jo\u00e3o Pedro",
+        "team": "CHE",
+        "pos": "FWD",
+        "cost": 7.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 64.4,
+        "ep_next": 2.4,
+        "slot": 11,
+        "captain": false,
+        "vice": false,
+        "starting": true
+      },
+      {
+        "name": "Kinsky",
+        "team": "TOT",
+        "pos": "GKP",
+        "cost": 4.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 24.5,
+        "ep_next": 1.9,
+        "slot": 12,
+        "captain": false,
+        "vice": false,
+        "starting": false
+      },
+      {
+        "name": "Rodon",
+        "team": "LEE",
+        "pos": "DEF",
+        "cost": 4.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 3.7,
+        "ep_next": 1.7,
+        "slot": 13,
+        "captain": false,
+        "vice": false,
+        "starting": false
+      },
+      {
+        "name": "Gro\u00df",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 5.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 14.5,
+        "ep_next": 2.0,
+        "slot": 14,
+        "captain": false,
+        "vice": false,
+        "starting": false
+      },
+      {
+        "name": "Hume",
+        "team": "SUN",
+        "pos": "DEF",
+        "cost": 4.5,
+        "status": "a",
+        "news": "",
+        "chance": null,
+        "form": 0.0,
+        "sel": 7.1,
+        "ep_next": 1.7,
+        "slot": 15,
+        "captain": false,
+        "vice": false,
+        "starting": false
+      }
+    ],
+    "chips_used": "bboost"
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-21T07:24:11.264126+00:00",
+    "collected_at": "2026-08-22T02:08:31.709019+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
@@ -1902,41 +2549,71 @@
       "@fpl_tactician": "tactical and fixture discussion",
       "@FFScout": "Fantasy Football Scout (subscription site)"
     },
-    "post_count": 3,
+    "post_count": 6,
     "high_signal": [
       {
         "handle": "fplgeneral.bsky.social",
-        "text": "Bench Boost active \ud83d\udc4c",
-        "at": "2026-08-20T09:04:05.315Z",
-        "likes": 13,
+        "text": "Just shared my current Gw1 team on my Patreon page\n\nWill be posting an update before deadline later\n\nJust a couple of spots to finalise\n\nIt's almost time to rock & roll \ud83d\udd7a\n\nwww.patreon.com/fplgeneral/p...",
+        "at": "2026-08-21T12:28:25.516Z",
+        "likes": 4,
         "reposts": 0,
-        "replies": 1,
+        "replies": 0,
         "signal": [
-          "bench boost"
+          "deadline"
         ],
-        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtivaok5622s"
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtlr4ya6xk2e"
       }
     ],
     "other": [
       {
         "handle": "fplgeneral.bsky.social",
-        "text": "Streaming @ 9pm tonight to finalise my Gw1 team (hopefully!). \n\nUse the code ERLING for a 59% discount (first month)\n\nPatreon.com/fplgeneral",
-        "at": "2026-08-20T18:28:21.180Z",
-        "likes": 1,
+        "text": "End the season now!",
+        "at": "2026-08-21T20:21:20.546Z",
+        "likes": 54,
         "reposts": 0,
         "replies": 1,
         "signal": [],
-        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtjurnyqn22x"
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtmlkmrpws26"
       },
       {
         "handle": "fplgeneral.bsky.social",
-        "text": "Send across your Qs for Friday's 59th Minute Podcast \ud83d\udc47\ud83c\udf99",
-        "at": "2026-08-20T08:25:10.498Z",
-        "likes": 0,
+        "text": "BB Troops for Gw1 \ud83e\ude96\ud83e\ude96\ud83e\ude96\n\nLet's have a great season folks!",
+        "at": "2026-08-21T17:30:46.748Z",
+        "likes": 39,
         "reposts": 0,
-        "replies": 4,
+        "replies": 1,
         "signal": [],
-        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtit33utp22n"
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtmbzn32js2a"
+      },
+      {
+        "handle": "fplgeneral.bsky.social",
+        "text": "What a day to spot this \ud83e\udd73",
+        "at": "2026-08-21T07:55:38.012Z",
+        "likes": 29,
+        "reposts": 0,
+        "replies": 1,
+        "signal": [],
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtlbv6xv4s2p"
+      },
+      {
+        "handle": "fplgeneral.bsky.social",
+        "text": "\ud83c\udf99 New Episode \ud83c\udf99\n\nMy Final Thoughts ahead of the new season \ud83e\udd73\n\nopen.spotify.com/episode/6NAW...",
+        "at": "2026-08-21T10:06:31.104Z",
+        "likes": 5,
+        "reposts": 2,
+        "replies": 0,
+        "signal": [],
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtlj7abbb22r"
+      },
+      {
+        "handle": "fplgeneral.bsky.social",
+        "text": "Gw1 Team News (free to read) \u2611\ufe0f #FPL \n\nwww.patreon.com/fplgeneral/p...",
+        "at": "2026-08-21T14:13:59.726Z",
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1,
+        "signal": [],
+        "url": "https://bsky.app/profile/fplgeneral.bsky.social/post/3mtlwzqyuxk2d"
       }
     ]
   }
