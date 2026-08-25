@@ -1,187 +1,21 @@
 {
-  "generated_at": "2026-08-25T02:11:25.630711+00:00",
+  "generated_at": "2026-08-25T07:24:56.199366+00:00",
   "next_gw": 2,
   "deadline": "2026-08-28T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 610,
     "flagged": 119,
-    "managers": 9569156
+    "managers": 9583327
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Palmer",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 9.5,
-        "sel": 11.7,
-        "news": "Calf injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Gibbs-White",
-        "team": "NFO",
-        "pos": "MID",
-        "cost": 8.0,
-        "sel": 10.6,
-        "news": "Knee injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Caicedo",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 3.7,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Palestra",
-        "team": "CHE",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 2.8,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Welbeck",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 6.0,
-        "sel": 1.1,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Fofana",
-        "team": "CHE",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Andersen",
-        "team": "FUL",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "recovered": [],
     "price_rises": [],
     "price_falls": [],
-    "form_risers": [
-      {
-        "name": "Palmer",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 9.5,
-        "sel": 11.7,
-        "news": "Calf injury - 75% chance of playing",
-        "chance": 75,
-        "form_from": 0.0,
-        "form_to": 13.0
-      },
-      {
-        "name": "Jo\u00e3o Pedro",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 7.5,
-        "sel": 64.9,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 11.0
-      },
-      {
-        "name": "Rogers",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 7.5,
-        "sel": 25.0,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 8.0
-      },
-      {
-        "name": "King",
-        "team": "FUL",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.3,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 7.0
-      },
-      {
-        "name": "Lacroix",
-        "team": "CHE",
-        "pos": "DEF",
-        "cost": 6.0,
-        "sel": 9.2,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 6.0
-      },
-      {
-        "name": "Castagne",
-        "team": "FUL",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 0.3,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 6.0
-      },
-      {
-        "name": "Gonzalo",
-        "team": "FUL",
-        "pos": "FWD",
-        "cost": 6.0,
-        "sel": 2.4,
-        "news": "",
-        "chance": null,
-        "form_from": 0.0,
-        "form_to": 6.0
-      }
-    ],
-    "ownership_surges": [
-      {
-        "name": "Palmer",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 9.5,
-        "sel": 11.7,
-        "news": "Calf injury - 75% chance of playing",
-        "chance": 75,
-        "sel_from": 10.7,
-        "sel_to": 11.7
-      },
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 4.4,
-        "news": "",
-        "chance": null,
-        "sel_from": 2.9,
-        "sel_to": 4.4
-      }
-    ]
+    "form_risers": [],
+    "ownership_surges": []
   },
   "flagged": [
     {
@@ -189,7 +23,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 14.5,
+      "sel": 14.3,
       "news": "Lack of match fitness - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -199,7 +33,7 @@
       "team": "CHE",
       "pos": "MID",
       "cost": 9.5,
-      "sel": 11.7,
+      "sel": 11.9,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -209,7 +43,7 @@
       "team": "NFO",
       "pos": "MID",
       "cost": 8.0,
-      "sel": 10.6,
+      "sel": 10.5,
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -219,7 +53,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 6.5,
-      "sel": 7.1,
+      "sel": 7.0,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -229,19 +63,9 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 5.0,
-      "sel": 4.6,
+      "sel": 4.5,
       "news": "Unspecified injury - 50% chance of playing",
       "chance": 50,
-      "status": "doubtful"
-    },
-    {
-      "name": "Caicedo",
-      "team": "CHE",
-      "pos": "MID",
-      "cost": 5.5,
-      "sel": 3.7,
-      "news": "Unspecified injury - 75% chance of playing",
-      "chance": 75,
       "status": "doubtful"
     },
     {
@@ -251,6 +75,16 @@
       "cost": 6.5,
       "sel": 3.7,
       "news": "Groin injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Caicedo",
+      "team": "CHE",
+      "pos": "MID",
+      "cost": 5.5,
+      "sel": 3.6,
+      "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -269,7 +103,7 @@
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 2.8,
+      "sel": 2.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -1392,7 +1226,7 @@
       "pos": "MID",
       "cost": 7.0,
       "form": 12.0,
-      "sel": 4.6,
+      "sel": 4.7,
       "xgi90": 0.45,
       "ep_next": 2.5
     },
@@ -1412,7 +1246,7 @@
       "pos": "FWD",
       "cost": 7.5,
       "form": 11.0,
-      "sel": 64.9,
+      "sel": 65.2,
       "xgi90": 0.69,
       "ep_next": 2.4
     },
@@ -1482,7 +1316,7 @@
       "pos": "DEF",
       "cost": 6.0,
       "form": 10.0,
-      "sel": 18.2,
+      "sel": 18.3,
       "xgi90": 1.21,
       "ep_next": 2.8
     },
@@ -1492,7 +1326,7 @@
       "pos": "MID",
       "cost": 5.0,
       "form": 9.0,
-      "sel": 0.2,
+      "sel": 0.3,
       "xgi90": 0.56,
       "ep_next": 1.5
     },
@@ -1502,7 +1336,7 @@
       "pos": "MID",
       "cost": 6.0,
       "form": 9.0,
-      "sel": 16.0,
+      "sel": 16.1,
       "xgi90": 0.56,
       "ep_next": 2.2
     },
@@ -1522,7 +1356,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 9.0,
-      "sel": 12.2,
+      "sel": 12.4,
       "xgi90": 0.24,
       "ep_next": 2.5
     },
@@ -1542,7 +1376,7 @@
       "pos": "DEF",
       "cost": 4.5,
       "form": 8.0,
-      "sel": 3.7,
+      "sel": 3.8,
       "xgi90": 0.13,
       "ep_next": 1.7
     },
@@ -1572,7 +1406,7 @@
       "pos": "MID",
       "cost": 7.0,
       "form": 8.0,
-      "sel": 42.4,
+      "sel": 42.5,
       "xgi90": 1.12,
       "ep_next": 2.5
     },
@@ -1622,7 +1456,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 6.0,
-      "sel": 6.1,
+      "sel": 6.0,
       "xgi90": 0.0,
       "ep_next": 2.5
     },
@@ -1632,7 +1466,7 @@
       "pos": "FWD",
       "cost": 7.5,
       "form": 6.0,
-      "sel": 6.7,
+      "sel": 6.8,
       "xgi90": 0.29,
       "ep_next": 2.4
     },
@@ -1652,7 +1486,7 @@
       "pos": "GKP",
       "cost": 4.5,
       "form": 6.0,
-      "sel": 21.6,
+      "sel": 21.7,
       "xgi90": 0.0,
       "ep_next": 1.9
     },
@@ -2402,7 +2236,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 2018811,
+    "overall_rank": 2018808,
     "total_points": 57,
     "bank": 0.0,
     "value": 100.0,
@@ -2416,7 +2250,7 @@
         "news": "",
         "chance": null,
         "form": 6.0,
-        "sel": 21.6,
+        "sel": 21.7,
         "ep_next": 1.9,
         "slot": 1,
         "captain": false,
@@ -2432,7 +2266,7 @@
         "news": "",
         "chance": null,
         "form": 9.0,
-        "sel": 40.8,
+        "sel": 40.9,
         "ep_next": 2.5,
         "slot": 2,
         "captain": false,
@@ -2448,7 +2282,7 @@
         "news": "",
         "chance": null,
         "form": 1.0,
-        "sel": 10.3,
+        "sel": 10.2,
         "ep_next": 2.2,
         "slot": 3,
         "captain": false,
@@ -2464,7 +2298,7 @@
         "news": "",
         "chance": null,
         "form": 1.0,
-        "sel": 20.5,
+        "sel": 20.4,
         "ep_next": 1.7,
         "slot": 4,
         "captain": false,
@@ -2480,7 +2314,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 50.1,
+        "sel": 50.0,
         "ep_next": 4.0,
         "slot": 5,
         "captain": false,
@@ -2496,7 +2330,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 37.3,
+        "sel": 37.2,
         "ep_next": 2.8,
         "slot": 6,
         "captain": false,
@@ -2544,7 +2378,7 @@
         "news": "",
         "chance": null,
         "form": 1.0,
-        "sel": 30.0,
+        "sel": 29.9,
         "ep_next": 2.0,
         "slot": 9,
         "captain": false,
@@ -2576,7 +2410,7 @@
         "news": "",
         "chance": null,
         "form": 11.0,
-        "sel": 64.9,
+        "sel": 65.2,
         "ep_next": 2.4,
         "slot": 11,
         "captain": false,
@@ -2592,7 +2426,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 23.5,
+        "sel": 23.4,
         "ep_next": 1.9,
         "slot": 12,
         "captain": false,
@@ -2652,7 +2486,7 @@
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-25T02:11:31.924925+00:00",
+    "collected_at": "2026-08-25T07:25:01.925127+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
