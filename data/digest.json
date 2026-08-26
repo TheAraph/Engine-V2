@@ -1,231 +1,21 @@
 {
-  "generated_at": "2026-08-26T02:18:07.040962+00:00",
+  "generated_at": "2026-08-26T07:25:10.842721+00:00",
   "next_gw": 2,
   "deadline": "2026-08-28T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 612,
     "flagged": 118,
-    "managers": 9688658
+    "managers": 9698297
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Osula",
-        "team": "NEW",
-        "pos": "FWD",
-        "cost": 6.0,
-        "sel": 1.2,
-        "news": "Knock - 50% chance of playing",
-        "chance": 50
-      },
-      {
-        "name": "Maddison",
-        "team": "TOT",
-        "pos": "MID",
-        "cost": 6.5,
-        "sel": 1.2,
-        "news": "Shoulder injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Philogene",
-        "team": "IPS",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.2,
-        "news": "Ankle injury - Unknown return date",
-        "chance": 0
-      },
-      {
-        "name": "Florentino",
-        "team": "IPS",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.1,
-        "news": "Calf injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "B.Badiashile",
-        "team": "CHE",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 0.0,
-        "news": "Has joined Napoli on loan for the rest of the season",
-        "chance": 0
-      },
-      {
-        "name": "Van Oevelen",
-        "team": "IPS",
-        "pos": "GKP",
-        "cost": 4.5,
-        "sel": 0.0,
-        "news": "Has joined Valencia on loan for the rest of the season",
-        "chance": 0
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Pedro Porro",
-        "team": "TOT",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 13.9,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Palmer",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 9.5,
-        "sel": 13.3,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Van de Ven",
-        "team": "TOT",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 4.4,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Mendy",
-        "team": "HUL",
-        "pos": "DEF",
-        "cost": 4.0,
-        "sel": 2.2,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Enciso",
-        "team": "IPS",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.4,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Carvalho",
-        "team": "BRE",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Morita",
-        "team": "HUL",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      }
-    ],
-    "price_rises": [
-      {
-        "name": "M.Sangar\u00e9",
-        "team": "BRE",
-        "pos": "MID",
-        "cost": 5.6,
-        "sel": 6.7,
-        "news": "",
-        "chance": null,
-        "from": 5.5,
-        "to": 5.6
-      },
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.6,
-        "sel": 6.0,
-        "news": "",
-        "chance": null,
-        "from": 4.5,
-        "to": 4.6
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Gy\u00f6keres",
-        "team": "ARS",
-        "pos": "FWD",
-        "cost": 7.4,
-        "sel": 7.6,
-        "news": "",
-        "chance": null,
-        "from": 7.5,
-        "to": 7.4
-      },
-      {
-        "name": "Martinelli",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.4,
-        "sel": 0.2,
-        "news": "",
-        "chance": null,
-        "from": 6.5,
-        "to": 6.4
-      }
-    ],
+    "recovered": [],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
-    "ownership_surges": [
-      {
-        "name": "Jo\u00e3o Pedro",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 7.5,
-        "sel": 66.3,
-        "news": "",
-        "chance": null,
-        "sel_from": 65.2,
-        "sel_to": 66.3
-      },
-      {
-        "name": "Palmer",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 9.5,
-        "sel": 13.3,
-        "news": "",
-        "chance": 100,
-        "sel_from": 11.9,
-        "sel_to": 13.3
-      },
-      {
-        "name": "M.Sangar\u00e9",
-        "team": "BRE",
-        "pos": "MID",
-        "cost": 5.6,
-        "sel": 6.7,
-        "news": "",
-        "chance": null,
-        "sel_from": 5.6,
-        "sel_to": 6.7
-      },
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.6,
-        "sel": 6.0,
-        "news": "",
-        "chance": null,
-        "sel_from": 4.7,
-        "sel_to": 6.0
-      }
-    ]
+    "ownership_surges": []
   },
   "flagged": [
     {
@@ -263,7 +53,7 @@
       "team": "CRY",
       "pos": "MID",
       "cost": 6.5,
-      "sel": 3.4,
+      "sel": 3.3,
       "news": "Groin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -1426,7 +1216,7 @@
       "pos": "MID",
       "cost": 7.0,
       "form": 12.0,
-      "sel": 5.2,
+      "sel": 5.3,
       "xgi90": 0.45,
       "ep_next": 2.5
     },
@@ -1446,7 +1236,7 @@
       "pos": "FWD",
       "cost": 7.5,
       "form": 11.0,
-      "sel": 66.3,
+      "sel": 66.4,
       "xgi90": 0.69,
       "ep_next": 2.4
     },
@@ -1486,7 +1276,7 @@
       "pos": "GKP",
       "cost": 4.5,
       "form": 10.0,
-      "sel": 1.9,
+      "sel": 2.0,
       "xgi90": 0.0,
       "ep_next": 1.9
     },
@@ -1546,7 +1336,7 @@
       "pos": "GKP",
       "cost": 5.0,
       "form": 9.0,
-      "sel": 3.7,
+      "sel": 3.8,
       "xgi90": 0.0,
       "ep_next": 2.6
     },
@@ -1556,7 +1346,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 9.0,
-      "sel": 12.8,
+      "sel": 12.9,
       "xgi90": 0.24,
       "ep_next": 2.5
     },
@@ -1666,7 +1456,7 @@
       "pos": "FWD",
       "cost": 7.5,
       "form": 6.0,
-      "sel": 7.0,
+      "sel": 7.1,
       "xgi90": 0.29,
       "ep_next": 2.4
     },
@@ -2514,7 +2304,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 49.4,
+        "sel": 49.3,
         "ep_next": 4.0,
         "slot": 5,
         "captain": false,
@@ -2594,7 +2384,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 68.4,
+        "sel": 68.3,
         "ep_next": 4.0,
         "slot": 10,
         "captain": true,
@@ -2610,7 +2400,7 @@
         "news": "",
         "chance": null,
         "form": 11.0,
-        "sel": 66.3,
+        "sel": 66.4,
         "ep_next": 2.4,
         "slot": 11,
         "captain": false,
@@ -2658,7 +2448,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 13.4,
+        "sel": 13.3,
         "ep_next": 2.0,
         "slot": 14,
         "captain": false,
@@ -2686,7 +2476,7 @@
   },
   "community": {
     "window_hours": 26,
-    "collected_at": "2026-08-26T02:18:17.826590+00:00",
+    "collected_at": "2026-08-26T07:25:18.342825+00:00",
     "accounts_reached": [
       "the-fplwire.bsky.social",
       "bencrellin.bsky.social",
@@ -2711,7 +2501,7 @@
         "handle": "fplgeneral.bsky.social",
         "text": "Gw 1 Review, Player Stats & Defcon, Listener Qs, Bus Team & Captaincy \n\npod.fo/e/570509",
         "at": "2026-08-25T14:23:00.550Z",
-        "likes": 7,
+        "likes": 8,
         "reposts": 2,
         "replies": 0,
         "signal": [
