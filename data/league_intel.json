@@ -1,5 +1,130 @@
 {
-  "status": "dormant",
-  "reason": "No gameweek finished yet. Rival picks are hidden and league standings are empty until the first deadline passes.",
-  "leagues": []
+  "status": "ok",
+  "gw": 1,
+  "entry": "6050572",
+  "manager": "Adam Ryan",
+  "leagues": [
+    {
+      "league": "Classics League",
+      "id": 37785,
+      "my_rank": 14,
+      "rivals_sampled": 28,
+      "gw": 1,
+      "edges": [
+        {
+          "name": "Van Hecke",
+          "pos": "DEF",
+          "cost": 5.0,
+          "league_own": 0.0,
+          "global_own": 10.0
+        },
+        {
+          "name": "Rodon",
+          "pos": "DEF",
+          "cost": 4.5,
+          "league_own": 14.3,
+          "global_own": 3.6
+        },
+        {
+          "name": "E.Le F\u00e9e",
+          "pos": "MID",
+          "cost": 6.0,
+          "league_own": 21.4,
+          "global_own": 9.2
+        },
+        {
+          "name": "Hume",
+          "pos": "DEF",
+          "cost": 4.5,
+          "league_own": 28.6,
+          "global_own": 6.6
+        },
+        {
+          "name": "Gro\u00df",
+          "pos": "MID",
+          "cost": 5.5,
+          "league_own": 28.6,
+          "global_own": 13.4
+        }
+      ],
+      "exposure": [],
+      "captains": [
+        {
+          "name": "Haaland",
+          "share": 46.4
+        },
+        {
+          "name": "B.Fernandes",
+          "share": 42.9
+        },
+        {
+          "name": "Mbeumo",
+          "share": 10.7
+        }
+      ]
+    },
+    {
+      "league": "Kazinata",
+      "id": 978874,
+      "my_rank": 3,
+      "rivals_sampled": 8,
+      "gw": 1,
+      "edges": [
+        {
+          "name": "Rodon",
+          "pos": "DEF",
+          "cost": 4.5,
+          "league_own": 12.5,
+          "global_own": 3.6
+        },
+        {
+          "name": "Van Hecke",
+          "pos": "DEF",
+          "cost": 5.0,
+          "league_own": 12.5,
+          "global_own": 10.0
+        },
+        {
+          "name": "Hume",
+          "pos": "DEF",
+          "cost": 4.5,
+          "league_own": 12.5,
+          "global_own": 6.6
+        },
+        {
+          "name": "E.Le F\u00e9e",
+          "pos": "MID",
+          "cost": 6.0,
+          "league_own": 25.0,
+          "global_own": 9.2
+        }
+      ],
+      "exposure": [
+        {
+          "name": "Maguire",
+          "pos": "DEF",
+          "cost": 5.0,
+          "league_own": 75.0,
+          "global_own": 17.4
+        },
+        {
+          "name": "Szoboszlai",
+          "pos": "MID",
+          "cost": 7.0,
+          "league_own": 50.0,
+          "global_own": 42.8
+        }
+      ],
+      "captains": [
+        {
+          "name": "Haaland",
+          "share": 62.5
+        },
+        {
+          "name": "B.Fernandes",
+          "share": 37.5
+        }
+      ]
+    }
+  ]
 }
