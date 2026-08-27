@@ -16,7 +16,7 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 0.0,
-          "global_own": 10.0
+          "global_own": 9.8
         },
         {
           "name": "Rodon",
@@ -30,21 +30,21 @@
           "pos": "MID",
           "cost": 6.0,
           "league_own": 21.4,
-          "global_own": 9.2
+          "global_own": 9.0
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 28.6,
-          "global_own": 6.6
+          "global_own": 6.5
         },
         {
           "name": "Gro\u00df",
           "pos": "MID",
           "cost": 5.5,
           "league_own": 28.6,
-          "global_own": 13.3
+          "global_own": 13.2
         }
       ],
       "exposure": [],
@@ -82,21 +82,21 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 12.5,
-          "global_own": 10.0
+          "global_own": 9.8
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 6.6
+          "global_own": 6.5
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 6.0,
           "league_own": 25.0,
-          "global_own": 9.2
+          "global_own": 9.0
         }
       ],
       "exposure": [
@@ -105,14 +105,14 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 75.0,
-          "global_own": 17.4
+          "global_own": 17.2
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 42.8
+          "global_own": 42.9
         }
       ],
       "captains": [
