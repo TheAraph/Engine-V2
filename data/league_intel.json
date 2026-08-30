@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 18,
+      "my_rank": 24,
       "rivals_sampled": 28,
       "gw": 1,
       "edges": [
@@ -16,7 +16,7 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 0.0,
-          "global_own": 9.5
+          "global_own": 9.2
         },
         {
           "name": "Rodon",
@@ -30,21 +30,21 @@
           "pos": "MID",
           "cost": 6.0,
           "league_own": 21.4,
-          "global_own": 8.4
+          "global_own": 8.3
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 28.6,
-          "global_own": 6.3
+          "global_own": 6.2
         },
         {
           "name": "Gro\u00df",
           "pos": "MID",
           "cost": 5.5,
           "league_own": 28.6,
-          "global_own": 12.7
+          "global_own": 12.6
         }
       ],
       "exposure": [],
@@ -66,7 +66,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 5,
+      "my_rank": 7,
       "rivals_sampled": 8,
       "gw": 1,
       "edges": [
@@ -82,21 +82,21 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 12.5,
-          "global_own": 9.5
+          "global_own": 9.2
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 6.3
+          "global_own": 6.2
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 6.0,
           "league_own": 25.0,
-          "global_own": 8.4
+          "global_own": 8.3
         }
       ],
       "exposure": [
@@ -105,14 +105,14 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 75.0,
-          "global_own": 16.7
+          "global_own": 16.5
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 43.4
+          "global_own": 43.1
         }
       ],
       "captains": [
