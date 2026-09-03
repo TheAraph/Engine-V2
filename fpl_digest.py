@@ -286,14 +286,17 @@ def main():
         "squad": my_squad(entry_id, players, cur["id"] if cur else None),
     }
 
-    # Community layer. Never let a Bluesky outage kill the whole digest -
-    # the API data is the part that must always land.
-    try:
-        from bluesky_feed import collect
-        digest["community"] = collect()
-    except Exception as e:
-        print(f"WARN: bluesky layer skipped: {e}", file=sys.stderr)
-        digest["community"] = {"error": str(e), "post_count": 0}
+    # No community layer here by design. Bluesky was checked and abandoned:
+    # of the 11 tracked FPL accounts only FPL General still posts there, so the
+    # layer implied breadth it did not have. The real expert reading happens in
+    # an interactive session via the browser pane, which cannot run on a
+    # schedule (the desktop bridge does not attach to cloud scheduled runs).
+    digest["community"] = {
+        "status": "not_collected",
+        "reason": "Expert reading requires a logged-in browser, which scheduled "
+                  "cloud runs cannot reach. Run an interactive sweep instead.",
+        "post_count": 0,
+    }
 
     DIGEST.write_text(json.dumps(digest, indent=2))
     SNAPSHOT.write_text(json.dumps(
@@ -305,9 +308,7 @@ def main():
     print(f"new injuries {len(c['new_injuries'])} | worsened {len(c['worsened'])} | "
           f"recovered {len(c['recovered'])} | rises {len(c['price_rises'])} | "
           f"falls {len(c['price_falls'])}")
-    comm = digest.get("community", {})
-    print(f"community: {comm.get('post_count', 0)} posts from "
-          f"{len(comm.get('accounts_reached', []))} accounts")
+    print("community: not collected (needs an interactive browser)")
     return 0
 
 
