@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 12,
+      "my_rank": 17,
       "rivals_sampled": 28,
       "gw": 2,
       "edges": [
@@ -16,35 +16,35 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 0.0,
-          "global_own": 7.4
+          "global_own": 7.3
         },
         {
           "name": "Rodon",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 14.3,
-          "global_own": 2.5
+          "global_own": 2.2
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.9,
           "league_own": 17.9,
-          "global_own": 5.9
+          "global_own": 5.7
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 28.6,
-          "global_own": 5.3
+          "global_own": 5.4
         },
         {
           "name": "Gro\u00df",
           "pos": "MID",
           "cost": 5.5,
           "league_own": 28.6,
-          "global_own": 15.5
+          "global_own": 16.0
         }
       ],
       "exposure": [],
@@ -83,28 +83,28 @@
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 2.5
+          "global_own": 2.2
         },
         {
           "name": "Van Hecke",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 12.5,
-          "global_own": 7.4
+          "global_own": 7.3
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 5.3
+          "global_own": 5.4
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.9,
           "league_own": 25.0,
-          "global_own": 5.9
+          "global_own": 5.7
         }
       ],
       "exposure": [
@@ -113,14 +113,14 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 75.0,
-          "global_own": 14.2
+          "global_own": 14.1
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 41.3
+          "global_own": 41.1
         }
       ],
       "captains": [
