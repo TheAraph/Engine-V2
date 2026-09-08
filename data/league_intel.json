@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "gw": 2,
+  "gw": 3,
   "entry": "6050572",
   "manager": "Adam Ryan",
   "leagues": [
@@ -9,65 +9,54 @@
       "id": 37785,
       "my_rank": 15,
       "rivals_sampled": 28,
-      "gw": 2,
+      "gw": 3,
       "edges": [
         {
           "name": "Van Hecke",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 0.0,
-          "global_own": 7.1
-        },
-        {
-          "name": "Rodon",
-          "pos": "DEF",
-          "cost": 4.4,
-          "league_own": 14.3,
-          "global_own": 1.8
+          "global_own": 7.0
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.9,
-          "league_own": 17.9,
-          "global_own": 5.3
+          "league_own": 7.1,
+          "global_own": 5.2
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
-          "league_own": 28.6,
-          "global_own": 4.8
+          "league_own": 21.4,
+          "global_own": 4.7
         },
         {
-          "name": "Gro\u00df",
+          "name": "Tzolis",
           "pos": "MID",
-          "cost": 5.5,
-          "league_own": 28.6,
-          "global_own": 16.1
+          "cost": 6.4,
+          "league_own": 25.0,
+          "global_own": 17.6
         }
       ],
       "exposure": [],
       "captains": [
         {
-          "name": "B.Fernandes",
-          "share": 53.6
-        },
-        {
           "name": "Haaland",
-          "share": 25.0
+          "share": 75.0
         },
         {
-          "name": "Jo\u00e3o Pedro",
+          "name": "B.Fernandes",
           "share": 10.7
         },
         {
-          "name": "Mbeumo",
+          "name": "Cherki",
           "share": 7.1
         },
         {
-          "name": "Palmer",
-          "share": 3.6
+          "name": "Jo\u00e3o Pedro",
+          "share": 7.1
         }
       ]
     },
@@ -76,64 +65,53 @@
       "id": 978874,
       "my_rank": 5,
       "rivals_sampled": 8,
-      "gw": 2,
+      "gw": 3,
       "edges": [
-        {
-          "name": "Rodon",
-          "pos": "DEF",
-          "cost": 4.4,
-          "league_own": 12.5,
-          "global_own": 1.8
-        },
         {
           "name": "Van Hecke",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 12.5,
-          "global_own": 7.1
+          "global_own": 7.0
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 4.8
+          "global_own": 4.7
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.9,
-          "league_own": 25.0,
-          "global_own": 5.3
+          "league_own": 12.5,
+          "global_own": 5.2
         }
       ],
       "exposure": [
         {
           "name": "Maguire",
           "pos": "DEF",
-          "cost": 5.0,
+          "cost": 4.9,
           "league_own": 75.0,
-          "global_own": 13.0
+          "global_own": 12.6
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 39.2
+          "global_own": 38.8
         }
       ],
       "captains": [
         {
-          "name": "B.Fernandes",
-          "share": 50.0
-        },
-        {
           "name": "Haaland",
-          "share": 37.5
+          "share": 87.5
         },
         {
-          "name": "Jo\u00e3o Pedro",
+          "name": "B.Fernandes",
           "share": 12.5
         }
       ]
