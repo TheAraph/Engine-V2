@@ -1,120 +1,19 @@
 {
-  "generated_at": "2026-09-08T05:25:38.575148+00:00",
+  "generated_at": "2026-09-08T11:34:19.101261+00:00",
   "next_gw": 4,
   "deadline": "2026-09-12T12:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 654,
     "flagged": 170,
-    "managers": 10590125
+    "managers": 10597467
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
-    "price_rises": [
-      {
-        "name": "Isak",
-        "team": "LIV",
-        "pos": "FWD",
-        "cost": 9.1,
-        "sel": 20.0,
-        "news": "",
-        "chance": null,
-        "from": 9.0,
-        "to": 9.1
-      },
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.8,
-        "sel": 19.4,
-        "news": "",
-        "chance": null,
-        "from": 4.7,
-        "to": 4.8
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Tzolis",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.4,
-        "sel": 17.6,
-        "news": "",
-        "chance": null,
-        "from": 6.5,
-        "to": 6.4
-      },
-      {
-        "name": "Maguire",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 4.9,
-        "sel": 12.6,
-        "news": "",
-        "chance": null,
-        "from": 5.0,
-        "to": 4.9
-      },
-      {
-        "name": "Buend\u00eda",
-        "team": "AVL",
-        "pos": "MID",
-        "cost": 5.9,
-        "sel": 1.0,
-        "news": "",
-        "chance": null,
-        "from": 6.0,
-        "to": 5.9
-      },
-      {
-        "name": "Dorgu",
-        "team": "MUN",
-        "pos": "MID",
-        "cost": 5.8,
-        "sel": 0.7,
-        "news": "",
-        "chance": null,
-        "from": 5.9,
-        "to": 5.8
-      },
-      {
-        "name": "A\u00eft-Nouri",
-        "team": "MCI",
-        "pos": "DEF",
-        "cost": 5.3,
-        "sel": 0.5,
-        "news": "",
-        "chance": null,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Lacey",
-        "team": "MUN",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 5.0,
-        "to": 4.9
-      },
-      {
-        "name": "Matusiwa",
-        "team": "IPS",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.0,
-        "news": "Muscular injury - Unknown return date",
-        "chance": 0,
-        "from": 5.0,
-        "to": 4.9
-      }
-    ],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -124,7 +23,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.5,
-      "sel": 15.5,
+      "sel": 15.4,
       "news": "Back injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -134,7 +33,7 @@
       "team": "ARS",
       "pos": "DEF",
       "cost": 5.4,
-      "sel": 3.6,
+      "sel": 3.5,
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -144,7 +43,7 @@
       "team": "AVL",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 3.5,
+      "sel": 3.4,
       "news": "Has joined Al Hilal permanently",
       "chance": 0,
       "status": "unavailable"
@@ -204,18 +103,8 @@
       "team": "COV",
       "pos": "GKP",
       "cost": 4.0,
-      "sel": 1.3,
-      "news": "Has joined Leyton Orient on loan for the rest of the season",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Beto",
-      "team": "EVE",
-      "pos": "FWD",
-      "cost": 5.4,
       "sel": 1.2,
-      "news": "Has joined Fiorentina permanently",
+      "news": "Has joined Leyton Orient on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
     },
@@ -258,6 +147,16 @@
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
+    },
+    {
+      "name": "Beto",
+      "team": "EVE",
+      "pos": "FWD",
+      "cost": 5.4,
+      "sel": 1.1,
+      "news": "Has joined Fiorentina permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Burn",
@@ -746,16 +645,6 @@
       "cost": 4.0,
       "sel": 0.1,
       "news": "Has joined Genoa permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Millar",
-      "team": "HUL",
-      "pos": "MID",
-      "cost": 5.0,
-      "sel": 0.1,
-      "news": "Has joined Birmingham on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
     },
@@ -1360,6 +1249,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Millar",
+      "team": "HUL",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.0,
+      "news": "Has joined Birmingham on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Matazo",
       "team": "HUL",
       "pos": "MID",
@@ -1827,7 +1726,7 @@
       "pos": "MID",
       "cost": 7.2,
       "form": 9.3,
-      "sel": 13.7,
+      "sel": 14.0,
       "xgi90": 0.56,
       "ep_next": 9.3
     },
@@ -1837,7 +1736,7 @@
       "pos": "MID",
       "cost": 12.0,
       "form": 9.0,
-      "sel": 46.7,
+      "sel": 46.6,
       "xgi90": 1.02,
       "ep_next": 9.0
     },
@@ -1857,7 +1756,7 @@
       "pos": "DEF",
       "cost": 4.1,
       "form": 8.3,
-      "sel": 10.9,
+      "sel": 11.0,
       "xgi90": 0.19,
       "ep_next": 8.3
     },
@@ -1877,7 +1776,7 @@
       "pos": "MID",
       "cost": 6.6,
       "form": 8.0,
-      "sel": 13.1,
+      "sel": 13.2,
       "xgi90": 0.84,
       "ep_next": 8.0
     },
@@ -1887,7 +1786,7 @@
       "pos": "MID",
       "cost": 6.0,
       "form": 8.0,
-      "sel": 4.0,
+      "sel": 4.1,
       "xgi90": 0.21,
       "ep_next": 8.0
     },
@@ -1897,7 +1796,7 @@
       "pos": "DEF",
       "cost": 4.0,
       "form": 8.0,
-      "sel": 6.9,
+      "sel": 7.0,
       "xgi90": 0.15,
       "ep_next": 8.0
     },
@@ -1917,7 +1816,7 @@
       "pos": "DEF",
       "cost": 4.1,
       "form": 7.7,
-      "sel": 6.1,
+      "sel": 6.2,
       "xgi90": 0.0,
       "ep_next": 7.7
     },
@@ -1927,7 +1826,7 @@
       "pos": "FWD",
       "cost": 9.1,
       "form": 7.7,
-      "sel": 20.0,
+      "sel": 20.2,
       "xgi90": 0.87,
       "ep_next": 7.7
     },
@@ -1937,7 +1836,7 @@
       "pos": "DEF",
       "cost": 5.7,
       "form": 7.3,
-      "sel": 47.4,
+      "sel": 47.5,
       "xgi90": 0.43,
       "ep_next": 7.3
     },
@@ -1987,7 +1886,7 @@
       "pos": "MID",
       "cost": 5.0,
       "form": 7.0,
-      "sel": 1.4,
+      "sel": 1.5,
       "xgi90": 0.28,
       "ep_next": 7.0
     },
@@ -1997,7 +1896,7 @@
       "pos": "DEF",
       "cost": 4.8,
       "form": 7.0,
-      "sel": 19.4,
+      "sel": 19.5,
       "xgi90": 0.71,
       "ep_next": 7.0
     },
@@ -2007,7 +1906,7 @@
       "pos": "MID",
       "cost": 9.6,
       "form": 7.0,
-      "sel": 21.7,
+      "sel": 21.8,
       "xgi90": 0.48,
       "ep_next": 7.0
     },
@@ -2017,7 +1916,7 @@
       "pos": "FWD",
       "cost": 7.7,
       "form": 7.0,
-      "sel": 72.2,
+      "sel": 72.3,
       "xgi90": 0.68,
       "ep_next": 7.0
     },
@@ -2037,7 +1936,7 @@
       "pos": "MID",
       "cost": 7.9,
       "form": 7.0,
-      "sel": 25.8,
+      "sel": 25.7,
       "xgi90": 0.93,
       "ep_next": 7.0
     },
@@ -2077,7 +1976,7 @@
       "pos": "MID",
       "cost": 7.6,
       "form": 6.3,
-      "sel": 27.9,
+      "sel": 28.1,
       "xgi90": 0.81,
       "ep_next": 6.3
     },
@@ -2117,7 +2016,7 @@
       "pos": "MID",
       "cost": 5.7,
       "form": 6.0,
-      "sel": 14.3,
+      "sel": 14.2,
       "xgi90": 0.34,
       "ep_next": 6.0
     }
@@ -2877,7 +2776,7 @@
         "news": "",
         "chance": null,
         "form": 7.3,
-        "sel": 47.4,
+        "sel": 47.5,
         "ep_next": 7.3,
         "slot": 2,
         "captain": false,
@@ -2893,7 +2792,7 @@
         "news": "",
         "chance": null,
         "form": 7.0,
-        "sel": 19.4,
+        "sel": 19.5,
         "ep_next": 7.0,
         "slot": 3,
         "captain": false,
@@ -2909,7 +2808,7 @@
         "news": "",
         "chance": null,
         "form": 2.3,
-        "sel": 14.2,
+        "sel": 14.1,
         "ep_next": 2.3,
         "slot": 4,
         "captain": false,
@@ -2925,7 +2824,7 @@
         "news": "",
         "chance": null,
         "form": 9.0,
-        "sel": 46.7,
+        "sel": 46.6,
         "ep_next": 9.0,
         "slot": 5,
         "captain": false,
@@ -3021,7 +2920,7 @@
         "news": "",
         "chance": null,
         "form": 7.0,
-        "sel": 72.2,
+        "sel": 72.3,
         "ep_next": 7.0,
         "slot": 11,
         "captain": false,
@@ -3069,7 +2968,7 @@
         "news": "",
         "chance": null,
         "form": 3.0,
-        "sel": 4.7,
+        "sel": 4.6,
         "ep_next": 3.0,
         "slot": 14,
         "captain": false,
