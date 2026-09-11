@@ -23,21 +23,21 @@
           "pos": "MID",
           "cost": 5.9,
           "league_own": 7.1,
-          "global_own": 5.0
+          "global_own": 4.8
         },
         {
           "name": "Hume",
           "pos": "DEF",
-          "cost": 4.5,
+          "cost": 4.4,
           "league_own": 21.4,
-          "global_own": 4.4
+          "global_own": 4.3
         },
         {
           "name": "Tzolis",
           "pos": "MID",
           "cost": 6.4,
           "league_own": 25.0,
-          "global_own": 17.1
+          "global_own": 16.8
         }
       ],
       "exposure": [],
@@ -77,16 +77,16 @@
         {
           "name": "Hume",
           "pos": "DEF",
-          "cost": 4.5,
+          "cost": 4.4,
           "league_own": 12.5,
-          "global_own": 4.4
+          "global_own": 4.3
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.9,
           "league_own": 12.5,
-          "global_own": 5.0
+          "global_own": 4.8
         }
       ],
       "exposure": [
@@ -95,7 +95,7 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 75.0,
-          "global_own": 12.1
+          "global_own": 11.8
         },
         {
           "name": "Szoboszlai",
