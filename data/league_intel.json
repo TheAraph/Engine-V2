@@ -16,7 +16,7 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 0.0,
-          "global_own": 6.7
+          "global_own": 6.8
         },
         {
           "name": "E.Le F\u00e9e",
@@ -37,7 +37,7 @@
           "pos": "MID",
           "cost": 6.4,
           "league_own": 25.0,
-          "global_own": 15.8
+          "global_own": 15.7
         }
       ],
       "exposure": [],
@@ -63,7 +63,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 5,
+      "my_rank": 3,
       "rivals_sampled": 8,
       "gw": 3,
       "edges": [
@@ -72,7 +72,7 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 12.5,
-          "global_own": 6.7
+          "global_own": 6.8
         },
         {
           "name": "Hume",
@@ -95,14 +95,14 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 75.0,
-          "global_own": 10.5
+          "global_own": 10.7
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 38.6
+          "global_own": 38.0
         }
       ],
       "captains": [
