@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 15,
+      "my_rank": 14,
       "rivals_sampled": 28,
       "gw": 3,
       "edges": [
@@ -23,21 +23,21 @@
           "pos": "MID",
           "cost": 5.8,
           "league_own": 7.1,
-          "global_own": 4.3
+          "global_own": 4.2
         },
         {
           "name": "Hume",
           "pos": "DEF",
           "cost": 4.4,
           "league_own": 21.4,
-          "global_own": 3.8
+          "global_own": 3.7
         },
         {
           "name": "Tzolis",
           "pos": "MID",
           "cost": 6.4,
           "league_own": 25.0,
-          "global_own": 15.6
+          "global_own": 15.2
         }
       ],
       "exposure": [],
@@ -51,11 +51,11 @@
           "share": 10.7
         },
         {
-          "name": "Cherki",
+          "name": "Jo\u00e3o Pedro",
           "share": 7.1
         },
         {
-          "name": "Jo\u00e3o Pedro",
+          "name": "Cherki",
           "share": 7.1
         }
       ]
@@ -63,7 +63,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 3,
+      "my_rank": 4,
       "rivals_sampled": 8,
       "gw": 3,
       "edges": [
@@ -79,14 +79,14 @@
           "pos": "DEF",
           "cost": 4.4,
           "league_own": 12.5,
-          "global_own": 3.8
+          "global_own": 3.7
         },
         {
           "name": "E.Le F\u00e9e",
           "pos": "MID",
           "cost": 5.8,
           "league_own": 12.5,
-          "global_own": 4.3
+          "global_own": 4.2
         }
       ],
       "exposure": [
@@ -95,14 +95,14 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 75.0,
-          "global_own": 10.6
+          "global_own": 10.4
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 37.9
+          "global_own": 37.2
         }
       ],
       "captains": [
