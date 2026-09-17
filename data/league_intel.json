@@ -37,28 +37,28 @@
           "pos": "MID",
           "cost": 6.7,
           "league_own": 14.3,
-          "global_own": 19.4
+          "global_own": 19.5
         },
         {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 14.3,
-          "global_own": 6.3
+          "global_own": 6.4
         },
         {
           "name": "van Ewijk",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 28.6,
-          "global_own": 10.0
+          "global_own": 9.9
         },
         {
           "name": "Isak",
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 28.6,
-          "global_own": 22.0
+          "global_own": 21.9
         }
       ],
       "exposure": [
@@ -67,7 +67,7 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 50.0,
-          "global_own": 41.5
+          "global_own": 41.3
         }
       ],
       "captains": [
@@ -105,7 +105,7 @@
           "pos": "MID",
           "cost": 6.7,
           "league_own": 0.0,
-          "global_own": 19.4
+          "global_own": 19.5
         },
         {
           "name": "Steele",
@@ -119,14 +119,14 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 0.0,
-          "global_own": 6.3
+          "global_own": 6.4
         },
         {
           "name": "Isak",
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 0.0,
-          "global_own": 22.0
+          "global_own": 21.9
         },
         {
           "name": "A.Becker",
@@ -140,7 +140,7 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 12.5,
-          "global_own": 10.0
+          "global_own": 9.9
         },
         {
           "name": "George Hemmings",
@@ -163,28 +163,28 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 62.5,
-          "global_own": 41.5
+          "global_own": 41.3
         },
         {
           "name": "Maguire",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 62.5,
-          "global_own": 10.1
+          "global_own": 10.0
         },
         {
           "name": "Gro\u00df",
           "pos": "MID",
           "cost": 5.7,
           "league_own": 50.0,
-          "global_own": 19.1
+          "global_own": 19.5
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 22.8
+          "global_own": 23.3
         }
       ],
       "captains": [
