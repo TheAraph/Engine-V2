@@ -1,99 +1,47 @@
 {
-  "generated_at": "2026-09-17T05:34:52.774560+00:00",
+  "generated_at": "2026-09-17T11:57:36.361434+00:00",
   "next_gw": 5,
   "deadline": "2026-09-18T17:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 659,
-    "flagged": 195,
-    "managers": 10834507
+    "flagged": 198,
+    "managers": 10838625
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Jo\u00e3o Pedro",
-        "team": "CHE",
-        "pos": "FWD",
-        "cost": 7.8,
-        "sel": 74.8,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
+        "name": "Amenda",
+        "team": "COV",
+        "pos": "DEF",
+        "cost": 4.0,
+        "sel": 0.7,
+        "news": "Calf injury - 25% chance of playing",
+        "chance": 25
       },
       {
-        "name": "Gomes",
-        "team": "AVL",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.0,
-        "news": "Calf injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "R\u00f6hl",
+        "name": "Armstrong",
         "team": "EVE",
         "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.0,
+        "cost": 5.0,
+        "sel": 0.4,
         "news": "Unspecified injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "M.Bizot",
+        "team": "AVL",
+        "pos": "GKP",
+        "cost": 4.5,
+        "sel": 0.1,
+        "news": "Back injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Cash",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.4,
-        "sel": 5.2,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Onyeka",
-        "team": "COV",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Gomez",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 4.9,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      }
-    ],
-    "price_rises": [
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.9,
-        "sel": 24.1,
-        "news": "",
-        "chance": null,
-        "from": 4.8,
-        "to": 4.9
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "T\u00f3th.A",
-        "team": "BOU",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.0,
-        "news": "",
-        "chance": null,
-        "from": 5.0,
-        "to": 4.9
-      }
-    ],
+    "recovered": [],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -103,7 +51,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 74.8,
+      "sel": 74.3,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -113,7 +61,7 @@
       "team": "MUN",
       "pos": "DEF",
       "cost": 4.4,
-      "sel": 9.9,
+      "sel": 9.8,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -123,7 +71,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 8.9,
+      "sel": 8.8,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -133,7 +81,7 @@
       "team": "NEW",
       "pos": "MID",
       "cost": 6.2,
-      "sel": 8.6,
+      "sel": 8.4,
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -153,7 +101,7 @@
       "team": "ARS",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 6.3,
+      "sel": 6.2,
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -183,7 +131,7 @@
       "team": "TOT",
       "pos": "MID",
       "cost": 5.4,
-      "sel": 2.2,
+      "sel": 2.1,
       "news": "Knock - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -203,7 +151,7 @@
       "team": "CRY",
       "pos": "GKP",
       "cost": 5.0,
-      "sel": 1.6,
+      "sel": 1.5,
       "news": "Foot injury - Expected back 11 Oct",
       "chance": 0,
       "status": "injured"
@@ -229,16 +177,6 @@
       "status": "injured"
     },
     {
-      "name": "Collins",
-      "team": "BRE",
-      "pos": "DEF",
-      "cost": 5.4,
-      "sel": 1.2,
-      "news": "Calf injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Caicedo",
       "team": "CHE",
       "pos": "MID",
@@ -257,6 +195,16 @@
       "news": "Has joined Leyton Orient permanently",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Collins",
+      "team": "BRE",
+      "pos": "DEF",
+      "cost": 5.4,
+      "sel": 1.1,
+      "news": "Calf injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Dovin",
@@ -309,16 +257,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Beto",
-      "team": "EVE",
-      "pos": "FWD",
-      "cost": 5.4,
-      "sel": 0.8,
-      "news": "Has joined Fiorentina permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
       "name": "Burn",
       "team": "NEW",
       "pos": "DEF",
@@ -367,6 +305,26 @@
       "news": "Thigh injury - Expected back 18 Sep",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Amenda",
+      "team": "COV",
+      "pos": "DEF",
+      "cost": 4.0,
+      "sel": 0.7,
+      "news": "Calf injury - 25% chance of playing",
+      "chance": 25,
+      "status": "doubtful"
+    },
+    {
+      "name": "Beto",
+      "team": "EVE",
+      "pos": "FWD",
+      "cost": 5.4,
+      "sel": 0.7,
+      "news": "Has joined Fiorentina permanently",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Doku",
@@ -447,6 +405,16 @@
       "news": "Has joined Sheffield United on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Armstrong",
+      "team": "EVE",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.4,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Andrews",
@@ -667,6 +635,16 @@
       "news": "Has joined Al Hilal permanently",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "M.Bizot",
+      "team": "AVL",
+      "pos": "GKP",
+      "cost": 4.5,
+      "sel": 0.1,
+      "news": "Back injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Digne",
@@ -2056,7 +2034,7 @@
       "pos": "DEF",
       "cost": 4.5,
       "form": 9.2,
-      "sel": 4.0,
+      "sel": 4.2,
       "xgi90": 0.41,
       "ep_next": 9.2
     },
@@ -2066,7 +2044,7 @@
       "pos": "MID",
       "cost": 5.7,
       "form": 8.2,
-      "sel": 19.5,
+      "sel": 19.7,
       "xgi90": 0.57,
       "ep_next": 8.2
     },
@@ -2076,7 +2054,7 @@
       "pos": "DEF",
       "cost": 5.7,
       "form": 8.2,
-      "sel": 23.9,
+      "sel": 24.0,
       "xgi90": 0.09,
       "ep_next": 8.2
     },
@@ -2086,7 +2064,7 @@
       "pos": "FWD",
       "cost": 15.5,
       "form": 8.2,
-      "sel": 72.6,
+      "sel": 72.7,
       "xgi90": 0.96,
       "ep_next": 8.2
     },
@@ -2096,7 +2074,7 @@
       "pos": "DEF",
       "cost": 4.9,
       "form": 8.0,
-      "sel": 24.1,
+      "sel": 24.2,
       "xgi90": 0.53,
       "ep_next": 8.0
     },
@@ -2106,7 +2084,7 @@
       "pos": "MID",
       "cost": 9.5,
       "form": 7.5,
-      "sel": 12.4,
+      "sel": 12.5,
       "xgi90": 0.89,
       "ep_next": 7.5
     },
@@ -2116,7 +2094,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 7.5,
-      "sel": 6.5,
+      "sel": 6.6,
       "xgi90": 0.33,
       "ep_next": 7.5
     },
@@ -2136,7 +2114,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 7.2,
-      "sel": 5.7,
+      "sel": 5.8,
       "xgi90": 0.65,
       "ep_next": 7.2
     },
@@ -2146,7 +2124,7 @@
       "pos": "DEF",
       "cost": 6.1,
       "form": 7.2,
-      "sel": 13.5,
+      "sel": 13.6,
       "xgi90": 0.05,
       "ep_next": 7.2
     },
@@ -2156,7 +2134,7 @@
       "pos": "MID",
       "cost": 7.2,
       "form": 7.2,
-      "sel": 12.3,
+      "sel": 12.4,
       "xgi90": 0.53,
       "ep_next": 7.2
     },
@@ -2166,7 +2144,7 @@
       "pos": "MID",
       "cost": 12.0,
       "form": 7.2,
-      "sel": 41.3,
+      "sel": 41.2,
       "xgi90": 0.85,
       "ep_next": 7.2
     },
@@ -2186,7 +2164,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 7.0,
-      "sel": 5.9,
+      "sel": 5.8,
       "xgi90": 0.22,
       "ep_next": 7.0
     },
@@ -2196,7 +2174,7 @@
       "pos": "GKP",
       "cost": 4.6,
       "form": 7.0,
-      "sel": 11.0,
+      "sel": 11.1,
       "xgi90": 0.0,
       "ep_next": 7.0
     },
@@ -2206,7 +2184,7 @@
       "pos": "MID",
       "cost": 6.7,
       "form": 6.8,
-      "sel": 19.5,
+      "sel": 19.6,
       "xgi90": 0.68,
       "ep_next": 6.8
     },
@@ -2216,7 +2194,7 @@
       "pos": "MID",
       "cost": 7.7,
       "form": 6.8,
-      "sel": 38.2,
+      "sel": 38.3,
       "xgi90": 0.66,
       "ep_next": 6.8
     },
@@ -2226,7 +2204,7 @@
       "pos": "MID",
       "cost": 5.1,
       "form": 6.8,
-      "sel": 3.5,
+      "sel": 3.6,
       "xgi90": 0.14,
       "ep_next": 6.8
     },
@@ -2276,7 +2254,7 @@
       "pos": "MID",
       "cost": 8.0,
       "form": 6.5,
-      "sel": 13.0,
+      "sel": 13.2,
       "xgi90": 0.65,
       "ep_next": 6.5
     },
@@ -2296,7 +2274,7 @@
       "pos": "DEF",
       "cost": 4.1,
       "form": 6.2,
-      "sel": 6.8,
+      "sel": 6.9,
       "xgi90": 0.01,
       "ep_next": 6.2
     },
@@ -2316,7 +2294,7 @@
       "pos": "DEF",
       "cost": 8.0,
       "form": 6.0,
-      "sel": 23.4,
+      "sel": 23.3,
       "xgi90": 0.15,
       "ep_next": 6.0
     },
@@ -2336,7 +2314,7 @@
       "pos": "DEF",
       "cost": 4.0,
       "form": 6.0,
-      "sel": 2.5,
+      "sel": 2.6,
       "xgi90": 0.1,
       "ep_next": 6.0
     },
@@ -3076,7 +3054,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1569080,
+    "overall_rank": 1569067,
     "total_points": 285,
     "bank": 0.1,
     "value": 100.2,
@@ -3122,7 +3100,7 @@
         "news": "",
         "chance": null,
         "form": 8.0,
-        "sel": 24.1,
+        "sel": 24.2,
         "ep_next": 8.0,
         "slot": 3,
         "captain": false,
@@ -3170,7 +3148,7 @@
         "news": "",
         "chance": null,
         "form": 6.8,
-        "sel": 38.2,
+        "sel": 38.3,
         "ep_next": 6.8,
         "slot": 6,
         "captain": false,
@@ -3186,7 +3164,7 @@
         "news": "",
         "chance": null,
         "form": 4.5,
-        "sel": 35.7,
+        "sel": 35.6,
         "ep_next": 4.5,
         "slot": 7,
         "captain": false,
@@ -3202,7 +3180,7 @@
         "news": "",
         "chance": null,
         "form": 6.8,
-        "sel": 19.5,
+        "sel": 19.6,
         "ep_next": 6.8,
         "slot": 8,
         "captain": false,
@@ -3234,7 +3212,7 @@
         "news": "",
         "chance": null,
         "form": 8.2,
-        "sel": 72.6,
+        "sel": 72.7,
         "ep_next": 8.2,
         "slot": 10,
         "captain": false,
@@ -3250,7 +3228,7 @@
         "news": "Unspecified injury - 75% chance of playing",
         "chance": 75,
         "form": 8.2,
-        "sel": 74.8,
+        "sel": 74.3,
         "ep_next": 6.1,
         "slot": 11,
         "captain": false,
