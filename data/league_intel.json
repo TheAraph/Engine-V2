@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 15,
+      "my_rank": 16,
       "rivals_sampled": 28,
       "gw": 4,
       "edges": [
@@ -30,35 +30,35 @@
           "pos": "MID",
           "cost": 4.5,
           "league_own": 10.7,
-          "global_own": 1.3
+          "global_own": 1.2
         },
         {
           "name": "\u00d8degaard",
           "pos": "MID",
           "cost": 6.8,
           "league_own": 14.3,
-          "global_own": 19.8
+          "global_own": 20.1
         },
         {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 14.3,
-          "global_own": 6.7
+          "global_own": 6.8
         },
         {
           "name": "van Ewijk",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 28.6,
-          "global_own": 9.6
+          "global_own": 9.5
         },
         {
           "name": "Isak",
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 28.6,
-          "global_own": 21.8
+          "global_own": 21.9
         }
       ],
       "exposure": [
@@ -67,7 +67,7 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 50.0,
-          "global_own": 40.5
+          "global_own": 39.9
         }
       ],
       "captains": [
@@ -105,7 +105,7 @@
           "pos": "MID",
           "cost": 6.8,
           "league_own": 0.0,
-          "global_own": 19.8
+          "global_own": 20.1
         },
         {
           "name": "Steele",
@@ -119,14 +119,14 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 0.0,
-          "global_own": 6.7
+          "global_own": 6.8
         },
         {
           "name": "Isak",
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 0.0,
-          "global_own": 21.8
+          "global_own": 21.9
         },
         {
           "name": "A.Becker",
@@ -140,21 +140,21 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 12.5,
-          "global_own": 9.6
+          "global_own": 9.5
         },
         {
           "name": "George Hemmings",
           "pos": "MID",
           "cost": 4.5,
           "league_own": 12.5,
-          "global_own": 1.3
+          "global_own": 1.2
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.7,
           "league_own": 25.0,
-          "global_own": 26.8
+          "global_own": 27.0
         }
       ],
       "exposure": [
@@ -163,28 +163,28 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 62.5,
-          "global_own": 40.5
+          "global_own": 39.9
         },
         {
           "name": "Maguire",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 62.5,
-          "global_own": 9.6
+          "global_own": 9.2
         },
         {
           "name": "Gro\u00df",
           "pos": "MID",
           "cost": 5.7,
           "league_own": 50.0,
-          "global_own": 20.3
+          "global_own": 21.4
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 25.0
+          "global_own": 25.7
         }
       ],
       "captains": [
