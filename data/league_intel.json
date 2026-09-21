@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 14,
+      "my_rank": 13,
       "rivals_sampled": 28,
       "gw": 4,
       "edges": [
@@ -51,14 +51,14 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 28.6,
-          "global_own": 9.1
+          "global_own": 9.0
         },
         {
           "name": "Isak",
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 28.6,
-          "global_own": 22.1
+          "global_own": 22.2
         }
       ],
       "exposure": [
@@ -67,7 +67,7 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 50.0,
-          "global_own": 39.1
+          "global_own": 39.0
         }
       ],
       "captains": [
@@ -96,7 +96,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 4,
+      "my_rank": 5,
       "rivals_sampled": 8,
       "gw": 4,
       "edges": [
@@ -126,7 +126,7 @@
           "pos": "FWD",
           "cost": 9.1,
           "league_own": 0.0,
-          "global_own": 22.1
+          "global_own": 22.2
         },
         {
           "name": "A.Becker",
@@ -140,7 +140,7 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 12.5,
-          "global_own": 9.1
+          "global_own": 9.0
         },
         {
           "name": "George Hemmings",
@@ -154,7 +154,7 @@
           "pos": "MID",
           "cost": 9.7,
           "league_own": 25.0,
-          "global_own": 26.7
+          "global_own": 26.6
         }
       ],
       "exposure": [
@@ -163,7 +163,7 @@
           "pos": "MID",
           "cost": 12.0,
           "league_own": 62.5,
-          "global_own": 39.1
+          "global_own": 39.0
         },
         {
           "name": "Maguire",
@@ -177,14 +177,14 @@
           "pos": "MID",
           "cost": 5.8,
           "league_own": 50.0,
-          "global_own": 26.2
+          "global_own": 26.6
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 25.3
+          "global_own": 25.2
         }
       ],
       "captains": [
