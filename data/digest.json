@@ -1,154 +1,20 @@
 {
-  "generated_at": "2026-09-23T05:21:44.295811+00:00",
+  "generated_at": "2026-09-23T11:56:47.085267+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 201,
-    "managers": 10955402
+    "managers": 10957882
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Maguire",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 4.8,
-        "sel": 8.7,
-        "news": "",
-        "chance": null,
-        "from": 4.9,
-        "to": 4.8
-      },
-      {
-        "name": "Wharton",
-        "team": "CRY",
-        "pos": "MID",
-        "cost": 5.4,
-        "sel": 0.7,
-        "news": "",
-        "chance": 100,
-        "from": 5.5,
-        "to": 5.4
-      },
-      {
-        "name": "Maatsen",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.4,
-        "sel": 0.5,
-        "news": "Ankle injury - Unknown return date",
-        "chance": 0,
-        "from": 4.5,
-        "to": 4.4
-      },
-      {
-        "name": "Bendito Mantato",
-        "team": "MUN",
-        "pos": "MID",
-        "cost": 4.4,
-        "sel": 0.2,
-        "news": "",
-        "chance": null,
-        "from": 4.5,
-        "to": 4.4
-      },
-      {
-        "name": "Gyabi",
-        "team": "HUL",
-        "pos": "MID",
-        "cost": 4.4,
-        "sel": 0.0,
-        "news": "Thigh injury - Unknown return date",
-        "chance": 0,
-        "from": 4.5,
-        "to": 4.4
-      }
-    ],
-    "form_risers": [
-      {
-        "name": "Gro\u00df",
-        "team": "BHA",
-        "pos": "MID",
-        "cost": 5.8,
-        "sel": 27.7,
-        "news": "",
-        "chance": null,
-        "form_from": 9.4,
-        "form_to": 11.2
-      },
-      {
-        "name": "Haaland",
-        "team": "MCI",
-        "pos": "FWD",
-        "cost": 15.6,
-        "sel": 73.7,
-        "news": "",
-        "chance": null,
-        "form_from": 7.8,
-        "form_to": 9.2
-      },
-      {
-        "name": "Isak",
-        "team": "LIV",
-        "pos": "FWD",
-        "cost": 9.1,
-        "sel": 22.4,
-        "news": "",
-        "chance": null,
-        "form_from": 6.6,
-        "form_to": 7.8
-      },
-      {
-        "name": "Semenyo",
-        "team": "MCI",
-        "pos": "MID",
-        "cost": 8.4,
-        "sel": 15.5,
-        "news": "",
-        "chance": null,
-        "form_from": 6.6,
-        "form_to": 7.8
-      },
-      {
-        "name": "Scott",
-        "team": "BOU",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 5.7,
-        "news": "",
-        "chance": null,
-        "form_from": 6.0,
-        "form_to": 7.0
-      },
-      {
-        "name": "Kostoulas",
-        "team": "BHA",
-        "pos": "FWD",
-        "cost": 5.6,
-        "sel": 3.5,
-        "news": "",
-        "chance": null,
-        "form_from": 5.6,
-        "form_to": 6.8
-      },
-      {
-        "name": "Jacquet",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 3.4,
-        "news": "",
-        "chance": 100,
-        "form_from": 4.8,
-        "form_to": 5.8
-      }
-    ],
+    "price_falls": [],
+    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -157,7 +23,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 65.8,
+      "sel": 65.7,
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -167,7 +33,7 @@
       "team": "CHE",
       "pos": "MID",
       "cost": 9.7,
-      "sel": 26.2,
+      "sel": 26.1,
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -383,16 +249,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Obi",
-      "team": "MUN",
-      "pos": "FWD",
-      "cost": 4.5,
-      "sel": 1.0,
-      "news": "Has joined Willem II on loan for the rest of the season",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
       "name": "Milenkovi\u0107",
       "team": "NFO",
       "pos": "DEF",
@@ -421,6 +277,16 @@
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Obi",
+      "team": "MUN",
+      "pos": "FWD",
+      "cost": 4.5,
+      "sel": 0.9,
+      "news": "Has joined Willem II on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
     },
     {
       "name": "Rodon",
@@ -2170,7 +2036,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 27.7,
+      "sel": 27.8,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2210,7 +2076,7 @@
       "pos": "DEF",
       "cost": 4.6,
       "form": 9.0,
-      "sel": 6.8,
+      "sel": 6.9,
       "xgi90": 0.36,
       "ep_next": 9.0
     },
@@ -2290,7 +2156,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 7.0,
-      "sel": 16.8,
+      "sel": 16.9,
       "xgi90": 0.21,
       "ep_next": 7.0
     },
@@ -2330,7 +2196,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 6.5,
-      "sel": 5.4,
+      "sel": 5.5,
       "xgi90": 0.22,
       "ep_next": 6.5
     },
@@ -2370,7 +2236,7 @@
       "pos": "GKP",
       "cost": 4.6,
       "form": 6.0,
-      "sel": 12.4,
+      "sel": 12.5,
       "xgi90": 0.0,
       "ep_next": 6.0
     },
@@ -3204,7 +3070,7 @@
         "news": "",
         "chance": null,
         "form": 4.0,
-        "sel": 17.5,
+        "sel": 17.4,
         "ep_next": 4.0,
         "slot": 1,
         "captain": false,
@@ -3300,7 +3166,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 27.7,
+        "sel": 27.8,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
@@ -3396,7 +3262,7 @@
         "news": "Knee injury - 75% chance of playing",
         "chance": 75,
         "form": 6.6,
-        "sel": 65.8,
+        "sel": 65.7,
         "ep_next": 4.9,
         "slot": 13,
         "captain": false,
