@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-09-24T05:37:34.566546+00:00",
+  "generated_at": "2026-09-24T12:04:02.203526+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 201,
-    "managers": 10965921
+    "flagged": 202,
+    "managers": 10967991
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Semenyo",
+        "team": "MCI",
+        "pos": "MID",
+        "cost": 8.4,
+        "sel": 15.6,
+        "news": "Ankle injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Butland",
-        "team": "HUL",
-        "pos": "GKP",
-        "cost": 4.4,
-        "sel": 0.1,
-        "news": "Arm injury - Unknown return date",
-        "chance": 0,
-        "from": 4.5,
-        "to": 4.4
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -47,6 +45,16 @@
       "cost": 9.7,
       "sel": 26.0,
       "news": "Muscular injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID",
+      "cost": 8.4,
+      "sel": 15.6,
+      "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -151,16 +159,6 @@
       "status": "injured"
     },
     {
-      "name": "\u0160e\u0161ko",
-      "team": "MUN",
-      "pos": "FWD",
-      "cost": 7.0,
-      "sel": 1.7,
-      "news": "Shin injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
       "name": "Targett",
       "team": "HUL",
       "pos": "DEF",
@@ -177,6 +175,16 @@
       "cost": 5.5,
       "sel": 1.6,
       "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "\u0160e\u0161ko",
+      "team": "MUN",
+      "pos": "FWD",
+      "cost": 7.0,
+      "sel": 1.6,
+      "news": "Shin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -2048,7 +2056,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 28.0,
+      "sel": 28.1,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2078,7 +2086,7 @@
       "pos": "MID",
       "cost": 6.2,
       "form": 9.0,
-      "sel": 10.9,
+      "sel": 11.0,
       "xgi90": 0.37,
       "ep_next": 9.0
     },
@@ -2100,16 +2108,6 @@
       "form": 7.8,
       "sel": 22.4,
       "xgi90": 0.79,
-      "ep_next": 7.8
-    },
-    {
-      "name": "Semenyo",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 8.4,
-      "form": 7.8,
-      "sel": 15.5,
-      "xgi90": 0.3,
       "ep_next": 7.8
     },
     {
@@ -2148,7 +2146,7 @@
       "pos": "MID",
       "cost": 5.1,
       "form": 7.0,
-      "sel": 4.9,
+      "sel": 5.0,
       "xgi90": 0.26,
       "ep_next": 7.0
     },
@@ -2158,7 +2156,7 @@
       "pos": "DEF",
       "cost": 5.7,
       "form": 7.0,
-      "sel": 26.6,
+      "sel": 26.7,
       "xgi90": 0.2,
       "ep_next": 7.0
     },
@@ -2178,7 +2176,7 @@
       "pos": "FWD",
       "cost": 5.6,
       "form": 6.8,
-      "sel": 3.6,
+      "sel": 3.7,
       "xgi90": 0.36,
       "ep_next": 6.8
     },
@@ -2268,7 +2266,7 @@
       "pos": "MID",
       "cost": 9.5,
       "form": 5.8,
-      "sel": 13.5,
+      "sel": 13.6,
       "xgi90": 0.91,
       "ep_next": 5.8
     },
@@ -2341,6 +2339,16 @@
       "sel": 7.0,
       "xgi90": 0.68,
       "ep_next": 5.5
+    },
+    {
+      "name": "Tavernier",
+      "team": "BOU",
+      "pos": "MID",
+      "cost": 6.1,
+      "form": 5.2,
+      "sel": 6.7,
+      "xgi90": 0.56,
+      "ep_next": 5.2
     }
   ],
   "fixtures": {
@@ -3068,7 +3076,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228312,
+    "overall_rank": 1228313,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3178,7 +3186,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 28.0,
+        "sel": 28.1,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
