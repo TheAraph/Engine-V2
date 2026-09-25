@@ -1,62 +1,19 @@
 {
-  "generated_at": "2026-09-25T05:34:06.247947+00:00",
+  "generated_at": "2026-09-25T12:04:18.016659+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 204,
-    "managers": 10973963
+    "managers": 10975679
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Havertz",
-        "team": "ARS",
-        "pos": "FWD",
-        "cost": 7.6,
-        "sel": 8.5,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Brobbey",
-        "team": "SUN",
-        "pos": "FWD",
-        "cost": 5.7,
-        "sel": 7.1,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
     "recovered": [],
-    "price_rises": [
-      {
-        "name": "Tzolakis",
-        "team": "HUL",
-        "pos": "GKP",
-        "cost": 4.7,
-        "sel": 12.7,
-        "news": "",
-        "chance": null,
-        "from": 4.6,
-        "to": 4.7
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Smith Rowe",
-        "team": "FUL",
-        "pos": "MID",
-        "cost": 5.3,
-        "sel": 0.2,
-        "news": "",
-        "chance": null,
-        "from": 5.4,
-        "to": 5.3
-      }
-    ],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -66,7 +23,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 65.5,
+      "sel": 65.4,
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -136,7 +93,7 @@
       "team": "SUN",
       "pos": "FWD",
       "cost": 5.7,
-      "sel": 7.1,
+      "sel": 7.0,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -282,16 +239,6 @@
       "status": "injured"
     },
     {
-      "name": "Caicedo",
-      "team": "CHE",
-      "pos": "MID",
-      "cost": 5.3,
-      "sel": 1.1,
-      "news": "Calf injury - 50% chance of playing",
-      "chance": 50,
-      "status": "doubtful"
-    },
-    {
       "name": "Scarlett",
       "team": "TOT",
       "pos": "FWD",
@@ -310,6 +257,16 @@
       "news": "Calf injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Caicedo",
+      "team": "CHE",
+      "pos": "MID",
+      "cost": 5.3,
+      "sel": 1.0,
+      "news": "Calf injury - 50% chance of playing",
+      "chance": 50,
+      "status": "doubtful"
     },
     {
       "name": "Dovin",
@@ -2159,7 +2116,7 @@
       "pos": "FWD",
       "cost": 9.1,
       "form": 7.8,
-      "sel": 22.4,
+      "sel": 22.5,
       "xgi90": 0.79,
       "ep_next": 7.8
     },
@@ -2229,7 +2186,7 @@
       "pos": "FWD",
       "cost": 5.6,
       "form": 6.8,
-      "sel": 3.7,
+      "sel": 3.8,
       "xgi90": 0.36,
       "ep_next": 6.8
     },
@@ -2309,7 +2266,7 @@
       "pos": "MID",
       "cost": 7.9,
       "form": 6.0,
-      "sel": 5.7,
+      "sel": 5.8,
       "xgi90": 0.32,
       "ep_next": 6.0
     },
@@ -2429,13 +2386,13 @@
           "gw": 9,
           "opp": "AVL",
           "home": false,
-          "fdr": 4
+          "fdr": 3
         },
         {
           "gw": 10,
           "opp": "NEW",
           "home": true,
-          "fdr": 2
+          "fdr": 3
         }
       ],
       "avg_fdr": 2.4,
@@ -2447,7 +2404,7 @@
           "gw": 6,
           "opp": "NEW",
           "home": true,
-          "fdr": 2
+          "fdr": 3
         },
         {
           "gw": 7,
@@ -2465,121 +2422,13 @@
           "gw": 9,
           "opp": "SUN",
           "home": true,
-          "fdr": 2
+          "fdr": 3
         },
         {
           "gw": 10,
           "opp": "EVE",
           "home": false,
           "fdr": 3
-        }
-      ],
-      "avg_fdr": 2.4,
-      "games": 5
-    },
-    "SUN": {
-      "fixtures": [
-        {
-          "gw": 6,
-          "opp": "BHA",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 7,
-          "opp": "BOU",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 8,
-          "opp": "LEE",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 9,
-          "opp": "COV",
-          "home": false,
-          "fdr": 2
-        },
-        {
-          "gw": 10,
-          "opp": "CHE",
-          "home": true,
-          "fdr": 4
-        }
-      ],
-      "avg_fdr": 2.6,
-      "games": 5
-    },
-    "ARS": {
-      "fixtures": [
-        {
-          "gw": 6,
-          "opp": "LEE",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 7,
-          "opp": "NFO",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 8,
-          "opp": "EVE",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 9,
-          "opp": "LIV",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 10,
-          "opp": "HUL",
-          "home": true,
-          "fdr": 2
-        }
-      ],
-      "avg_fdr": 2.8,
-      "games": 5
-    },
-    "BOU": {
-      "fixtures": [
-        {
-          "gw": 6,
-          "opp": "CHE",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 7,
-          "opp": "SUN",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 8,
-          "opp": "MUN",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 9,
-          "opp": "LEE",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 10,
-          "opp": "IPS",
-          "home": false,
-          "fdr": 2
         }
       ],
       "avg_fdr": 2.8,
@@ -2621,6 +2470,78 @@
       "avg_fdr": 2.8,
       "games": 5
     },
+    "ARS": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "LEE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 7,
+          "opp": "NFO",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 8,
+          "opp": "EVE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 9,
+          "opp": "LIV",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 10,
+          "opp": "HUL",
+          "home": true,
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "CHE": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "BOU",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 7,
+          "opp": "EVE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 8,
+          "opp": "TOT",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 9,
+          "opp": "MUN",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 10,
+          "opp": "SUN",
+          "home": false,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
     "IPS": {
       "fixtures": [
         {
@@ -2657,37 +2578,109 @@
       "avg_fdr": 3.0,
       "games": 5
     },
-    "CRY": {
+    "SUN": {
       "fixtures": [
         {
           "gw": 6,
-          "opp": "NFO",
+          "opp": "BHA",
           "home": true,
           "fdr": 3
         },
         {
           "gw": 7,
-          "opp": "BHA",
+          "opp": "BOU",
           "home": false,
           "fdr": 3
         },
         {
           "gw": 8,
-          "opp": "NEW",
+          "opp": "LEE",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 9,
+          "opp": "COV",
+          "home": false,
+          "fdr": 2
+        },
+        {
+          "gw": 10,
+          "opp": "CHE",
+          "home": true,
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "MUN": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "TOT",
           "home": true,
           "fdr": 2
         },
         {
-          "gw": 9,
-          "opp": "TOT",
+          "gw": 7,
+          "opp": "LEE",
           "home": false,
           "fdr": 3
         },
         {
-          "gw": 10,
-          "opp": "LIV",
+          "gw": 8,
+          "opp": "BOU",
           "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 9,
+          "opp": "CHE",
+          "home": false,
           "fdr": 4
+        },
+        {
+          "gw": 10,
+          "opp": "AVL",
+          "home": true,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "games": 5
+    },
+    "TOT": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "MUN",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 7,
+          "opp": "COV",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 8,
+          "opp": "CHE",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 9,
+          "opp": "CRY",
+          "home": true,
+          "fdr": 2
+        },
+        {
+          "gw": 10,
+          "opp": "LEE",
+          "home": false,
+          "fdr": 3
         }
       ],
       "avg_fdr": 3.0,
@@ -2711,13 +2704,13 @@
           "gw": 8,
           "opp": "AVL",
           "home": false,
-          "fdr": 4
+          "fdr": 3
         },
         {
           "gw": 9,
           "opp": "BHA",
           "home": true,
-          "fdr": 2
+          "fdr": 3
         },
         {
           "gw": 10,
@@ -2771,7 +2764,7 @@
           "gw": 6,
           "opp": "AVL",
           "home": false,
-          "fdr": 4
+          "fdr": 3
         },
         {
           "gw": 7,
@@ -2795,115 +2788,43 @@
           "gw": 10,
           "opp": "BHA",
           "home": false,
-          "fdr": 3
+          "fdr": 4
         }
       ],
       "avg_fdr": 3.2,
       "games": 5
     },
-    "CHE": {
+    "BOU": {
       "fixtures": [
         {
           "gw": 6,
-          "opp": "BOU",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 7,
-          "opp": "EVE",
+          "opp": "CHE",
           "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 8,
-          "opp": "TOT",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 9,
-          "opp": "MUN",
-          "home": true,
           "fdr": 4
         },
         {
-          "gw": 10,
+          "gw": 7,
           "opp": "SUN",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.2,
-      "games": 5
-    },
-    "MUN": {
-      "fixtures": [
-        {
-          "gw": 6,
-          "opp": "TOT",
           "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 7,
-          "opp": "LEE",
-          "home": false,
           "fdr": 3
         },
         {
           "gw": 8,
-          "opp": "BOU",
-          "home": true,
-          "fdr": 3
-        },
-        {
-          "gw": 9,
-          "opp": "CHE",
-          "home": false,
-          "fdr": 4
-        },
-        {
-          "gw": 10,
-          "opp": "AVL",
-          "home": true,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.2,
-      "games": 5
-    },
-    "TOT": {
-      "fixtures": [
-        {
-          "gw": 6,
           "opp": "MUN",
           "home": false,
           "fdr": 4
         },
         {
-          "gw": 7,
-          "opp": "COV",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 8,
-          "opp": "CHE",
-          "home": false,
-          "fdr": 4
-        },
-        {
           "gw": 9,
-          "opp": "CRY",
+          "opp": "LEE",
           "home": true,
           "fdr": 3
         },
         {
           "gw": 10,
-          "opp": "LEE",
+          "opp": "IPS",
           "home": false,
-          "fdr": 3
+          "fdr": 2
         }
       ],
       "avg_fdr": 3.2,
@@ -3017,42 +2938,6 @@
       "avg_fdr": 3.2,
       "games": 5
     },
-    "LIV": {
-      "fixtures": [
-        {
-          "gw": 6,
-          "opp": "MCI",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 7,
-          "opp": "BRE",
-          "home": false,
-          "fdr": 3
-        },
-        {
-          "gw": 8,
-          "opp": "BHA",
-          "home": true,
-          "fdr": 2
-        },
-        {
-          "gw": 9,
-          "opp": "ARS",
-          "home": true,
-          "fdr": 4
-        },
-        {
-          "gw": 10,
-          "opp": "CRY",
-          "home": false,
-          "fdr": 3
-        }
-      ],
-      "avg_fdr": 3.2,
-      "games": 5
-    },
     "LEE": {
       "fixtures": [
         {
@@ -3083,10 +2968,10 @@
           "gw": 10,
           "opp": "TOT",
           "home": true,
-          "fdr": 3
+          "fdr": 2
         }
       ],
-      "avg_fdr": 3.6,
+      "avg_fdr": 3.4,
       "games": 5
     },
     "BHA": {
@@ -3101,7 +2986,7 @@
           "gw": 7,
           "opp": "CRY",
           "home": true,
-          "fdr": 3
+          "fdr": 2
         },
         {
           "gw": 8,
@@ -3122,14 +3007,86 @@
           "fdr": 3
         }
       ],
-      "avg_fdr": 3.6,
+      "avg_fdr": 3.4,
+      "games": 5
+    },
+    "CRY": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "NFO",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 7,
+          "opp": "BHA",
+          "home": false,
+          "fdr": 4
+        },
+        {
+          "gw": 8,
+          "opp": "NEW",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 9,
+          "opp": "TOT",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 10,
+          "opp": "LIV",
+          "home": true,
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.4,
+      "games": 5
+    },
+    "LIV": {
+      "fixtures": [
+        {
+          "gw": 6,
+          "opp": "MCI",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 7,
+          "opp": "BRE",
+          "home": false,
+          "fdr": 3
+        },
+        {
+          "gw": 8,
+          "opp": "BHA",
+          "home": true,
+          "fdr": 3
+        },
+        {
+          "gw": 9,
+          "opp": "ARS",
+          "home": true,
+          "fdr": 4
+        },
+        {
+          "gw": 10,
+          "opp": "CRY",
+          "home": false,
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.4,
       "games": 5
     }
   },
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228331,
+    "overall_rank": 1228312,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3255,7 +3212,7 @@
         "news": "",
         "chance": null,
         "form": 2.5,
-        "sel": 12.3,
+        "sel": 12.2,
         "ep_next": 2.5,
         "slot": 8,
         "captain": false,
@@ -3335,7 +3292,7 @@
         "news": "Knee injury - 75% chance of playing",
         "chance": 75,
         "form": 5.5,
-        "sel": 65.5,
+        "sel": 65.4,
         "ep_next": 4.1,
         "slot": 13,
         "captain": false,
