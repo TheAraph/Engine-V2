@@ -1,19 +1,84 @@
 {
-  "generated_at": "2026-09-25T12:04:18.016659+00:00",
+  "generated_at": "2026-09-26T05:40:50.162304+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 204,
-    "managers": 10975679
+    "flagged": 206,
+    "managers": 10980479
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Ballard",
+        "team": "SUN",
+        "pos": "DEF",
+        "cost": 4.9,
+        "sel": 2.5,
+        "news": "Hamstring injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "Gittens",
+        "team": "CHE",
+        "pos": "MID",
+        "cost": 5.8,
+        "sel": 0.0,
+        "news": "Ankle injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [],
-    "price_falls": [],
+    "price_rises": [
+      {
+        "name": "De Cuyper",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 5.0,
+        "sel": 27.6,
+        "news": "",
+        "chance": null,
+        "from": 4.9,
+        "to": 5.0
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "Eze",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 6.2,
+        "sel": 1.0,
+        "news": "",
+        "chance": null,
+        "from": 6.3,
+        "to": 6.2
+      },
+      {
+        "name": "Yohanna",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 4.8,
+        "sel": 0.0,
+        "news": "Unspecified injury - Expected back 10 Oct",
+        "chance": 0,
+        "from": 4.9,
+        "to": 4.8
+      },
+      {
+        "name": "Gozo",
+        "team": "CRY",
+        "pos": "MID",
+        "cost": 4.9,
+        "sel": 0.0,
+        "news": "",
+        "chance": null,
+        "from": 5.0,
+        "to": 4.9
+      }
+    ],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -33,7 +98,7 @@
       "team": "CHE",
       "pos": "MID",
       "cost": 9.7,
-      "sel": 25.9,
+      "sel": 25.8,
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -53,7 +118,7 @@
       "team": "ARS",
       "pos": "MID",
       "cost": 7.4,
-      "sel": 11.8,
+      "sel": 11.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,7 +138,7 @@
       "team": "ARS",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 8.5,
+      "sel": 8.4,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -137,6 +202,16 @@
       "news": "Has joined Al Hilal permanently",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Ballard",
+      "team": "SUN",
+      "pos": "DEF",
+      "cost": 4.9,
+      "sel": 2.5,
+      "news": "Hamstring injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Foden",
@@ -1252,7 +1327,7 @@
       "name": "Yohanna",
       "team": "BHA",
       "pos": "MID",
-      "cost": 4.9,
+      "cost": 4.8,
       "sel": 0.0,
       "news": "Unspecified injury - Expected back 10 Oct",
       "chance": 0,
@@ -1327,6 +1402,16 @@
       "news": "Has joined Real Sociedad on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Gittens",
+      "team": "CHE",
+      "pos": "MID",
+      "cost": 5.8,
+      "sel": 0.0,
+      "news": "Ankle injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Kesler-Hayden",
@@ -2066,7 +2151,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 28.3,
+      "sel": 28.4,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2076,7 +2161,7 @@
       "pos": "DEF",
       "cost": 6.1,
       "form": 9.2,
-      "sel": 16.1,
+      "sel": 16.2,
       "xgi90": 0.05,
       "ep_next": 9.2
     },
@@ -2086,7 +2171,7 @@
       "pos": "FWD",
       "cost": 15.6,
       "form": 9.2,
-      "sel": 73.7,
+      "sel": 73.8,
       "xgi90": 0.99,
       "ep_next": 9.2
     },
@@ -2096,7 +2181,7 @@
       "pos": "MID",
       "cost": 6.2,
       "form": 9.0,
-      "sel": 11.1,
+      "sel": 11.2,
       "xgi90": 0.37,
       "ep_next": 9.0
     },
@@ -2146,7 +2231,7 @@
       "pos": "DEF",
       "cost": 4.5,
       "form": 7.0,
-      "sel": 1.3,
+      "sel": 1.4,
       "xgi90": 0.16,
       "ep_next": 7.0
     },
@@ -2186,7 +2271,7 @@
       "pos": "FWD",
       "cost": 5.6,
       "form": 6.8,
-      "sel": 3.8,
+      "sel": 3.9,
       "xgi90": 0.36,
       "ep_next": 6.8
     },
@@ -2216,7 +2301,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 6.5,
-      "sel": 5.5,
+      "sel": 5.6,
       "xgi90": 0.22,
       "ep_next": 6.5
     },
@@ -3086,7 +3171,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228312,
+    "overall_rank": 1228303,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3100,7 +3185,7 @@
         "news": "",
         "chance": null,
         "form": 4.0,
-        "sel": 17.4,
+        "sel": 17.3,
         "ep_next": 4.0,
         "slot": 1,
         "captain": false,
@@ -3143,12 +3228,12 @@
         "name": "De Cuyper",
         "team": "BHA",
         "pos": "DEF",
-        "cost": 4.9,
+        "cost": 5.0,
         "status": "a",
         "news": "",
         "chance": null,
         "form": 5.2,
-        "sel": 27.5,
+        "sel": 27.6,
         "ep_next": 5.2,
         "slot": 4,
         "captain": false,
@@ -3196,7 +3281,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 28.3,
+        "sel": 28.4,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
@@ -3244,7 +3329,7 @@
         "news": "",
         "chance": null,
         "form": 9.2,
-        "sel": 73.7,
+        "sel": 73.8,
         "ep_next": 9.2,
         "slot": 10,
         "captain": true,
@@ -3260,7 +3345,7 @@
         "news": "",
         "chance": null,
         "form": 5.2,
-        "sel": 24.9,
+        "sel": 24.8,
         "ep_next": 5.2,
         "slot": 11,
         "captain": false,
