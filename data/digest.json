@@ -1,84 +1,19 @@
 {
-  "generated_at": "2026-09-26T05:40:50.162304+00:00",
+  "generated_at": "2026-09-26T11:40:38.188926+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 206,
-    "managers": 10980479
+    "managers": 10981973
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Ballard",
-        "team": "SUN",
-        "pos": "DEF",
-        "cost": 4.9,
-        "sel": 2.5,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Gittens",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 5.8,
-        "sel": 0.0,
-        "news": "Ankle injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
     "recovered": [],
-    "price_rises": [
-      {
-        "name": "De Cuyper",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 27.6,
-        "news": "",
-        "chance": null,
-        "from": 4.9,
-        "to": 5.0
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Eze",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.2,
-        "sel": 1.0,
-        "news": "",
-        "chance": null,
-        "from": 6.3,
-        "to": 6.2
-      },
-      {
-        "name": "Yohanna",
-        "team": "BHA",
-        "pos": "MID",
-        "cost": 4.8,
-        "sel": 0.0,
-        "news": "Unspecified injury - Expected back 10 Oct",
-        "chance": 0,
-        "from": 4.9,
-        "to": 4.8
-      },
-      {
-        "name": "Gozo",
-        "team": "CRY",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.0,
-        "news": "",
-        "chance": null,
-        "from": 5.0,
-        "to": 4.9
-      }
-    ],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -88,7 +23,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 65.4,
+      "sel": 65.3,
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -108,7 +43,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 8.4,
-      "sel": 15.5,
+      "sel": 15.4,
       "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -2151,7 +2086,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 28.4,
+      "sel": 28.5,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2221,7 +2156,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 7.0,
-      "sel": 5.7,
+      "sel": 5.8,
       "xgi90": 0.21,
       "ep_next": 7.0
     },
@@ -2261,7 +2196,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 7.0,
-      "sel": 17.1,
+      "sel": 17.2,
       "xgi90": 0.21,
       "ep_next": 7.0
     },
@@ -3281,7 +3216,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 28.4,
+        "sel": 28.5,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
@@ -3377,7 +3312,7 @@
         "news": "Knee injury - 75% chance of playing",
         "chance": 75,
         "form": 5.5,
-        "sel": 65.4,
+        "sel": 65.3,
         "ep_next": 4.1,
         "slot": 13,
         "captain": false,
