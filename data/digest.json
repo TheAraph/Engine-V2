@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-09-27T05:57:04.549560+00:00",
+  "generated_at": "2026-09-27T12:17:48.666055+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 206,
-    "managers": 10986222
+    "flagged": 207,
+    "managers": 10987518
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Isak",
+        "team": "LIV",
+        "pos": "FWD",
+        "cost": 9.1,
+        "sel": 22.5,
+        "news": "Foot injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Zepa",
-        "team": "FUL",
-        "pos": "MID",
-        "cost": 4.4,
-        "sel": 0.3,
-        "news": "",
-        "chance": null,
-        "from": 4.5,
-        "to": 4.4
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -47,6 +45,16 @@
       "cost": 9.7,
       "sel": 25.8,
       "news": "Muscular injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Isak",
+      "team": "LIV",
+      "pos": "FWD",
+      "cost": 9.1,
+      "sel": 22.5,
+      "news": "Foot injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -2143,16 +2151,6 @@
       "ep_next": 9.0
     },
     {
-      "name": "Isak",
-      "team": "LIV",
-      "pos": "FWD",
-      "cost": 9.1,
-      "form": 7.8,
-      "sel": 22.5,
-      "xgi90": 0.79,
-      "ep_next": 7.8
-    },
-    {
       "name": "B.Fernandes",
       "team": "MUN",
       "pos": "MID",
@@ -2390,6 +2388,16 @@
       "form": 5.2,
       "sel": 0.3,
       "xgi90": 0.23,
+      "ep_next": 5.2
+    },
+    {
+      "name": "De Cuyper",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 5.0,
+      "form": 5.2,
+      "sel": 27.7,
+      "xgi90": 0.47,
       "ep_next": 5.2
     }
   ],
@@ -3118,7 +3126,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228304,
+    "overall_rank": 1228331,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
