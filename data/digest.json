@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-09-26T11:40:38.188926+00:00",
+  "generated_at": "2026-09-27T05:57:04.549560+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 206,
-    "managers": 10981973
+    "managers": 10986222
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [],
+    "price_falls": [
+      {
+        "name": "Zepa",
+        "team": "FUL",
+        "pos": "MID",
+        "cost": 4.4,
+        "sel": 0.3,
+        "news": "",
+        "chance": null,
+        "from": 4.5,
+        "to": 4.4
+      }
+    ],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -83,7 +95,7 @@
       "team": "TOT",
       "pos": "DEF",
       "cost": 5.4,
-      "sel": 7.7,
+      "sel": 7.6,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -103,7 +115,7 @@
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.4,
-      "sel": 5.9,
+      "sel": 5.8,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -113,7 +125,7 @@
       "team": "ARS",
       "pos": "DEF",
       "cost": 5.5,
-      "sel": 5.0,
+      "sel": 4.9,
       "news": "Groin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -2086,7 +2098,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 28.5,
+      "sel": 28.6,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2096,7 +2108,7 @@
       "pos": "DEF",
       "cost": 6.1,
       "form": 9.2,
-      "sel": 16.2,
+      "sel": 16.3,
       "xgi90": 0.05,
       "ep_next": 9.2
     },
@@ -2116,7 +2128,7 @@
       "pos": "MID",
       "cost": 6.2,
       "form": 9.0,
-      "sel": 11.2,
+      "sel": 11.3,
       "xgi90": 0.37,
       "ep_next": 9.0
     },
@@ -2126,7 +2138,7 @@
       "pos": "DEF",
       "cost": 4.6,
       "form": 9.0,
-      "sel": 7.0,
+      "sel": 7.1,
       "xgi90": 0.36,
       "ep_next": 9.0
     },
@@ -2146,7 +2158,7 @@
       "pos": "MID",
       "cost": 11.9,
       "form": 7.2,
-      "sel": 38.6,
+      "sel": 38.5,
       "xgi90": 0.77,
       "ep_next": 7.2
     },
@@ -2176,7 +2188,7 @@
       "pos": "MID",
       "cost": 5.1,
       "form": 7.0,
-      "sel": 5.0,
+      "sel": 5.1,
       "xgi90": 0.26,
       "ep_next": 7.0
     },
@@ -2226,7 +2238,7 @@
       "pos": "MID",
       "cost": 7.8,
       "form": 6.5,
-      "sel": 28.3,
+      "sel": 28.4,
       "xgi90": 0.67,
       "ep_next": 6.5
     },
@@ -3106,7 +3118,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228303,
+    "overall_rank": 1228304,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3168,7 +3180,7 @@
         "news": "",
         "chance": null,
         "form": 5.2,
-        "sel": 27.6,
+        "sel": 27.7,
         "ep_next": 5.2,
         "slot": 4,
         "captain": false,
@@ -3184,7 +3196,7 @@
         "news": "",
         "chance": null,
         "form": 7.2,
-        "sel": 38.6,
+        "sel": 38.5,
         "ep_next": 7.2,
         "slot": 5,
         "captain": false,
@@ -3200,7 +3212,7 @@
         "news": "",
         "chance": null,
         "form": 6.5,
-        "sel": 28.3,
+        "sel": 28.4,
         "ep_next": 6.5,
         "slot": 6,
         "captain": false,
@@ -3216,7 +3228,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 28.5,
+        "sel": 28.6,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
