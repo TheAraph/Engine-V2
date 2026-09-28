@@ -1,30 +1,97 @@
 {
-  "generated_at": "2026-09-27T12:17:48.666055+00:00",
+  "generated_at": "2026-09-28T06:04:49.504617+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 207,
-    "managers": 10987518
+    "flagged": 209,
+    "managers": 10991046
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Isak",
+        "name": "Gakpo",
         "team": "LIV",
-        "pos": "FWD",
-        "cost": 9.1,
-        "sel": 22.5,
-        "news": "Foot injury - 75% chance of playing",
+        "pos": "MID",
+        "cost": 7.2,
+        "sel": 12.5,
+        "news": "Ankle injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "Dorgu",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 5.8,
+        "sel": 0.5,
+        "news": "Hamstring injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [],
-    "price_falls": [],
-    "form_risers": [],
+    "price_rises": [
+      {
+        "name": "Barry",
+        "team": "EVE",
+        "pos": "FWD",
+        "cost": 5.7,
+        "sel": 8.3,
+        "news": "",
+        "chance": null,
+        "from": 5.6,
+        "to": 5.7
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "Emegha",
+        "team": "CHE",
+        "pos": "FWD",
+        "cost": 4.9,
+        "sel": 0.1,
+        "news": "Hamstring injury - Expected back 10 Oct",
+        "chance": 0,
+        "from": 5.0,
+        "to": 4.9
+      }
+    ],
+    "form_risers": [
+      {
+        "name": "Mitchell",
+        "team": "CRY",
+        "pos": "DEF",
+        "cost": 4.5,
+        "sel": 6.0,
+        "news": "",
+        "chance": null,
+        "form_from": 5.8,
+        "form_to": 7.7
+      },
+      {
+        "name": "Gu\u00e9hi",
+        "team": "MCI",
+        "pos": "DEF",
+        "cost": 6.0,
+        "sel": 18.2,
+        "news": "",
+        "chance": null,
+        "form_from": 5.0,
+        "form_to": 6.0
+      },
+      {
+        "name": "Donnarumma",
+        "team": "MCI",
+        "pos": "GKP",
+        "cost": 5.5,
+        "sel": 7.6,
+        "news": "",
+        "chance": null,
+        "form_from": 4.0,
+        "form_to": 5.3
+      }
+    ],
     "ownership_surges": []
   },
   "flagged": [
@@ -54,7 +121,7 @@
       "pos": "FWD",
       "cost": 9.1,
       "sel": 22.5,
-      "news": "Foot injury - 75% chance of playing",
+      "news": "Thigh injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -64,6 +131,16 @@
       "pos": "MID",
       "cost": 8.4,
       "sel": 15.4,
+      "news": "Ankle injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Gakpo",
+      "team": "LIV",
+      "pos": "MID",
+      "cost": 7.2,
+      "sel": 12.5,
       "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -439,6 +516,16 @@
       "status": "injured"
     },
     {
+      "name": "Dorgu",
+      "team": "MUN",
+      "pos": "MID",
+      "cost": 5.8,
+      "sel": 0.5,
+      "news": "Hamstring injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Woltemade",
       "team": "NEW",
       "pos": "FWD",
@@ -792,7 +879,7 @@
       "name": "Emegha",
       "team": "CHE",
       "pos": "FWD",
-      "cost": 5.0,
+      "cost": 4.9,
       "sel": 0.1,
       "news": "Hamstring injury - Expected back 10 Oct",
       "chance": 0,
@@ -895,16 +982,6 @@
       "cost": 5.0,
       "sel": 0.1,
       "news": "Has joined Stoke City permanently",
-      "chance": 0,
-      "status": "unavailable"
-    },
-    {
-      "name": "Al-Hamadi",
-      "team": "IPS",
-      "pos": "FWD",
-      "cost": 5.0,
-      "sel": 0.1,
-      "news": "Has joined Sheffield Wednesday on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
     },
@@ -1699,6 +1776,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Al-Hamadi",
+      "team": "IPS",
+      "pos": "FWD",
+      "cost": 5.0,
+      "sel": 0.0,
+      "news": "Has joined Sheffield Wednesday on loan for the rest of the season",
+      "chance": 0,
+      "status": "unavailable"
+    },
+    {
       "name": "Van Oevelen",
       "team": "IPS",
       "pos": "GKP",
@@ -2106,7 +2193,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 11.2,
-      "sel": 28.6,
+      "sel": 28.7,
       "xgi90": 0.52,
       "ep_next": 11.2
     },
@@ -2118,16 +2205,6 @@
       "form": 9.2,
       "sel": 16.3,
       "xgi90": 0.05,
-      "ep_next": 9.2
-    },
-    {
-      "name": "Haaland",
-      "team": "MCI",
-      "pos": "FWD",
-      "cost": 15.6,
-      "form": 9.2,
-      "sel": 73.8,
-      "xgi90": 0.99,
       "ep_next": 9.2
     },
     {
@@ -2149,6 +2226,36 @@
       "sel": 7.1,
       "xgi90": 0.36,
       "ep_next": 9.0
+    },
+    {
+      "name": "Haaland",
+      "team": "MCI",
+      "pos": "FWD",
+      "cost": 15.6,
+      "form": 8.0,
+      "sel": 73.8,
+      "xgi90": 0.99,
+      "ep_next": 8.0
+    },
+    {
+      "name": "Mitchell",
+      "team": "CRY",
+      "pos": "DEF",
+      "cost": 4.5,
+      "form": 7.7,
+      "sel": 6.0,
+      "xgi90": 0.23,
+      "ep_next": 7.7
+    },
+    {
+      "name": "Gvardiol",
+      "team": "MCI",
+      "pos": "DEF",
+      "cost": 5.7,
+      "form": 7.7,
+      "sel": 26.8,
+      "xgi90": 0.2,
+      "ep_next": 7.7
     },
     {
       "name": "B.Fernandes",
@@ -2191,16 +2298,6 @@
       "ep_next": 7.0
     },
     {
-      "name": "Gvardiol",
-      "team": "MCI",
-      "pos": "DEF",
-      "cost": 5.7,
-      "form": 7.0,
-      "sel": 26.7,
-      "xgi90": 0.2,
-      "ep_next": 7.0
-    },
-    {
       "name": "Hall",
       "team": "NEW",
       "pos": "DEF",
@@ -2216,7 +2313,7 @@
       "pos": "FWD",
       "cost": 5.6,
       "form": 6.8,
-      "sel": 3.9,
+      "sel": 4.0,
       "xgi90": 0.36,
       "ep_next": 6.8
     },
@@ -2228,16 +2325,6 @@
       "form": 6.5,
       "sel": 3.6,
       "xgi90": 0.1,
-      "ep_next": 6.5
-    },
-    {
-      "name": "Cherki",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 7.8,
-      "form": 6.5,
-      "sel": 28.4,
-      "xgi90": 0.67,
       "ep_next": 6.5
     },
     {
@@ -2266,7 +2353,7 @@
       "pos": "GKP",
       "cost": 5.5,
       "form": 6.2,
-      "sel": 4.0,
+      "sel": 4.1,
       "xgi90": 0.0,
       "ep_next": 6.2
     },
@@ -2291,6 +2378,16 @@
       "ep_next": 6.0
     },
     {
+      "name": "Gu\u00e9hi",
+      "team": "MCI",
+      "pos": "DEF",
+      "cost": 6.0,
+      "form": 6.0,
+      "sel": 18.2,
+      "xgi90": 0.27,
+      "ep_next": 6.0
+    },
+    {
       "name": "Cunha",
       "team": "MUN",
       "pos": "MID",
@@ -2308,16 +2405,6 @@
       "form": 5.8,
       "sel": 13.6,
       "xgi90": 0.91,
-      "ep_next": 5.8
-    },
-    {
-      "name": "Mitchell",
-      "team": "CRY",
-      "pos": "DEF",
-      "cost": 4.5,
-      "form": 5.8,
-      "sel": 6.0,
-      "xgi90": 0.23,
       "ep_next": 5.8
     },
     {
@@ -2366,39 +2453,39 @@
       "pos": "DEF",
       "cost": 4.9,
       "form": 5.8,
-      "sel": 6.6,
+      "sel": 6.5,
       "xgi90": 0.22,
       "ep_next": 5.8
     },
     {
-      "name": "Tavernier",
-      "team": "BOU",
+      "name": "Kamada",
+      "team": "CRY",
       "pos": "MID",
-      "cost": 6.1,
-      "form": 5.2,
-      "sel": 6.7,
-      "xgi90": 0.56,
-      "ep_next": 5.2
+      "cost": 5.0,
+      "form": 5.3,
+      "sel": 0.5,
+      "xgi90": 0.18,
+      "ep_next": 5.3
     },
     {
-      "name": "Schuster",
-      "team": "BRE",
-      "pos": "DEF",
-      "cost": 4.5,
-      "form": 5.2,
-      "sel": 0.3,
-      "xgi90": 0.23,
-      "ep_next": 5.2
-    },
-    {
-      "name": "De Cuyper",
-      "team": "BHA",
+      "name": "Khalaili",
+      "team": "CRY",
       "pos": "DEF",
       "cost": 5.0,
-      "form": 5.2,
-      "sel": 27.7,
-      "xgi90": 0.47,
-      "ep_next": 5.2
+      "form": 5.3,
+      "sel": 0.3,
+      "xgi90": 0.31,
+      "ep_next": 5.3
+    },
+    {
+      "name": "Donnarumma",
+      "team": "MCI",
+      "pos": "GKP",
+      "cost": 5.5,
+      "form": 5.3,
+      "sel": 7.6,
+      "xgi90": 0.0,
+      "ep_next": 5.3
     }
   ],
   "fixtures": {
@@ -3126,7 +3213,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228331,
+    "overall_rank": 1228186,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3219,9 +3306,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 6.5,
+        "form": 4.0,
         "sel": 28.4,
-        "ep_next": 6.5,
+        "ep_next": 4.0,
         "slot": 6,
         "captain": false,
         "vice": false,
@@ -3236,7 +3323,7 @@
         "news": "",
         "chance": null,
         "form": 11.2,
-        "sel": 28.6,
+        "sel": 28.7,
         "ep_next": 11.2,
         "slot": 7,
         "captain": false,
@@ -3283,9 +3370,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 9.2,
+        "form": 8.0,
         "sel": 73.8,
-        "ep_next": 9.2,
+        "ep_next": 8.0,
         "slot": 10,
         "captain": true,
         "vice": false,
