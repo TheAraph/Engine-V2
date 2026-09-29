@@ -1,74 +1,108 @@
 {
-  "generated_at": "2026-09-28T14:18:43.187951+00:00",
+  "generated_at": "2026-09-29T06:23:09.651073+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 209,
-    "managers": 10992294
+    "managers": 10994939
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [],
-    "form_risers": [
+    "price_falls": [
       {
-        "name": "A.Becker",
-        "team": "LIV",
+        "name": "Ellborg",
+        "team": "SUN",
         "pos": "GKP",
-        "cost": 5.5,
-        "sel": 4.1,
+        "cost": 4.4,
+        "sel": 0.1,
         "news": "",
         "chance": null,
-        "form_from": 6.2,
-        "form_to": 8.3
+        "from": 4.5,
+        "to": 4.4
       },
       {
-        "name": "Virgil",
-        "team": "LIV",
+        "name": "N\u00f8rgaard",
+        "team": "EVE",
+        "pos": "MID",
+        "cost": 4.8,
+        "sel": 0.0,
+        "news": "Groin injury - Unknown return date",
+        "chance": 0,
+        "from": 4.9,
+        "to": 4.8
+      },
+      {
+        "name": "Morita",
+        "team": "HUL",
+        "pos": "MID",
+        "cost": 4.9,
+        "sel": 0.0,
+        "news": "Calf injury - Expected back 11 Oct",
+        "chance": 0,
+        "from": 5.0,
+        "to": 4.9
+      },
+      {
+        "name": "Diarra",
+        "team": "SUN",
+        "pos": "MID",
+        "cost": 5.3,
+        "sel": 0.0,
+        "news": "Hamstring injury - Unknown return date",
+        "chance": 0,
+        "from": 5.4,
+        "to": 5.3
+      }
+    ],
+    "form_risers": [
+      {
+        "name": "Barnes",
+        "team": "NEW",
+        "pos": "MID",
+        "cost": 6.1,
+        "sel": 5.6,
+        "news": "",
+        "chance": null,
+        "form_from": 6.5,
+        "form_to": 7.7
+      },
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
         "pos": "DEF",
-        "cost": 6.5,
-        "sel": 16.2,
+        "cost": 4.9,
+        "sel": 6.6,
         "news": "",
         "chance": null,
         "form_from": 5.8,
         "form_to": 7.3
       },
       {
-        "name": "Araujo",
-        "team": "LIV",
+        "name": "Van de Ven",
+        "team": "TOT",
         "pos": "DEF",
-        "cost": 5.4,
-        "sel": 3.0,
-        "news": "",
-        "chance": null,
-        "form_from": 5.2,
-        "form_to": 7.0
-      },
-      {
-        "name": "Tavernier",
-        "team": "BOU",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 6.7,
-        "news": "",
-        "chance": null,
-        "form_from": 5.2,
-        "form_to": 6.7
-      },
-      {
-        "name": "Murillo",
-        "team": "NFO",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 2.1,
+        "cost": 5.0,
+        "sel": 3.8,
         "news": "",
         "chance": 100,
-        "form_from": 4.8,
-        "form_to": 6.0
+        "form_from": 4.0,
+        "form_to": 5.3
+      },
+      {
+        "name": "Kinsky",
+        "team": "TOT",
+        "pos": "GKP",
+        "cost": 4.5,
+        "sel": 17.3,
+        "news": "",
+        "chance": null,
+        "form_from": 4.0,
+        "form_to": 5.0
       }
     ],
     "ownership_surges": []
@@ -99,7 +133,7 @@
       "team": "LIV",
       "pos": "FWD",
       "cost": 9.1,
-      "sel": 22.5,
+      "sel": 22.4,
       "news": "Thigh injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -1558,7 +1592,7 @@
       "name": "N\u00f8rgaard",
       "team": "EVE",
       "pos": "MID",
-      "cost": 4.9,
+      "cost": 4.8,
       "sel": 0.0,
       "news": "Groin injury - Unknown return date",
       "chance": 0,
@@ -1698,7 +1732,7 @@
       "name": "Morita",
       "team": "HUL",
       "pos": "MID",
-      "cost": 5.0,
+      "cost": 4.9,
       "sel": 0.0,
       "news": "Calf injury - Expected back 11 Oct",
       "chance": 0,
@@ -2138,7 +2172,7 @@
       "name": "Diarra",
       "team": "SUN",
       "pos": "MID",
-      "cost": 5.4,
+      "cost": 5.3,
       "sel": 0.0,
       "news": "Hamstring injury - Unknown return date",
       "chance": 0,
@@ -2202,7 +2236,7 @@
       "pos": "DEF",
       "cost": 6.1,
       "form": 8.3,
-      "sel": 16.3,
+      "sel": 16.4,
       "xgi90": 0.05,
       "ep_next": 8.3
     },
@@ -2247,6 +2281,16 @@
       "ep_next": 7.7
     },
     {
+      "name": "Barnes",
+      "team": "NEW",
+      "pos": "MID",
+      "cost": 6.1,
+      "form": 7.7,
+      "sel": 5.6,
+      "xgi90": 0.22,
+      "ep_next": 7.7
+    },
+    {
       "name": "Belloumi",
       "team": "HUL",
       "pos": "MID",
@@ -2264,6 +2308,16 @@
       "form": 7.3,
       "sel": 16.2,
       "xgi90": 0.07,
+      "ep_next": 7.3
+    },
+    {
+      "name": "Van Hecke",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 4.9,
+      "form": 7.3,
+      "sel": 6.6,
+      "xgi90": 0.22,
       "ep_next": 7.3
     },
     {
@@ -2297,16 +2351,6 @@
       "ep_next": 7.0
     },
     {
-      "name": "Hall",
-      "team": "NEW",
-      "pos": "DEF",
-      "cost": 5.3,
-      "form": 7.0,
-      "sel": 17.2,
-      "xgi90": 0.21,
-      "ep_next": 7.0
-    },
-    {
       "name": "Kostoulas",
       "team": "BHA",
       "pos": "FWD",
@@ -2322,7 +2366,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 6.7,
-      "sel": 6.7,
+      "sel": 6.8,
       "xgi90": 0.56,
       "ep_next": 6.7
     },
@@ -2344,16 +2388,6 @@
       "form": 6.5,
       "sel": 3.6,
       "xgi90": 0.1,
-      "ep_next": 6.5
-    },
-    {
-      "name": "Barnes",
-      "team": "NEW",
-      "pos": "MID",
-      "cost": 6.1,
-      "form": 6.5,
-      "sel": 5.6,
-      "xgi90": 0.22,
       "ep_next": 6.5
     },
     {
@@ -2427,16 +2461,6 @@
       "ep_next": 5.8
     },
     {
-      "name": "Van Hecke",
-      "team": "TOT",
-      "pos": "DEF",
-      "cost": 4.9,
-      "form": 5.8,
-      "sel": 6.5,
-      "xgi90": 0.22,
-      "ep_next": 5.8
-    },
-    {
       "name": "Dasilva",
       "team": "COV",
       "pos": "DEF",
@@ -2464,6 +2488,16 @@
       "form": 5.7,
       "sel": 4.2,
       "xgi90": 0.04,
+      "ep_next": 5.7
+    },
+    {
+      "name": "Hall",
+      "team": "NEW",
+      "pos": "DEF",
+      "cost": 5.3,
+      "form": 5.7,
+      "sel": 17.3,
+      "xgi90": 0.21,
       "ep_next": 5.7
     }
   ],
@@ -3192,7 +3226,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228185,
+    "overall_rank": 1228183,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3205,9 +3239,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 4.0,
+        "form": 5.0,
         "sel": 17.3,
-        "ep_next": 4.0,
+        "ep_next": 5.0,
         "slot": 1,
         "captain": false,
         "vice": false,
