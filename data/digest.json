@@ -1,66 +1,20 @@
 {
-  "generated_at": "2026-09-30T06:07:22.184336+00:00",
+  "generated_at": "2026-09-30T12:52:49.401229+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 209,
-    "managers": 10998504
+    "managers": 10999384
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Kerkez",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 5.3,
-        "sel": 2.2,
-        "news": "",
-        "chance": null,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Pau",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.4,
-        "sel": 0.3,
-        "news": "Hamstring injury - Expected back 10 Oct",
-        "chance": 0,
-        "from": 4.5,
-        "to": 4.4
-      },
-      {
-        "name": "Wright",
-        "team": "COV",
-        "pos": "FWD",
-        "cost": 5.3,
-        "sel": 0.1,
-        "news": "Thigh injury - Unknown return date",
-        "chance": 0,
-        "from": 5.4,
-        "to": 5.3
-      }
-    ],
-    "form_risers": [
-      {
-        "name": "Emersonn",
-        "team": "IPS",
-        "pos": "FWD",
-        "cost": 5.5,
-        "sel": 3.5,
-        "news": "",
-        "chance": 100,
-        "form_from": 4.2,
-        "form_to": 5.3
-      }
-    ],
+    "price_falls": [],
+    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -159,7 +113,7 @@
       "team": "SUN",
       "pos": "FWD",
       "cost": 5.7,
-      "sel": 7.0,
+      "sel": 6.9,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -2232,7 +2186,7 @@
       "pos": "DEF",
       "cost": 4.5,
       "form": 7.7,
-      "sel": 6.0,
+      "sel": 6.1,
       "xgi90": 0.23,
       "ep_next": 7.7
     },
@@ -3182,7 +3136,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228331,
+    "overall_rank": 1228173,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
