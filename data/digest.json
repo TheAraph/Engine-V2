@@ -1,20 +1,99 @@
 {
-  "generated_at": "2026-09-30T12:52:49.401229+00:00",
+  "generated_at": "2026-10-01T06:40:01.544235+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 209,
-    "managers": 10999384
+    "flagged": 210,
+    "managers": 11002020
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 4.9,
+        "sel": 6.5,
+        "news": "Foot injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [],
-    "price_falls": [],
-    "form_risers": [],
+    "price_rises": [
+      {
+        "name": "Tarkowski",
+        "team": "EVE",
+        "pos": "DEF",
+        "cost": 6.2,
+        "sel": 16.5,
+        "news": "",
+        "chance": null,
+        "from": 6.1,
+        "to": 6.2
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "Richards",
+        "team": "CRY",
+        "pos": "DEF",
+        "cost": 4.9,
+        "sel": 0.6,
+        "news": "",
+        "chance": null,
+        "from": 5.0,
+        "to": 4.9
+      },
+      {
+        "name": "Merino",
+        "team": "ARS",
+        "pos": "MID",
+        "cost": 5.7,
+        "sel": 0.4,
+        "news": "",
+        "chance": null,
+        "from": 5.8,
+        "to": 5.7
+      },
+      {
+        "name": "Heaven",
+        "team": "MUN",
+        "pos": "DEF",
+        "cost": 4.3,
+        "sel": 0.3,
+        "news": "",
+        "chance": null,
+        "from": 4.4,
+        "to": 4.3
+      }
+    ],
+    "form_risers": [
+      {
+        "name": "McGinn",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 5.4,
+        "sel": 2.2,
+        "news": "",
+        "chance": null,
+        "form_from": 4.0,
+        "form_to": 5.0
+      },
+      {
+        "name": "Manzambi",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 5.9,
+        "sel": 0.4,
+        "news": "",
+        "chance": 100,
+        "form_from": 3.5,
+        "form_to": 4.7
+      }
+    ],
     "ownership_surges": []
   },
   "flagged": [
@@ -23,7 +102,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 65.2,
+      "sel": 65.1,
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -115,6 +194,16 @@
       "cost": 5.7,
       "sel": 6.9,
       "news": "Hamstring injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Van Hecke",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 4.9,
+      "sel": 6.5,
+      "news": "Foot injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -2126,7 +2215,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 10.7,
-      "sel": 28.8,
+      "sel": 28.9,
       "xgi90": 0.52,
       "ep_next": 10.7
     },
@@ -2154,7 +2243,7 @@
       "name": "Tarkowski",
       "team": "EVE",
       "pos": "DEF",
-      "cost": 6.1,
+      "cost": 6.2,
       "form": 8.3,
       "sel": 16.5,
       "xgi90": 0.05,
@@ -2241,16 +2330,6 @@
       "ep_next": 7.3
     },
     {
-      "name": "Van Hecke",
-      "team": "TOT",
-      "pos": "DEF",
-      "cost": 4.9,
-      "form": 7.3,
-      "sel": 6.6,
-      "xgi90": 0.22,
-      "ep_next": 7.3
-    },
-    {
       "name": "Schuster",
       "team": "BRE",
       "pos": "DEF",
@@ -2266,7 +2345,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "form": 7.0,
-      "sel": 27.7,
+      "sel": 27.8,
       "xgi90": 0.47,
       "ep_next": 7.0
     },
@@ -2351,14 +2430,14 @@
       "ep_next": 6.0
     },
     {
-      "name": "Saka",
-      "team": "ARS",
+      "name": "Buend\u00eda",
+      "team": "AVL",
       "pos": "MID",
-      "cost": 9.5,
-      "form": 5.8,
-      "sel": 13.7,
-      "xgi90": 0.91,
-      "ep_next": 5.8
+      "cost": 5.9,
+      "form": 5.7,
+      "sel": 1.0,
+      "xgi90": 0.26,
+      "ep_next": 5.7
     },
     {
       "name": "Verbruggen",
@@ -2408,6 +2487,16 @@
       "form": 5.7,
       "sel": 6.9,
       "xgi90": 0.41,
+      "ep_next": 5.7
+    },
+    {
+      "name": "Muharemovi\u0107",
+      "team": "LEE",
+      "pos": "DEF",
+      "cost": 5.0,
+      "form": 5.7,
+      "sel": 4.3,
+      "xgi90": 0.11,
       "ep_next": 5.7
     }
   ],
@@ -3136,7 +3225,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228173,
+    "overall_rank": 1228174,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3165,9 +3254,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 5.0,
+        "form": 3.0,
         "sel": 50.5,
-        "ep_next": 5.0,
+        "ep_next": 3.0,
         "slot": 2,
         "captain": false,
         "vice": false,
@@ -3181,9 +3270,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 3.0,
+        "form": 3.7,
         "sel": 19.4,
-        "ep_next": 3.0,
+        "ep_next": 3.7,
         "slot": 3,
         "captain": false,
         "vice": false,
@@ -3198,7 +3287,7 @@
         "news": "",
         "chance": null,
         "form": 7.0,
-        "sel": 27.7,
+        "sel": 27.8,
         "ep_next": 7.0,
         "slot": 4,
         "captain": false,
@@ -3246,7 +3335,7 @@
         "news": "",
         "chance": null,
         "form": 10.7,
-        "sel": 28.8,
+        "sel": 28.9,
         "ep_next": 10.7,
         "slot": 7,
         "captain": false,
@@ -3261,9 +3350,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 2.5,
+        "form": 3.3,
         "sel": 12.2,
-        "ep_next": 2.5,
+        "ep_next": 3.3,
         "slot": 8,
         "captain": false,
         "vice": false,
@@ -3342,7 +3431,7 @@
         "news": "Knee injury - 75% chance of playing",
         "chance": 75,
         "form": 4.3,
-        "sel": 65.2,
+        "sel": 65.1,
         "ep_next": 3.2,
         "slot": 13,
         "captain": false,
