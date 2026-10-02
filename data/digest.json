@@ -1,43 +1,15 @@
 {
-  "generated_at": "2026-10-02T06:24:22.146410+00:00",
+  "generated_at": "2026-10-02T12:59:09.045218+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 213,
-    "managers": 11005840
+    "managers": 11007092
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "O'Reilly",
-        "team": "MCI",
-        "pos": "DEF",
-        "cost": 6.3,
-        "sel": 10.9,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Mykolenko",
-        "team": "EVE",
-        "pos": "DEF",
-        "cost": 4.6,
-        "sel": 4.2,
-        "news": "Leg injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "L.Miley",
-        "team": "NEW",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.1,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
@@ -3204,7 +3176,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228169,
+    "overall_rank": 1228170,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
