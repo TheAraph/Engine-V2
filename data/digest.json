@@ -1,15 +1,43 @@
 {
-  "generated_at": "2026-10-01T13:44:10.794143+00:00",
+  "generated_at": "2026-10-02T06:24:22.146410+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 210,
-    "managers": 11002973
+    "flagged": 213,
+    "managers": 11005840
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "O'Reilly",
+        "team": "MCI",
+        "pos": "DEF",
+        "cost": 6.3,
+        "sel": 10.9,
+        "news": "Unspecified injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "Mykolenko",
+        "team": "EVE",
+        "pos": "DEF",
+        "cost": 4.6,
+        "sel": 4.2,
+        "news": "Leg injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "L.Miley",
+        "team": "NEW",
+        "pos": "MID",
+        "cost": 5.5,
+        "sel": 0.1,
+        "news": "Unspecified injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
@@ -43,7 +71,7 @@
       "team": "LIV",
       "pos": "FWD",
       "cost": 9.1,
-      "sel": 22.4,
+      "sel": 22.3,
       "news": "Thigh injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -74,6 +102,16 @@
       "pos": "MID",
       "cost": 7.4,
       "sel": 11.6,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "O'Reilly",
+      "team": "MCI",
+      "pos": "DEF",
+      "cost": 6.3,
+      "sel": 10.9,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -157,6 +195,16 @@
       "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Mykolenko",
+      "team": "EVE",
+      "pos": "DEF",
+      "cost": 4.6,
+      "sel": 4.2,
+      "news": "Leg injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Watkins",
@@ -289,16 +337,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Collins",
-      "team": "BRE",
-      "pos": "DEF",
-      "cost": 5.4,
-      "sel": 1.0,
-      "news": "Calf injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Caicedo",
       "team": "CHE",
       "pos": "MID",
@@ -335,6 +373,16 @@
       "cost": 6.0,
       "sel": 0.9,
       "news": "Unspecified injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Collins",
+      "team": "BRE",
+      "pos": "DEF",
+      "cost": 5.4,
+      "sel": 0.9,
+      "news": "Calf injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
@@ -997,6 +1045,16 @@
       "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "L.Miley",
+      "team": "NEW",
+      "pos": "MID",
+      "cost": 5.5,
+      "sel": 0.1,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Abbott",
@@ -2136,7 +2194,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 10.7,
-      "sel": 28.9,
+      "sel": 29.0,
       "xgi90": 0.52,
       "ep_next": 10.7
     },
@@ -2146,7 +2204,7 @@
       "pos": "MID",
       "cost": 6.2,
       "form": 8.7,
-      "sel": 11.5,
+      "sel": 11.6,
       "xgi90": 0.37,
       "ep_next": 8.7
     },
@@ -2166,7 +2224,7 @@
       "pos": "DEF",
       "cost": 6.2,
       "form": 8.3,
-      "sel": 16.5,
+      "sel": 16.6,
       "xgi90": 0.05,
       "ep_next": 8.3
     },
@@ -2236,7 +2294,7 @@
       "pos": "MID",
       "cost": 5.1,
       "form": 7.3,
-      "sel": 5.1,
+      "sel": 5.2,
       "xgi90": 0.26,
       "ep_next": 7.3
     },
@@ -2391,16 +2449,6 @@
       "ep_next": 5.7
     },
     {
-      "name": "Mykolenko",
-      "team": "EVE",
-      "pos": "DEF",
-      "cost": 4.6,
-      "form": 5.7,
-      "sel": 4.2,
-      "xgi90": 0.04,
-      "ep_next": 5.7
-    },
-    {
       "name": "Davis",
       "team": "IPS",
       "pos": "DEF",
@@ -2418,6 +2466,16 @@
       "form": 5.7,
       "sel": 4.3,
       "xgi90": 0.11,
+      "ep_next": 5.7
+    },
+    {
+      "name": "Hall",
+      "team": "NEW",
+      "pos": "DEF",
+      "cost": 5.3,
+      "form": 5.7,
+      "sel": 17.3,
+      "xgi90": 0.21,
       "ep_next": 5.7
     }
   ],
@@ -3146,7 +3204,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228173,
+    "overall_rank": 1228169,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3256,7 +3314,7 @@
         "news": "",
         "chance": null,
         "form": 10.7,
-        "sel": 28.9,
+        "sel": 29.0,
         "ep_next": 10.7,
         "slot": 7,
         "captain": false,
@@ -3272,7 +3330,7 @@
         "news": "",
         "chance": null,
         "form": 3.3,
-        "sel": 12.2,
+        "sel": 12.1,
         "ep_next": 3.3,
         "slot": 8,
         "captain": false,
