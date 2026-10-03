@@ -1,96 +1,19 @@
 {
-  "generated_at": "2026-10-03T05:53:07.593365+00:00",
+  "generated_at": "2026-10-03T11:53:13.827621+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 214,
-    "managers": 11009941
+    "managers": 11010984
   },
   "changes": {
-    "new_injuries": [
-      {
-        "name": "Tzolis",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.3,
-        "sel": 12.1,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      }
-    ],
+    "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Szoboszlai",
-        "team": "LIV",
-        "pos": "MID",
-        "cost": 6.9,
-        "sel": 32.7,
-        "news": "",
-        "chance": null,
-        "from": 7.0,
-        "to": 6.9
-      },
-      {
-        "name": "Henderson",
-        "team": "CRY",
-        "pos": "GKP",
-        "cost": 4.9,
-        "sel": 1.3,
-        "news": "Foot injury - Expected back 11 Oct",
-        "chance": 0,
-        "from": 5.0,
-        "to": 4.9
-      },
-      {
-        "name": "A\u00eft-Nouri",
-        "team": "MCI",
-        "pos": "DEF",
-        "cost": 5.2,
-        "sel": 0.4,
-        "news": "",
-        "chance": null,
-        "from": 5.3,
-        "to": 5.2
-      },
-      {
-        "name": "I.Sangar\u00e9",
-        "team": "NFO",
-        "pos": "MID",
-        "cost": 4.8,
-        "sel": 0.4,
-        "news": "",
-        "chance": 100,
-        "from": 4.9,
-        "to": 4.8
-      },
-      {
-        "name": "Longstaff",
-        "team": "LEE",
-        "pos": "MID",
-        "cost": 4.8,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 4.9,
-        "to": 4.8
-      },
-      {
-        "name": "Mamardashvili",
-        "team": "LIV",
-        "pos": "GKP",
-        "cost": 4.8,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 4.9,
-        "to": 4.8
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -2253,7 +2176,7 @@
       "pos": "MID",
       "cost": 5.8,
       "form": 10.7,
-      "sel": 29.1,
+      "sel": 29.2,
       "xgi90": 0.52,
       "ep_next": 10.7
     },
@@ -3373,7 +3296,7 @@
         "news": "",
         "chance": null,
         "form": 10.7,
-        "sel": 29.1,
+        "sel": 29.2,
         "ep_next": 10.7,
         "slot": 7,
         "captain": false,
