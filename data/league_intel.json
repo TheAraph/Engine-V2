@@ -37,7 +37,7 @@
           "pos": "MID",
           "cost": 6.3,
           "league_own": 14.3,
-          "global_own": 12.1
+          "global_own": 12.0
         },
         {
           "name": "Cherki",
@@ -51,7 +51,7 @@
           "pos": "DEF",
           "cost": 5.0,
           "league_own": 28.6,
-          "global_own": 27.8
+          "global_own": 27.9
         }
       ],
       "exposure": [
@@ -60,14 +60,14 @@
           "pos": "MID",
           "cost": 7.7,
           "league_own": 53.6,
-          "global_own": 40.5
+          "global_own": 40.6
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.7,
           "league_own": 50.0,
-          "global_own": 25.6
+          "global_own": 25.5
         }
       ],
       "captains": [
@@ -142,7 +142,7 @@
           "pos": "MID",
           "cost": 7.7,
           "league_own": 50.0,
-          "global_own": 40.5
+          "global_own": 40.6
         },
         {
           "name": "Szoboszlai",

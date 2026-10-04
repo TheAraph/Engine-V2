@@ -1,19 +1,108 @@
 {
-  "generated_at": "2026-10-03T11:53:13.827621+00:00",
+  "generated_at": "2026-10-04T06:30:56.817465+00:00",
   "next_gw": 6,
   "deadline": "2026-10-10T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
-    "flagged": 214,
-    "managers": 11010984
+    "flagged": 215,
+    "managers": 11013999
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Damsgaard",
+        "team": "BRE",
+        "pos": "MID",
+        "cost": 5.4,
+        "sel": 0.4,
+        "news": "Unspecified injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [],
-    "price_falls": [],
+    "price_rises": [
+      {
+        "name": "Gro\u00df",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 5.9,
+        "sel": 29.2,
+        "news": "",
+        "chance": null,
+        "from": 5.8,
+        "to": 5.9
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "James",
+        "team": "CHE",
+        "pos": "DEF",
+        "cost": 5.3,
+        "sel": 5.8,
+        "news": "Hamstring injury - 75% chance of playing",
+        "chance": 75,
+        "from": 5.4,
+        "to": 5.3
+      },
+      {
+        "name": "Martinez",
+        "team": "MUN",
+        "pos": "DEF",
+        "cost": 4.9,
+        "sel": 1.3,
+        "news": "",
+        "chance": 100,
+        "from": 5.0,
+        "to": 4.9
+      },
+      {
+        "name": "Dowell",
+        "team": "HUL",
+        "pos": "MID",
+        "cost": 4.4,
+        "sel": 0.3,
+        "news": "",
+        "chance": null,
+        "from": 4.5,
+        "to": 4.4
+      },
+      {
+        "name": "Woolfenden",
+        "team": "COV",
+        "pos": "DEF",
+        "cost": 3.9,
+        "sel": 0.1,
+        "news": "Knee injury - Unknown return date",
+        "chance": 0,
+        "from": 4.0,
+        "to": 3.9
+      },
+      {
+        "name": "McNeil",
+        "team": "CRY",
+        "pos": "MID",
+        "cost": 5.3,
+        "sel": 0.1,
+        "news": "",
+        "chance": null,
+        "from": 5.4,
+        "to": 5.3
+      },
+      {
+        "name": "Kova\u010di\u0107",
+        "team": "MCI",
+        "pos": "MID",
+        "cost": 5.3,
+        "sel": 0.1,
+        "news": "",
+        "chance": null,
+        "from": 5.4,
+        "to": 5.3
+      }
+    ],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -33,7 +122,7 @@
       "team": "CHE",
       "pos": "MID",
       "cost": 9.7,
-      "sel": 25.6,
+      "sel": 25.5,
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -53,7 +142,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 8.4,
-      "sel": 15.3,
+      "sel": 15.2,
       "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,7 +162,7 @@
       "team": "ARS",
       "pos": "MID",
       "cost": 6.3,
-      "sel": 12.1,
+      "sel": 12.0,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -93,7 +182,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.3,
-      "sel": 10.9,
+      "sel": 10.8,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -152,7 +241,7 @@
       "name": "James",
       "team": "CHE",
       "pos": "DEF",
-      "cost": 5.4,
+      "cost": 5.3,
       "sel": 5.8,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
@@ -509,6 +598,16 @@
       "status": "unavailable"
     },
     {
+      "name": "Damsgaard",
+      "team": "BRE",
+      "pos": "MID",
+      "cost": 5.4,
+      "sel": 0.4,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Awoniyi",
       "team": "COV",
       "pos": "FWD",
@@ -852,7 +951,7 @@
       "name": "Woolfenden",
       "team": "COV",
       "pos": "DEF",
-      "cost": 4.0,
+      "cost": 3.9,
       "sel": 0.1,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
@@ -2174,7 +2273,7 @@
       "name": "Gro\u00df",
       "team": "BHA",
       "pos": "MID",
-      "cost": 5.8,
+      "cost": 5.9,
       "form": 10.7,
       "sel": 29.2,
       "xgi90": 0.52,
@@ -2206,7 +2305,7 @@
       "pos": "DEF",
       "cost": 6.2,
       "form": 8.3,
-      "sel": 16.6,
+      "sel": 16.7,
       "xgi90": 0.05,
       "ep_next": 8.3
     },
@@ -2226,7 +2325,7 @@
       "pos": "FWD",
       "cost": 15.6,
       "form": 8.0,
-      "sel": 73.8,
+      "sel": 73.9,
       "xgi90": 0.99,
       "ep_next": 8.0
     },
@@ -2246,7 +2345,7 @@
       "pos": "DEF",
       "cost": 5.7,
       "form": 7.7,
-      "sel": 26.8,
+      "sel": 26.9,
       "xgi90": 0.2,
       "ep_next": 7.7
     },
@@ -2306,7 +2405,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "form": 7.0,
-      "sel": 27.8,
+      "sel": 27.9,
       "xgi90": 0.47,
       "ep_next": 7.0
     },
@@ -2436,7 +2535,7 @@
       "pos": "DEF",
       "cost": 4.0,
       "form": 5.7,
-      "sel": 6.9,
+      "sel": 7.0,
       "xgi90": 0.41,
       "ep_next": 5.7
     },
@@ -3186,7 +3285,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1228168,
+    "overall_rank": 1228167,
     "total_points": 340,
     "bank": 0.5,
     "value": 100.6,
@@ -3248,7 +3347,7 @@
         "news": "",
         "chance": null,
         "form": 7.0,
-        "sel": 27.8,
+        "sel": 27.9,
         "ep_next": 7.0,
         "slot": 4,
         "captain": false,
@@ -3291,7 +3390,7 @@
         "name": "Gro\u00df",
         "team": "BHA",
         "pos": "MID",
-        "cost": 5.8,
+        "cost": 5.9,
         "status": "a",
         "news": "",
         "chance": null,
@@ -3312,7 +3411,7 @@
         "news": "Hamstring injury - 75% chance of playing",
         "chance": 75,
         "form": 3.3,
-        "sel": 12.1,
+        "sel": 12.0,
         "ep_next": 2.5,
         "slot": 8,
         "captain": false,
@@ -3344,7 +3443,7 @@
         "news": "",
         "chance": null,
         "form": 8.0,
-        "sel": 73.8,
+        "sel": 73.9,
         "ep_next": 8.0,
         "slot": 10,
         "captain": true,
