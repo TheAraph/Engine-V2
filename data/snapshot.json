@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-06T13:30:09.824866+00:00",
+  "captured_at": "2026-10-07T06:40:43.930567+00:00",
   "players": {
     "1": {
       "name": "Raya",
@@ -9,14 +9,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 6.0,
+      "form": 7.5,
       "pts": 30,
       "ppg": 6.0,
       "mins": 450,
-      "sel": 42.3,
+      "sel": 42.4,
       "xgi": 0.01,
       "xgi90": 0.0,
-      "ep_next": 6.0,
+      "ep_next": 7.5,
       "starts": 5,
       "starts90": 1.0,
       "chance_now": null,
@@ -25,8 +25,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 140813,
-      "transfers_out_event": 57619
+      "transfers_in_event": 145346,
+      "transfers_out_event": 59181
     },
     "2": {
       "name": "Arrizabalaga",
@@ -52,8 +52,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 123,
-      "transfers_out_event": 282
+      "transfers_in_event": 125,
+      "transfers_out_event": 286
     },
     "3": {
       "name": "Meslier",
@@ -90,14 +90,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 4.0,
+      "form": 5.0,
       "pts": 25,
       "ppg": 5.0,
       "mins": 450,
       "sel": 22.7,
       "xgi": 0.71,
       "xgi90": 0.14,
-      "ep_next": 4.0,
+      "ep_next": 5.0,
       "starts": 5,
       "starts90": 1.0,
       "chance_now": null,
@@ -106,8 +106,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 29657,
-      "transfers_out_event": 73351
+      "transfers_in_event": 30953,
+      "transfers_out_event": 75405
     },
     "5": {
       "name": "J.Timber",
@@ -117,14 +117,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 0.3,
+      "form": 0.5,
       "pts": 1,
       "ppg": 0.5,
       "mins": 104,
-      "sel": 0.4,
+      "sel": 0.5,
       "xgi": 0.03,
       "xgi90": 0.03,
-      "ep_next": 0.3,
+      "ep_next": 0.5,
       "starts": 1,
       "starts90": 0.87,
       "chance_now": 100,
@@ -133,8 +133,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 15198,
-      "transfers_out_event": 4846
+      "transfers_in_event": 15901,
+      "transfers_out_event": 5042
     },
     "6": {
       "name": "Saliba",
@@ -160,8 +160,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 446,
-      "transfers_out_event": 1208
+      "transfers_in_event": 456,
+      "transfers_out_event": 1225
     },
     "7": {
       "name": "Lewis-Skelly",
@@ -171,14 +171,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 1.0,
+      "form": 0.5,
       "pts": 9,
       "ppg": 2.2,
       "mins": 271,
       "sel": 0.6,
       "xgi": 0.39,
       "xgi90": 0.13,
-      "ep_next": 1.0,
+      "ep_next": 0.5,
       "starts": 4,
       "starts90": 1.33,
       "chance_now": null,
@@ -187,8 +187,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1093,
-      "transfers_out_event": 5279
+      "transfers_in_event": 1151,
+      "transfers_out_event": 5356
     },
     "8": {
       "name": "Calafiori",
@@ -198,14 +198,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 3.0,
+      "form": 3.5,
       "pts": 29,
       "ppg": 5.8,
       "mins": 416,
-      "sel": 50.5,
+      "sel": 50.6,
       "xgi": 1.29,
       "xgi90": 0.27,
-      "ep_next": 3.0,
+      "ep_next": 3.5,
       "starts": 5,
       "starts90": 1.08,
       "chance_now": null,
@@ -214,8 +214,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 93084,
-      "transfers_out_event": 69806
+      "transfers_in_event": 96877,
+      "transfers_out_event": 71117
     },
     "9": {
       "name": "Hincapie",
@@ -225,14 +225,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.3,
+      "form": 0.0,
       "pts": 2,
       "ppg": 1.0,
       "mins": 32,
       "sel": 0.9,
       "xgi": 0.0,
       "xgi90": 0.0,
-      "ep_next": 0.3,
+      "ep_next": 0.0,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -241,8 +241,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1627,
-      "transfers_out_event": 6079
+      "transfers_in_event": 1663,
+      "transfers_out_event": 6143
     },
     "10": {
       "name": "White",
@@ -252,14 +252,14 @@
       "status": "d",
       "news": "Groin injury - 75% chance of playing",
       "chance": 75,
-      "form": 1.0,
+      "form": 0.5,
       "pts": 21,
       "ppg": 5.2,
       "mins": 315,
       "sel": 4.8,
       "xgi": 0.47,
       "xgi90": 0.13,
-      "ep_next": 0.8,
+      "ep_next": 0.4,
       "starts": 4,
       "starts90": 1.14,
       "chance_now": 100,
@@ -268,8 +268,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3325,
-      "transfers_out_event": 73653
+      "transfers_in_event": 3349,
+      "transfers_out_event": 75240
     },
     "11": {
       "name": "Mosquera",
@@ -295,8 +295,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1477,
-      "transfers_out_event": 10355
+      "transfers_in_event": 1590,
+      "transfers_out_event": 10599
     },
     "12": {
       "name": "Saka",
@@ -306,14 +306,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 4.0,
+      "form": 5.0,
       "pts": 32,
       "ppg": 6.4,
       "mins": 416,
-      "sel": 14.1,
+      "sel": 14.2,
       "xgi": 4.2,
       "xgi90": 0.91,
-      "ep_next": 4.0,
+      "ep_next": 5.0,
       "starts": 5,
       "starts90": 1.08,
       "chance_now": null,
@@ -322,8 +322,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 1,
-      "transfers_in_event": 155851,
-      "transfers_out_event": 52624
+      "transfers_in_event": 164127,
+      "transfers_out_event": 53997
     },
     "13": {
       "name": "Rice",
@@ -333,14 +333,14 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
-      "form": 4.0,
+      "form": 3.5,
       "pts": 20,
       "ppg": 4.0,
       "mins": 411,
       "sel": 11.5,
       "xgi": 0.81,
       "xgi90": 0.18,
-      "ep_next": 3.0,
+      "ep_next": 2.6,
       "starts": 5,
       "starts90": 1.09,
       "chance_now": null,
@@ -349,8 +349,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 7861,
-      "transfers_out_event": 95027
+      "transfers_in_event": 7932,
+      "transfers_out_event": 97948
     },
     "14": {
       "name": "Eze",
@@ -360,14 +360,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 1.0,
       "pts": 4,
       "ppg": 1.0,
       "mins": 85,
       "sel": 1.0,
       "xgi": 0.13,
       "xgi90": 0.14,
-      "ep_next": 0.7,
+      "ep_next": 1.0,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -376,8 +376,8 @@
       "corners": null,
       "fks": 3,
       "cost_change_event": -1,
-      "transfers_in_event": 3062,
-      "transfers_out_event": 7345
+      "transfers_in_event": 3208,
+      "transfers_out_event": 7444
     },
     "15": {
       "name": "\u00d8degaard",
@@ -387,14 +387,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 5.0,
+      "form": 2.5,
       "pts": 29,
       "ppg": 5.8,
       "mins": 377,
-      "sel": 19.8,
+      "sel": 19.9,
       "xgi": 2.4,
       "xgi90": 0.58,
-      "ep_next": 5.0,
+      "ep_next": 2.5,
       "starts": 5,
       "starts90": 1.19,
       "chance_now": null,
@@ -403,8 +403,8 @@
       "corners": null,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 91270,
-      "transfers_out_event": 98514
+      "transfers_in_event": 94826,
+      "transfers_out_event": 100995
     },
     "16": {
       "name": "Madueke",
@@ -414,14 +414,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.3,
+      "form": 0.0,
       "pts": 2,
       "ppg": 1.0,
       "mins": 23,
       "sel": 0.2,
       "xgi": 0.05,
       "xgi90": 0.2,
-      "ep_next": 0.3,
+      "ep_next": 0.0,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -430,8 +430,8 @@
       "corners": 5,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 812,
-      "transfers_out_event": 1661
+      "transfers_in_event": 829,
+      "transfers_out_event": 1685
     },
     "17": {
       "name": "Merino",
@@ -441,14 +441,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 1.0,
       "pts": 4,
       "ppg": 0.8,
       "mins": 81,
       "sel": 0.4,
       "xgi": 0.29,
       "xgi90": 0.33,
-      "ep_next": 0.7,
+      "ep_next": 1.0,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -457,8 +457,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 876,
-      "transfers_out_event": 3070
+      "transfers_in_event": 991,
+      "transfers_out_event": 3115
     },
     "18": {
       "name": "Martinelli",
@@ -485,7 +485,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 629
+      "transfers_out_event": 631
     },
     "19": {
       "name": "Zubimendi",
@@ -511,8 +511,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 550,
-      "transfers_out_event": 4017
+      "transfers_in_event": 555,
+      "transfers_out_event": 4080
     },
     "20": {
       "name": "Dowman",
@@ -522,14 +522,14 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
-      "form": 0.3,
+      "form": 0.5,
       "pts": 1,
       "ppg": 1.0,
       "mins": 9,
       "sel": 0.1,
       "xgi": 0.08,
       "xgi90": 0.8,
-      "ep_next": 0.2,
+      "ep_next": 0.4,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -538,8 +538,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 482,
-      "transfers_out_event": 656
+      "transfers_in_event": 484,
+      "transfers_out_event": 677
     },
     "22": {
       "name": "Nwaneri",
@@ -620,7 +620,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 24
+      "transfers_out_event": 25
     },
     "25": {
       "name": "Gy\u00f6keres",
@@ -630,14 +630,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 0.5,
       "pts": 2,
       "ppg": 1.0,
       "mins": 29,
       "sel": 3.2,
       "xgi": 0.23,
       "xgi90": 0.71,
-      "ep_next": 0.7,
+      "ep_next": 0.5,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": null,
@@ -646,8 +646,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 20276,
-      "transfers_out_event": 18815
+      "transfers_in_event": 23029,
+      "transfers_out_event": 19266
     },
     "26": {
       "name": "Havertz",
@@ -657,14 +657,14 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
-      "form": 3.7,
+      "form": 1.5,
       "pts": 19,
       "ppg": 3.8,
       "mins": 437,
       "sel": 8.1,
       "xgi": 2.04,
       "xgi90": 0.42,
-      "ep_next": 2.8,
+      "ep_next": 1.1,
       "starts": 5,
       "starts90": 1.03,
       "chance_now": null,
@@ -673,8 +673,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 51133,
-      "transfers_out_event": 78999
+      "transfers_in_event": 51275,
+      "transfers_out_event": 83260
     },
     "27": {
       "name": "G.Jesus",
@@ -701,7 +701,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1105
+      "transfers_out_event": 1113
     },
     "31": {
       "name": "Konsa",
@@ -711,14 +711,14 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
-      "form": 3.7,
+      "form": 3.5,
       "pts": 12,
       "ppg": 3.0,
       "mins": 281,
       "sel": 19.2,
       "xgi": 0.25,
       "xgi90": 0.08,
-      "ep_next": 2.8,
+      "ep_next": 2.6,
       "starts": 3,
       "starts90": 0.96,
       "chance_now": null,
@@ -727,8 +727,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 98835,
-      "transfers_out_event": 69598
+      "transfers_in_event": 100059,
+      "transfers_out_event": 76558
     },
     "452": {
       "name": "Bruno G.",
@@ -738,14 +738,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 2.7,
+      "form": 4.0,
       "pts": 9,
       "ppg": 3.0,
       "mins": 123,
       "sel": 1.8,
       "xgi": 0.25,
       "xgi90": 0.19,
-      "ep_next": 2.7,
+      "ep_next": 4.0,
       "starts": 1,
       "starts90": 0.73,
       "chance_now": 100,
@@ -754,8 +754,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6698,
-      "transfers_out_event": 8368
+      "transfers_in_event": 7022,
+      "transfers_out_event": 8546
     },
     "557": {
       "name": "Tzolis",
@@ -765,14 +765,14 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
-      "form": 3.3,
+      "form": 2.5,
       "pts": 16,
       "ppg": 3.2,
       "mins": 362,
-      "sel": 11.9,
+      "sel": 11.8,
       "xgi": 0.74,
       "xgi90": 0.19,
-      "ep_next": 2.5,
+      "ep_next": 1.9,
       "starts": 5,
       "starts90": 1.24,
       "chance_now": null,
@@ -781,8 +781,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 12547,
-      "transfers_out_event": 168082
+      "transfers_in_event": 12588,
+      "transfers_out_event": 175884
     },
     "29": {
       "name": "M.Bizot",
@@ -808,8 +808,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 70,
-      "transfers_out_event": 1088
+      "transfers_in_event": 71,
+      "transfers_out_event": 1120
     },
     "30": {
       "name": "Digne",
@@ -836,7 +836,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 257
+      "transfers_out_event": 262
     },
     "32": {
       "name": "Cash",
@@ -862,8 +862,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3035,
-      "transfers_out_event": 27545
+      "transfers_in_event": 3142,
+      "transfers_out_event": 28216
     },
     "33": {
       "name": "Mings",
@@ -889,8 +889,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2081,
-      "transfers_out_event": 1596
+      "transfers_in_event": 2194,
+      "transfers_out_event": 1655
     },
     "34": {
       "name": "Pau",
@@ -916,8 +916,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 48,
-      "transfers_out_event": 3405
+      "transfers_in_event": 50,
+      "transfers_out_event": 3480
     },
     "35": {
       "name": "Bogarde",
@@ -943,8 +943,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 183,
-      "transfers_out_event": 463
+      "transfers_in_event": 187,
+      "transfers_out_event": 469
     },
     "36": {
       "name": "Maatsen",
@@ -971,7 +971,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 55,
-      "transfers_out_event": 6875
+      "transfers_out_event": 7066
     },
     "37": {
       "name": "Lindel\u00f6f",
@@ -997,8 +997,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1271,
-      "transfers_out_event": 1464
+      "transfers_in_event": 1356,
+      "transfers_out_event": 1525
     },
     "38": {
       "name": "A.Garc\u00eda",
@@ -1024,8 +1024,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1986,
-      "transfers_out_event": 6567
+      "transfers_in_event": 2017,
+      "transfers_out_event": 6689
     },
     "39": {
       "name": "Nedeljkovic",
@@ -1052,7 +1052,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 614
+      "transfers_out_event": 627
     },
     "41": {
       "name": "Buend\u00eda",
@@ -1078,8 +1078,8 @@
       "corners": 2,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 14138,
-      "transfers_out_event": 4949
+      "transfers_in_event": 14851,
+      "transfers_out_event": 5195
     },
     "44": {
       "name": "Bailey",
@@ -1106,7 +1106,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 534
+      "transfers_out_event": 541
     },
     "45": {
       "name": "McGinn",
@@ -1132,8 +1132,8 @@
       "corners": 1,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7888,
-      "transfers_out_event": 9745
+      "transfers_in_event": 8234,
+      "transfers_out_event": 10096
     },
     "46": {
       "name": "Barkley",
@@ -1159,8 +1159,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 619,
-      "transfers_out_event": 1929
+      "transfers_in_event": 629,
+      "transfers_out_event": 1972
     },
     "47": {
       "name": "Kamara",
@@ -1186,8 +1186,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1435,
-      "transfers_out_event": 1728
+      "transfers_in_event": 1476,
+      "transfers_out_event": 1774
     },
     "48": {
       "name": "Onana",
@@ -1213,8 +1213,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 50,
-      "transfers_out_event": 103
+      "transfers_in_event": 54,
+      "transfers_out_event": 104
     },
     "49": {
       "name": "Iling Jr",
@@ -1267,8 +1267,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 680,
-      "transfers_out_event": 3629
+      "transfers_in_event": 684,
+      "transfers_out_event": 3688
     },
     "51": {
       "name": "George Hemmings",
@@ -1294,8 +1294,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3470,
-      "transfers_out_event": 10604
+      "transfers_in_event": 3528,
+      "transfers_out_event": 10911
     },
     "52": {
       "name": "Alysson",
@@ -1322,7 +1322,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 71,
-      "transfers_out_event": 840
+      "transfers_out_event": 848
     },
     "53": {
       "name": "Manzambi",
@@ -1348,8 +1348,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 30711,
-      "transfers_out_event": 4039
+      "transfers_in_event": 31799,
+      "transfers_out_event": 4228
     },
     "54": {
       "name": "Gomes",
@@ -1375,8 +1375,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 512,
-      "transfers_out_event": 211
+      "transfers_in_event": 522,
+      "transfers_out_event": 218
     },
     "55": {
       "name": "Watkins",
@@ -1403,7 +1403,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 14066
+      "transfers_out_event": 14267
     },
     "56": {
       "name": "Abraham",
@@ -1429,8 +1429,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1896,
-      "transfers_out_event": 1889
+      "transfers_in_event": 1939,
+      "transfers_out_event": 1925
     },
     "160": {
       "name": "Garnacho",
@@ -1456,8 +1456,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 606,
-      "transfers_out_event": 2956
+      "transfers_in_event": 621,
+      "transfers_out_event": 2992
     },
     "166": {
       "name": "N.Jackson",
@@ -1471,7 +1471,7 @@
       "pts": 10,
       "ppg": 2.5,
       "mins": 286,
-      "sel": 1.5,
+      "sel": 1.6,
       "xgi": 1.28,
       "xgi90": 0.4,
       "ep_next": 3.0,
@@ -1483,8 +1483,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 42328,
-      "transfers_out_event": 9381
+      "transfers_in_event": 43918,
+      "transfers_out_event": 9738
     },
     "582": {
       "name": "Madjo",
@@ -1510,8 +1510,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 299,
-      "transfers_out_event": 1951
+      "transfers_in_event": 318,
+      "transfers_out_event": 2003
     },
     "596": {
       "name": "Ruggeri",
@@ -1537,8 +1537,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 654,
-      "transfers_out_event": 370
+      "transfers_in_event": 687,
+      "transfers_out_event": 382
     },
     "597": {
       "name": "Suzuki",
@@ -1564,8 +1564,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 15035,
-      "transfers_out_event": 7425
+      "transfers_in_event": 15393,
+      "transfers_out_event": 7658
     },
     "606": {
       "name": "Rowe",
@@ -1591,8 +1591,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 341,
-      "transfers_out_event": 957
+      "transfers_in_event": 344,
+      "transfers_out_event": 968
     },
     "607": {
       "name": "Lynch",
@@ -1619,7 +1619,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 750
+      "transfers_out_event": 754
     },
     "611": {
       "name": "Wan-Bissaka",
@@ -1645,8 +1645,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1600,
-      "transfers_out_event": 1555
+      "transfers_in_event": 1649,
+      "transfers_out_event": 1585
     },
     "618": {
       "name": "Goretzka",
@@ -1672,8 +1672,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 27,
-      "transfers_out_event": 434
+      "transfers_in_event": 30,
+      "transfers_out_event": 437
     },
     "630": {
       "name": "Harwood-Bellis",
@@ -1699,8 +1699,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 218,
-      "transfers_out_event": 206
+      "transfers_in_event": 222,
+      "transfers_out_event": 211
     },
     "631": {
       "name": "Mbaye",
@@ -1726,8 +1726,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1011,
-      "transfers_out_event": 1202
+      "transfers_in_event": 1036,
+      "transfers_out_event": 1229
     },
     "667": {
       "name": "Wright",
@@ -1753,8 +1753,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8799,
-      "transfers_out_event": 1022
+      "transfers_in_event": 9013,
+      "transfers_out_event": 1067
     },
     "57": {
       "name": "Petrovi\u0107",
@@ -1780,8 +1780,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7328,
-      "transfers_out_event": 13250
+      "transfers_in_event": 7588,
+      "transfers_out_event": 13723
     },
     "58": {
       "name": "Forster",
@@ -1807,8 +1807,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9083,
-      "transfers_out_event": 8125
+      "transfers_in_event": 9386,
+      "transfers_out_event": 8341
     },
     "59": {
       "name": "Dennis",
@@ -1835,7 +1835,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 606
+      "transfers_out_event": 636
     },
     "60": {
       "name": "Hill",
@@ -1861,8 +1861,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3662,
-      "transfers_out_event": 3456
+      "transfers_in_event": 3801,
+      "transfers_out_event": 3555
     },
     "61": {
       "name": "Truffert",
@@ -1888,8 +1888,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 5322,
-      "transfers_out_event": 13536
+      "transfers_in_event": 5519,
+      "transfers_out_event": 13929
     },
     "62": {
       "name": "Diakit\u00e9",
@@ -1915,8 +1915,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 514,
-      "transfers_out_event": 1031
+      "transfers_in_event": 522,
+      "transfers_out_event": 1048
     },
     "63": {
       "name": "Milosavljevi\u0107",
@@ -1942,8 +1942,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 38,
-      "transfers_out_event": 53
+      "transfers_in_event": 40,
+      "transfers_out_event": 54
     },
     "64": {
       "name": "Smith",
@@ -1969,8 +1969,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 458,
-      "transfers_out_event": 546
+      "transfers_in_event": 477,
+      "transfers_out_event": 557
     },
     "65": {
       "name": "J.Araujo",
@@ -1996,8 +1996,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 45,
-      "transfers_out_event": 62
+      "transfers_in_event": 47,
+      "transfers_out_event": 64
     },
     "66": {
       "name": "Soler",
@@ -2023,8 +2023,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 798,
-      "transfers_out_event": 1233
+      "transfers_in_event": 816,
+      "transfers_out_event": 1256
     },
     "67": {
       "name": "Rayan",
@@ -2050,8 +2050,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 4686,
-      "transfers_out_event": 10620
+      "transfers_in_event": 4870,
+      "transfers_out_event": 10876
     },
     "68": {
       "name": "Tavernier",
@@ -2077,8 +2077,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 94341,
-      "transfers_out_event": 51442
+      "transfers_in_event": 97306,
+      "transfers_out_event": 53533
     },
     "69": {
       "name": "Scott",
@@ -2092,7 +2092,7 @@
       "pts": 30,
       "ppg": 6.0,
       "mins": 446,
-      "sel": 5.7,
+      "sel": 5.6,
       "xgi": 1.06,
       "xgi90": 0.21,
       "ep_next": 1.5,
@@ -2104,8 +2104,8 @@
       "corners": 2,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 26338,
-      "transfers_out_event": 51871
+      "transfers_in_event": 26399,
+      "transfers_out_event": 56793
     },
     "70": {
       "name": "Kluivert",
@@ -2131,8 +2131,8 @@
       "corners": 3,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 2313,
-      "transfers_out_event": 20147
+      "transfers_in_event": 2317,
+      "transfers_out_event": 20756
     },
     "71": {
       "name": "Cook",
@@ -2158,8 +2158,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 294,
-      "transfers_out_event": 1248
+      "transfers_in_event": 298,
+      "transfers_out_event": 1268
     },
     "72": {
       "name": "Gannon-Doak",
@@ -2185,8 +2185,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 159,
-      "transfers_out_event": 417
+      "transfers_in_event": 160,
+      "transfers_out_event": 425
     },
     "73": {
       "name": "Adams",
@@ -2212,8 +2212,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1226,
-      "transfers_out_event": 1787
+      "transfers_in_event": 1263,
+      "transfers_out_event": 1815
     },
     "74": {
       "name": "Brooks",
@@ -2239,8 +2239,8 @@
       "corners": 4,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 205,
-      "transfers_out_event": 357
+      "transfers_in_event": 212,
+      "transfers_out_event": 366
     },
     "75": {
       "name": "Christie",
@@ -2266,8 +2266,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 331,
-      "transfers_out_event": 278
+      "transfers_in_event": 352,
+      "transfers_out_event": 285
     },
     "76": {
       "name": "T\u00f3th.A",
@@ -2294,7 +2294,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 29,
-      "transfers_out_event": 59
+      "transfers_out_event": 60
     },
     "77": {
       "name": "Adli",
@@ -2320,8 +2320,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 29,
-      "transfers_out_event": 81
+      "transfers_in_event": 31,
+      "transfers_out_event": 82
     },
     "78": {
       "name": "Kroupi.Jr",
@@ -2347,8 +2347,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 222,
-      "transfers_out_event": 964
+      "transfers_in_event": 226,
+      "transfers_out_event": 983
     },
     "79": {
       "name": "Evanilson",
@@ -2374,8 +2374,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 21182,
-      "transfers_out_event": 23025
+      "transfers_in_event": 22053,
+      "transfers_out_event": 23599
     },
     "80": {
       "name": "Enes \u00dcnal",
@@ -2402,7 +2402,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 56
+      "transfers_out_event": 58
     },
     "81": {
       "name": "Rodr\u00edguez",
@@ -2428,8 +2428,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 901,
-      "transfers_out_event": 777
+      "transfers_in_event": 920,
+      "transfers_out_event": 790
     },
     "566": {
       "name": "Silva",
@@ -2455,8 +2455,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9698,
-      "transfers_out_event": 4790
+      "transfers_in_event": 10636,
+      "transfers_out_event": 5132
     },
     "573": {
       "name": "Sanchez",
@@ -2482,8 +2482,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 164,
-      "transfers_out_event": 477
+      "transfers_in_event": 166,
+      "transfers_out_event": 489
     },
     "608": {
       "name": "Jebbison",
@@ -2509,8 +2509,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 985,
-      "transfers_out_event": 972
+      "transfers_in_event": 1001,
+      "transfers_out_event": 982
     },
     "615": {
       "name": "Di Gregorio",
@@ -2536,8 +2536,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 198,
-      "transfers_out_event": 203
+      "transfers_in_event": 203,
+      "transfers_out_event": 206
     },
     "82": {
       "name": "Kelleher",
@@ -2563,8 +2563,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 22148,
-      "transfers_out_event": 15525
+      "transfers_in_event": 22816,
+      "transfers_out_event": 16079
     },
     "83": {
       "name": "Valdimarsson",
@@ -2590,8 +2590,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 331,
-      "transfers_out_event": 370
+      "transfers_in_event": 336,
+      "transfers_out_event": 380
     },
     "84": {
       "name": "Collins",
@@ -2617,8 +2617,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 129,
-      "transfers_out_event": 10315
+      "transfers_in_event": 131,
+      "transfers_out_event": 10543
     },
     "85": {
       "name": "Van den Berg",
@@ -2644,8 +2644,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 46,
-      "transfers_out_event": 405
+      "transfers_in_event": 49,
+      "transfers_out_event": 408
     },
     "86": {
       "name": "Lewis-Potter",
@@ -2671,8 +2671,8 @@
       "corners": 5,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 4066,
-      "transfers_out_event": 12968
+      "transfers_in_event": 4165,
+      "transfers_out_event": 13250
     },
     "87": {
       "name": "Ajer",
@@ -2698,8 +2698,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 13221,
-      "transfers_out_event": 25096
+      "transfers_in_event": 13776,
+      "transfers_out_event": 25807
     },
     "88": {
       "name": "Kayode",
@@ -2725,8 +2725,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 15659,
-      "transfers_out_event": 23672
+      "transfers_in_event": 16455,
+      "transfers_out_event": 24355
     },
     "89": {
       "name": "Henry",
@@ -2752,8 +2752,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 171,
-      "transfers_out_event": 656
+      "transfers_in_event": 173,
+      "transfers_out_event": 665
     },
     "90": {
       "name": "Hickey",
@@ -2779,8 +2779,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 201,
-      "transfers_out_event": 278
+      "transfers_in_event": 208,
+      "transfers_out_event": 284
     },
     "92": {
       "name": "Ji-soo",
@@ -2806,8 +2806,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 66,
-      "transfers_out_event": 92
+      "transfers_in_event": 67,
+      "transfers_out_event": 94
     },
     "93": {
       "name": "Schuster",
@@ -2833,8 +2833,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 17511,
-      "transfers_out_event": 2865
+      "transfers_in_event": 18485,
+      "transfers_out_event": 3035
     },
     "94": {
       "name": "Schade",
@@ -2848,7 +2848,7 @@
       "pts": 39,
       "ppg": 7.8,
       "mins": 447,
-      "sel": 12.0,
+      "sel": 12.1,
       "xgi": 1.84,
       "xgi90": 0.37,
       "ep_next": 12.0,
@@ -2860,8 +2860,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 436010,
-      "transfers_out_event": 31954
+      "transfers_in_event": 448697,
+      "transfers_out_event": 34304
     },
     "95": {
       "name": "O.Dango",
@@ -2887,8 +2887,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 925,
-      "transfers_out_event": 4017
+      "transfers_in_event": 955,
+      "transfers_out_event": 4092
     },
     "96": {
       "name": "Damsgaard",
@@ -2914,8 +2914,8 @@
       "corners": 2,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 1811,
-      "transfers_out_event": 2565
+      "transfers_in_event": 1826,
+      "transfers_out_event": 2723
     },
     "97": {
       "name": "Jensen",
@@ -2942,7 +2942,7 @@
       "fks": 2,
       "cost_change_event": 0,
       "transfers_in_event": 22,
-      "transfers_out_event": 710
+      "transfers_out_event": 725
     },
     "98": {
       "name": "Janelt",
@@ -2968,8 +2968,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 21829,
-      "transfers_out_event": 19915
+      "transfers_in_event": 22313,
+      "transfers_out_event": 20487
     },
     "99": {
       "name": "Milambo",
@@ -3022,8 +3022,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 635,
-      "transfers_out_event": 188
+      "transfers_in_event": 649,
+      "transfers_out_event": 190
     },
     "102": {
       "name": "Yarmoliuk",
@@ -3049,8 +3049,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1495,
-      "transfers_out_event": 3659
+      "transfers_in_event": 1533,
+      "transfers_out_event": 3765
     },
     "103": {
       "name": "Dasilva",
@@ -3077,7 +3077,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 10,
-      "transfers_out_event": 112
+      "transfers_out_event": 114
     },
     "105": {
       "name": "Anthony",
@@ -3103,8 +3103,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2656,
-      "transfers_out_event": 701
+      "transfers_in_event": 2756,
+      "transfers_out_event": 724
     },
     "106": {
       "name": "Thiago",
@@ -3130,8 +3130,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 67748,
-      "transfers_out_event": 42627
+      "transfers_in_event": 70168,
+      "transfers_out_event": 43771
     },
     "107": {
       "name": "Furo",
@@ -3157,8 +3157,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 977,
-      "transfers_out_event": 10251
+      "transfers_in_event": 995,
+      "transfers_out_event": 10448
     },
     "108": {
       "name": "Wilson",
@@ -3184,8 +3184,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1354,
-      "transfers_out_event": 2630
+      "transfers_in_event": 1371,
+      "transfers_out_event": 2665
     },
     "565": {
       "name": "M.Sangar\u00e9",
@@ -3211,8 +3211,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 9216,
-      "transfers_out_event": 148830
+      "transfers_in_event": 9446,
+      "transfers_out_event": 151996
     },
     "620": {
       "name": "Diouf",
@@ -3238,8 +3238,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 538,
-      "transfers_out_event": 733
+      "transfers_in_event": 555,
+      "transfers_out_event": 749
     },
     "657": {
       "name": "Nunes",
@@ -3265,8 +3265,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 376,
-      "transfers_out_event": 287
+      "transfers_in_event": 383,
+      "transfers_out_event": 290
     },
     "660": {
       "name": "Fredrick",
@@ -3292,8 +3292,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 565,
-      "transfers_out_event": 73
+      "transfers_in_event": 570,
+      "transfers_out_event": 74
     },
     "661": {
       "name": "Balcombe",
@@ -3319,8 +3319,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3194,
-      "transfers_out_event": 630
+      "transfers_in_event": 3277,
+      "transfers_out_event": 651
     },
     "109": {
       "name": "Verbruggen",
@@ -3346,8 +3346,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 82070,
-      "transfers_out_event": 81613
+      "transfers_in_event": 84531,
+      "transfers_out_event": 84522
     },
     "111": {
       "name": "Steele",
@@ -3373,8 +3373,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7910,
-      "transfers_out_event": 16397
+      "transfers_in_event": 8151,
+      "transfers_out_event": 16848
     },
     "113": {
       "name": "F.Kad\u0131o\u011flu",
@@ -3400,8 +3400,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4576,
-      "transfers_out_event": 7821
+      "transfers_in_event": 4765,
+      "transfers_out_event": 8047
     },
     "114": {
       "name": "Boscagli",
@@ -3427,8 +3427,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2438,
-      "transfers_out_event": 914
+      "transfers_in_event": 2535,
+      "transfers_out_event": 959
     },
     "115": {
       "name": "De Cuyper",
@@ -3442,7 +3442,7 @@
       "pts": 38,
       "ppg": 7.6,
       "mins": 423,
-      "sel": 28.0,
+      "sel": 28.1,
       "xgi": 2.22,
       "xgi90": 0.47,
       "ep_next": 8.5,
@@ -3454,8 +3454,8 @@
       "corners": 2,
       "fks": 4,
       "cost_change_event": 1,
-      "transfers_in_event": 329022,
-      "transfers_out_event": 26257
+      "transfers_in_event": 337742,
+      "transfers_out_event": 27443
     },
     "116": {
       "name": "Dunk",
@@ -3481,8 +3481,8 @@
       "corners": null,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 7767,
-      "transfers_out_event": 11473
+      "transfers_in_event": 7809,
+      "transfers_out_event": 11844
     },
     "117": {
       "name": "Coppola",
@@ -3508,8 +3508,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 119,
-      "transfers_out_event": 104
+      "transfers_in_event": 122,
+      "transfers_out_event": 105
     },
     "118": {
       "name": "Igor",
@@ -3536,7 +3536,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 322
+      "transfers_out_event": 324
     },
     "119": {
       "name": "Costinha",
@@ -3562,8 +3562,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 191,
-      "transfers_out_event": 147
+      "transfers_in_event": 195,
+      "transfers_out_event": 150
     },
     "120": {
       "name": "Svoboda",
@@ -3589,8 +3589,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1376,
-      "transfers_out_event": 494
+      "transfers_in_event": 1387,
+      "transfers_out_event": 496
     },
     "121": {
       "name": "Mitoma",
@@ -3616,8 +3616,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 144,
-      "transfers_out_event": 188
+      "transfers_in_event": 148,
+      "transfers_out_event": 191
     },
     "122": {
       "name": "Minteh",
@@ -3644,7 +3644,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 48,
-      "transfers_out_event": 244
+      "transfers_out_event": 247
     },
     "123": {
       "name": "Hinshelwood",
@@ -3670,8 +3670,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 315,
-      "transfers_out_event": 7337
+      "transfers_in_event": 323,
+      "transfers_out_event": 7459
     },
     "124": {
       "name": "Gro\u00df",
@@ -3685,7 +3685,7 @@
       "pts": 47,
       "ppg": 9.4,
       "mins": 450,
-      "sel": 29.6,
+      "sel": 29.8,
       "xgi": 2.63,
       "xgi90": 0.52,
       "ep_next": 15.5,
@@ -3697,8 +3697,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 2,
-      "transfers_in_event": 855274,
-      "transfers_out_event": 14952
+      "transfers_in_event": 872329,
+      "transfers_out_event": 15764
     },
     "125": {
       "name": "Georginio",
@@ -3724,8 +3724,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 2970,
-      "transfers_out_event": 4220
+      "transfers_in_event": 3035,
+      "transfers_out_event": 4336
     },
     "126": {
       "name": "O'Riley",
@@ -3751,8 +3751,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 458,
-      "transfers_out_event": 603
+      "transfers_in_event": 472,
+      "transfers_out_event": 609
     },
     "127": {
       "name": "Gomez",
@@ -3778,8 +3778,8 @@
       "corners": null,
       "fks": 5,
       "cost_change_event": 0,
-      "transfers_in_event": 13463,
-      "transfers_out_event": 42264
+      "transfers_in_event": 13815,
+      "transfers_out_event": 43482
     },
     "128": {
       "name": "Buonanotte",
@@ -3806,7 +3806,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 7
+      "transfers_out_event": 8
     },
     "129": {
       "name": "Ayari",
@@ -3832,8 +3832,8 @@
       "corners": 4,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 2645,
-      "transfers_out_event": 2218
+      "transfers_in_event": 2727,
+      "transfers_out_event": 2292
     },
     "130": {
       "name": "Wieffer",
@@ -3860,7 +3860,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 35,
-      "transfers_out_event": 2155
+      "transfers_out_event": 2204
     },
     "132": {
       "name": "Howell",
@@ -3887,7 +3887,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 229
+      "transfers_out_event": 234
     },
     "133": {
       "name": "Watson",
@@ -3940,8 +3940,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 377,
-      "transfers_out_event": 1437
+      "transfers_in_event": 385,
+      "transfers_out_event": 1461
     },
     "135": {
       "name": "Yohanna",
@@ -3968,7 +3968,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 27,
-      "transfers_out_event": 418
+      "transfers_out_event": 422
     },
     "137": {
       "name": "Tzimas",
@@ -3994,8 +3994,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 41,
-      "transfers_out_event": 58
+      "transfers_in_event": 42,
+      "transfers_out_event": 59
     },
     "138": {
       "name": "Kostoulas",
@@ -4009,7 +4009,7 @@
       "pts": 28,
       "ppg": 5.6,
       "mins": 353,
-      "sel": 4.6,
+      "sel": 4.7,
       "xgi": 1.41,
       "xgi90": 0.36,
       "ep_next": 10.0,
@@ -4021,8 +4021,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 350373,
-      "transfers_out_event": 23482
+      "transfers_in_event": 360941,
+      "transfers_out_event": 24699
     },
     "139": {
       "name": "Ferguson",
@@ -4048,8 +4048,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 152,
-      "transfers_out_event": 276
+      "transfers_in_event": 158,
+      "transfers_out_event": 281
     },
     "328": {
       "name": "Struijk",
@@ -4075,8 +4075,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 651,
-      "transfers_out_event": 1032
+      "transfers_in_event": 652,
+      "transfers_out_event": 1065
     },
     "504": {
       "name": "Vuskovic",
@@ -4102,8 +4102,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 65600,
-      "transfers_out_event": 15893
+      "transfers_in_event": 67692,
+      "transfers_out_event": 16612
     },
     "594": {
       "name": "David",
@@ -4129,8 +4129,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 3419,
-      "transfers_out_event": 2365
+      "transfers_in_event": 3469,
+      "transfers_out_event": 2397
     },
     "600": {
       "name": "Osman",
@@ -4157,7 +4157,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 119,
-      "transfers_out_event": 135
+      "transfers_out_event": 136
     },
     "605": {
       "name": "Yalcouy\u00e9",
@@ -4183,8 +4183,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 28331,
-      "transfers_out_event": 35926
+      "transfers_in_event": 28988,
+      "transfers_out_event": 36729
     },
     "614": {
       "name": "Hadjam",
@@ -4210,8 +4210,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 260,
-      "transfers_out_event": 266
+      "transfers_in_event": 263,
+      "transfers_out_event": 267
     },
     "624": {
       "name": "Cozier-Duberry",
@@ -4264,8 +4264,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3006,
-      "transfers_out_event": 357
+      "transfers_in_event": 3100,
+      "transfers_out_event": 366
     },
     "652": {
       "name": "Azeez",
@@ -4318,7 +4318,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 323,
+      "transfers_in_event": 327,
       "transfers_out_event": 224
     },
     "28": {
@@ -4329,14 +4329,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 2.3,
+      "form": 2.0,
       "pts": 9,
       "ppg": 2.2,
       "mins": 360,
       "sel": 4.7,
       "xgi": 0.01,
       "xgi90": 0.0,
-      "ep_next": 2.3,
+      "ep_next": 2.0,
       "starts": 4,
       "starts90": 1.0,
       "chance_now": null,
@@ -4345,25 +4345,25 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8815,
-      "transfers_out_event": 23716
+      "transfers_in_event": 9119,
+      "transfers_out_event": 24129
     },
     "40": {
       "name": "Rogers",
       "team": "CHE",
       "pos": "MID",
-      "cost": 7.7,
+      "cost": 7.8,
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 5.3,
+      "form": 5.0,
       "pts": 29,
       "ppg": 5.8,
       "mins": 437,
-      "sel": 40.7,
+      "sel": 40.8,
       "xgi": 2.95,
       "xgi90": 0.6,
-      "ep_next": 5.3,
+      "ep_next": 5.0,
       "starts": 5,
       "starts90": 1.03,
       "chance_now": null,
@@ -4371,9 +4371,9 @@
       "pens_text": "",
       "corners": 4,
       "fks": 3,
-      "cost_change_event": 0,
-      "transfers_in_event": 178823,
-      "transfers_out_event": 77128
+      "cost_change_event": 1,
+      "transfers_in_event": 192526,
+      "transfers_out_event": 78653
     },
     "101": {
       "name": "Henderson",
@@ -4383,14 +4383,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 0.7,
+      "form": 1.0,
       "pts": 2,
       "ppg": 2.0,
       "mins": 90,
       "sel": 0.0,
       "xgi": 0.08,
       "xgi90": 0.08,
-      "ep_next": 0.7,
+      "ep_next": 1.0,
       "starts": 1,
       "starts90": 1.0,
       "chance_now": 50,
@@ -4399,8 +4399,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 557,
-      "transfers_out_event": 177
+      "transfers_in_event": 565,
+      "transfers_out_event": 183
     },
     "136": {
       "name": "Welbeck",
@@ -4410,14 +4410,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 1.3,
+      "form": 1.5,
       "pts": 4,
       "ppg": 1.3,
       "mins": 85,
       "sel": 1.0,
       "xgi": 0.14,
       "xgi90": 0.15,
-      "ep_next": 1.3,
+      "ep_next": 1.5,
       "starts": 1,
       "starts90": 1.06,
       "chance_now": 100,
@@ -4426,8 +4426,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8860,
-      "transfers_out_event": 10133
+      "transfers_in_event": 9227,
+      "transfers_out_event": 10387
     },
     "140": {
       "name": "S\u00e1nchez",
@@ -4454,7 +4454,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 5303
+      "transfers_out_event": 5410
     },
     "141": {
       "name": "J\u00f6rgensen",
@@ -4491,14 +4491,14 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
-      "form": 0.7,
+      "form": 0.5,
       "pts": 3,
       "ppg": 0.8,
       "mins": 292,
       "sel": 5.7,
       "xgi": 0.59,
       "xgi90": 0.18,
-      "ep_next": 0.5,
+      "ep_next": 0.4,
       "starts": 3,
       "starts90": 0.92,
       "chance_now": 75,
@@ -4507,8 +4507,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": -1,
-      "transfers_in_event": 709,
-      "transfers_out_event": 83838
+      "transfers_in_event": 726,
+      "transfers_out_event": 85377
     },
     "143": {
       "name": "Chalobah",
@@ -4535,7 +4535,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 348
+      "transfers_out_event": 352
     },
     "144": {
       "name": "Gusto",
@@ -4545,14 +4545,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 0.5,
       "pts": 4,
       "ppg": 1.0,
       "mins": 272,
       "sel": 0.9,
       "xgi": 0.2,
       "xgi90": 0.07,
-      "ep_next": 0.7,
+      "ep_next": 0.5,
       "starts": 3,
       "starts90": 0.99,
       "chance_now": null,
@@ -4561,8 +4561,8 @@
       "corners": 6,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1720,
-      "transfers_out_event": 7269
+      "transfers_in_event": 1756,
+      "transfers_out_event": 7366
     },
     "145": {
       "name": "Fofana",
@@ -4572,14 +4572,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 2.7,
+      "form": 2.5,
       "pts": 8,
       "ppg": 2.0,
       "mins": 312,
       "sel": 0.2,
       "xgi": 0.08,
       "xgi90": 0.02,
-      "ep_next": 2.7,
+      "ep_next": 2.5,
       "starts": 4,
       "starts90": 1.15,
       "chance_now": 100,
@@ -4588,8 +4588,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2886,
-      "transfers_out_event": 1429
+      "transfers_in_event": 2990,
+      "transfers_out_event": 1457
     },
     "146": {
       "name": "B.Badiashile",
@@ -4616,7 +4616,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 50
+      "transfers_out_event": 51
     },
     "148": {
       "name": "Hato",
@@ -4626,14 +4626,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 1.0,
+      "form": 0.0,
       "pts": 8,
       "ppg": 2.0,
       "mins": 258,
       "sel": 0.8,
       "xgi": 0.22,
       "xgi90": 0.07,
-      "ep_next": 1.0,
+      "ep_next": 0.0,
       "starts": 4,
       "starts90": 1.4,
       "chance_now": null,
@@ -4642,8 +4642,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 959,
-      "transfers_out_event": 7917
+      "transfers_in_event": 997,
+      "transfers_out_event": 8076
     },
     "149": {
       "name": "Colwill",
@@ -4653,14 +4653,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 1.0,
       "pts": 3,
       "ppg": 0.8,
       "mins": 341,
       "sel": 0.9,
       "xgi": 0.06,
       "xgi90": 0.01,
-      "ep_next": 0.7,
+      "ep_next": 1.0,
       "starts": 4,
       "starts90": 1.06,
       "chance_now": null,
@@ -4669,8 +4669,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1282,
-      "transfers_out_event": 5804
+      "transfers_in_event": 1337,
+      "transfers_out_event": 5908
     },
     "150": {
       "name": "M.Sarr",
@@ -4697,7 +4697,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 185
+      "transfers_out_event": 190
     },
     "151": {
       "name": "Acheampong",
@@ -4707,14 +4707,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.3,
+      "form": 0.0,
       "pts": 5,
       "ppg": 1.2,
       "mins": 221,
       "sel": 0.3,
       "xgi": 0.03,
       "xgi90": 0.01,
-      "ep_next": 0.3,
+      "ep_next": 0.0,
       "starts": 2,
       "starts90": 0.81,
       "chance_now": null,
@@ -4723,8 +4723,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 463,
-      "transfers_out_event": 2087
+      "transfers_in_event": 478,
+      "transfers_out_event": 2123
     },
     "152": {
       "name": "Palestra",
@@ -4750,8 +4750,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 289,
-      "transfers_out_event": 4334
+      "transfers_in_event": 307,
+      "transfers_out_event": 4465
     },
     "154": {
       "name": "Palmer",
@@ -4761,14 +4761,14 @@
       "status": "d",
       "news": "Muscular injury - 75% chance of playing",
       "chance": 75,
-      "form": 2.7,
+      "form": 3.5,
       "pts": 28,
       "ppg": 5.6,
       "mins": 442,
-      "sel": 25.4,
+      "sel": 25.3,
       "xgi": 2.1,
       "xgi90": 0.43,
-      "ep_next": 2.0,
+      "ep_next": 2.6,
       "starts": 5,
       "starts90": 1.02,
       "chance_now": 100,
@@ -4777,8 +4777,8 @@
       "corners": null,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 53242,
-      "transfers_out_event": 197481
+      "transfers_in_event": 54435,
+      "transfers_out_event": 205738
     },
     "156": {
       "name": "Neto",
@@ -4804,8 +4804,8 @@
       "corners": 2,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 6148,
-      "transfers_out_event": 10334
+      "transfers_in_event": 6432,
+      "transfers_out_event": 10521
     },
     "157": {
       "name": "Est\u00eav\u00e3o",
@@ -4831,8 +4831,8 @@
       "corners": 5,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2053,
-      "transfers_out_event": 4585
+      "transfers_in_event": 2121,
+      "transfers_out_event": 4655
     },
     "158": {
       "name": "Gittens",
@@ -4859,7 +4859,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 160,
-      "transfers_out_event": 273
+      "transfers_out_event": 277
     },
     "159": {
       "name": "Caicedo",
@@ -4885,8 +4885,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 450,
-      "transfers_out_event": 9732
+      "transfers_in_event": 456,
+      "transfers_out_event": 9935
     },
     "161": {
       "name": "Lavia",
@@ -4912,8 +4912,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 504,
-      "transfers_out_event": 2614
+      "transfers_in_event": 525,
+      "transfers_out_event": 2668
     },
     "163": {
       "name": "D.Essugo",
@@ -4940,7 +4940,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 786
+      "transfers_out_event": 798
     },
     "164": {
       "name": "Quenda",
@@ -4950,14 +4950,14 @@
       "status": "a",
       "news": "",
       "chance": 100,
-      "form": 0.3,
+      "form": 0.5,
       "pts": 2,
       "ppg": 1.0,
       "mins": 27,
       "sel": 0.0,
       "xgi": 0.04,
       "xgi90": 0.13,
-      "ep_next": 0.3,
+      "ep_next": 0.5,
       "starts": 0,
       "starts90": 0.0,
       "chance_now": 100,
@@ -4966,8 +4966,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 79,
-      "transfers_out_event": 192
+      "transfers_in_event": 80,
+      "transfers_out_event": 194
     },
     "165": {
       "name": "Jo\u00e3o Pedro",
@@ -4977,14 +4977,14 @@
       "status": "d",
       "news": "Knee injury - 75% chance of playing",
       "chance": 75,
-      "form": 4.3,
+      "form": 6.0,
       "pts": 33,
       "ppg": 8.2,
       "mins": 360,
-      "sel": 64.8,
+      "sel": 64.7,
       "xgi": 2.36,
       "xgi90": 0.59,
-      "ep_next": 3.2,
+      "ep_next": 4.5,
       "starts": 4,
       "starts90": 1.0,
       "chance_now": 75,
@@ -4993,8 +4993,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 74222,
-      "transfers_out_event": 426945
+      "transfers_in_event": 77028,
+      "transfers_out_event": 436820
     },
     "168": {
       "name": "Marc Guiu",
@@ -5021,7 +5021,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1680
+      "transfers_out_event": 1710
     },
     "169": {
       "name": "Mheuka",
@@ -5047,8 +5047,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4879,
-      "transfers_out_event": 3790
+      "transfers_in_event": 4981,
+      "transfers_out_event": 3854
     },
     "170": {
       "name": "Emegha",
@@ -5074,8 +5074,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 99,
-      "transfers_out_event": 1169
+      "transfers_in_event": 102,
+      "transfers_out_event": 1182
     },
     "200": {
       "name": "Lacroix",
@@ -5101,8 +5101,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 9361,
-      "transfers_out_event": 31762
+      "transfers_in_event": 9758,
+      "transfers_out_event": 32423
     },
     "560": {
       "name": "Penders",
@@ -5128,8 +5128,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 256,
-      "transfers_out_event": 322
+      "transfers_in_event": 258,
+      "transfers_out_event": 329
     },
     "561": {
       "name": "Anselmino",
@@ -5155,7 +5155,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 73,
+      "transfers_in_event": 74,
       "transfers_out_event": 114
     },
     "568": {
@@ -5166,14 +5166,14 @@
       "status": "a",
       "news": "",
       "chance": null,
-      "form": 0.7,
+      "form": 1.0,
       "pts": 3,
       "ppg": 1.0,
       "mins": 115,
       "sel": 0.1,
       "xgi": 0.18,
       "xgi90": 0.14,
-      "ep_next": 0.7,
+      "ep_next": 1.0,
       "starts": 1,
       "starts90": 0.78,
       "chance_now": null,
@@ -5182,8 +5182,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 261,
-      "transfers_out_event": 486
+      "transfers_in_event": 268,
+      "transfers_out_event": 495
     },
     "583": {
       "name": "Chavarria",
@@ -5209,8 +5209,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 492,
-      "transfers_out_event": 602
+      "transfers_in_event": 517,
+      "transfers_out_event": 613
     },
     "662": {
       "name": "Nicoll-Jazuli",
@@ -5236,7 +5236,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 358,
+      "transfers_in_event": 363,
       "transfers_out_event": 79
     },
     "91": {
@@ -5263,8 +5263,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 465,
-      "transfers_out_event": 263
+      "transfers_in_event": 483,
+      "transfers_out_event": 273
     },
     "104": {
       "name": "Onyeka",
@@ -5290,8 +5290,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 186,
-      "transfers_out_event": 495
+      "transfers_in_event": 190,
+      "transfers_out_event": 509
     },
     "110": {
       "name": "Rushworth",
@@ -5317,8 +5317,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2877,
-      "transfers_out_event": 6395
+      "transfers_in_event": 2962,
+      "transfers_out_event": 6526
     },
     "171": {
       "name": "Dovin",
@@ -5345,7 +5345,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 5292
+      "transfers_out_event": 5443
     },
     "172": {
       "name": "Wilson",
@@ -5371,8 +5371,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 263,
-      "transfers_out_event": 757
+      "transfers_in_event": 268,
+      "transfers_out_event": 774
     },
     "173": {
       "name": "Thomas",
@@ -5398,8 +5398,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 31440,
-      "transfers_out_event": 35930
+      "transfers_in_event": 33177,
+      "transfers_out_event": 37023
     },
     "174": {
       "name": "Kitching",
@@ -5426,7 +5426,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2045
+      "transfers_out_event": 2086
     },
     "175": {
       "name": "van Ewijk",
@@ -5452,8 +5452,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1232,
-      "transfers_out_event": 83959
+      "transfers_in_event": 1255,
+      "transfers_out_event": 86382
     },
     "176": {
       "name": "Dasilva",
@@ -5479,8 +5479,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7612,
-      "transfers_out_event": 2144
+      "transfers_in_event": 8045,
+      "transfers_out_event": 2252
     },
     "177": {
       "name": "Kesler-Hayden",
@@ -5506,8 +5506,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 4020,
-      "transfers_out_event": 1013
+      "transfers_in_event": 4056,
+      "transfers_out_event": 1032
     },
     "178": {
       "name": "Bidwell",
@@ -5533,8 +5533,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 195,
-      "transfers_out_event": 328
+      "transfers_in_event": 200,
+      "transfers_out_event": 336
     },
     "179": {
       "name": "Latibeaudiere",
@@ -5560,8 +5560,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 80,
-      "transfers_out_event": 152
+      "transfers_in_event": 82,
+      "transfers_out_event": 156
     },
     "180": {
       "name": "Woolfenden",
@@ -5587,8 +5587,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 188,
-      "transfers_out_event": 584
+      "transfers_in_event": 208,
+      "transfers_out_event": 603
     },
     "181": {
       "name": "Brau",
@@ -5641,8 +5641,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 44,
-      "transfers_out_event": 7399
+      "transfers_in_event": 46,
+      "transfers_out_event": 7555
     },
     "183": {
       "name": "Rudoni",
@@ -5668,8 +5668,8 @@
       "corners": 5,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 1024,
-      "transfers_out_event": 775
+      "transfers_in_event": 1056,
+      "transfers_out_event": 809
     },
     "184": {
       "name": "Grimes",
@@ -5695,8 +5695,8 @@
       "corners": 1,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 201,
-      "transfers_out_event": 954
+      "transfers_in_event": 205,
+      "transfers_out_event": 980
     },
     "185": {
       "name": "Sakamoto",
@@ -5722,8 +5722,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 133,
-      "transfers_out_event": 425
+      "transfers_in_event": 135,
+      "transfers_out_event": 444
     },
     "186": {
       "name": "Mason-Clark",
@@ -5749,8 +5749,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 79,
-      "transfers_out_event": 379
+      "transfers_in_event": 82,
+      "transfers_out_event": 386
     },
     "187": {
       "name": "Eccles",
@@ -5776,8 +5776,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 25,
-      "transfers_out_event": 100
+      "transfers_in_event": 27,
+      "transfers_out_event": 105
     },
     "188": {
       "name": "Torp",
@@ -5804,7 +5804,7 @@
       "fks": 2,
       "cost_change_event": -1,
       "transfers_in_event": 46,
-      "transfers_out_event": 483
+      "transfers_out_event": 493
     },
     "189": {
       "name": "Shepherd",
@@ -5830,8 +5830,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4416,
-      "transfers_out_event": 2816
+      "transfers_in_event": 4453,
+      "transfers_out_event": 3110
     },
     "190": {
       "name": "Tchaouna",
@@ -5857,8 +5857,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 27,
-      "transfers_out_event": 396
+      "transfers_in_event": 29,
+      "transfers_out_event": 405
     },
     "191": {
       "name": "Borges Rodrigues",
@@ -5885,7 +5885,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 752
+      "transfers_out_event": 771
     },
     "192": {
       "name": "Andrews",
@@ -5912,7 +5912,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2169
+      "transfers_out_event": 2212
     },
     "193": {
       "name": "Wright",
@@ -5939,7 +5939,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 52,
-      "transfers_out_event": 611
+      "transfers_out_event": 626
     },
     "194": {
       "name": "Thomas-Asante",
@@ -5965,8 +5965,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9317,
-      "transfers_out_event": 6622
+      "transfers_in_event": 9628,
+      "transfers_out_event": 6805
     },
     "195": {
       "name": "Simms",
@@ -5992,8 +5992,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 2307,
-      "transfers_out_event": 5748
+      "transfers_in_event": 2401,
+      "transfers_out_event": 5889
     },
     "196": {
       "name": "Markelo",
@@ -6047,7 +6047,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 157
+      "transfers_out_event": 160
     },
     "492": {
       "name": "Awoniyi",
@@ -6073,8 +6073,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 82,
-      "transfers_out_event": 5489
+      "transfers_in_event": 83,
+      "transfers_out_event": 5620
     },
     "575": {
       "name": "Yirenkyi",
@@ -6100,8 +6100,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 324,
-      "transfers_out_event": 1092
+      "transfers_in_event": 337,
+      "transfers_out_event": 1114
     },
     "584": {
       "name": "Hamer",
@@ -6127,8 +6127,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 43,
-      "transfers_out_event": 421
+      "transfers_in_event": 44,
+      "transfers_out_event": 432
     },
     "599": {
       "name": "Cherif",
@@ -6154,8 +6154,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 597,
-      "transfers_out_event": 814
+      "transfers_in_event": 607,
+      "transfers_out_event": 828
     },
     "623": {
       "name": "Bentley",
@@ -6181,8 +6181,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9094,
-      "transfers_out_event": 2626
+      "transfers_in_event": 9398,
+      "transfers_out_event": 2691
     },
     "655": {
       "name": "Gboho",
@@ -6208,8 +6208,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 80,
-      "transfers_out_event": 54
+      "transfers_in_event": 81,
+      "transfers_out_event": 55
     },
     "656": {
       "name": "Mfuni",
@@ -6235,8 +6235,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2015,
-      "transfers_out_event": 933
+      "transfers_in_event": 2057,
+      "transfers_out_event": 941
     },
     "42": {
       "name": "Guessand",
@@ -6289,8 +6289,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 29,
-      "transfers_out_event": 854
+      "transfers_in_event": 31,
+      "transfers_out_event": 874
     },
     "198": {
       "name": "Henderson",
@@ -6316,8 +6316,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 161,
-      "transfers_out_event": 12324
+      "transfers_in_event": 166,
+      "transfers_out_event": 12584
     },
     "199": {
       "name": "Benitez",
@@ -6343,8 +6343,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 773,
-      "transfers_out_event": 426
+      "transfers_in_event": 800,
+      "transfers_out_event": 437
     },
     "202": {
       "name": "Richards",
@@ -6370,8 +6370,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1836,
-      "transfers_out_event": 2417
+      "transfers_in_event": 1921,
+      "transfers_out_event": 2469
     },
     "203": {
       "name": "Canvot",
@@ -6397,8 +6397,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 491,
-      "transfers_out_event": 963
+      "transfers_in_event": 520,
+      "transfers_out_event": 979
     },
     "204": {
       "name": "Mitchell",
@@ -6424,8 +6424,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 17233,
-      "transfers_out_event": 18377
+      "transfers_in_event": 17761,
+      "transfers_out_event": 19060
     },
     "205": {
       "name": "Sosa",
@@ -6452,7 +6452,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 120
+      "transfers_out_event": 121
     },
     "206": {
       "name": "Chadi Riad",
@@ -6478,8 +6478,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 28,
-      "transfers_out_event": 145
+      "transfers_in_event": 29,
+      "transfers_out_event": 153
     },
     "207": {
       "name": "Mingueza",
@@ -6505,8 +6505,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 98,
-      "transfers_out_event": 310
+      "transfers_in_event": 100,
+      "transfers_out_event": 316
     },
     "208": {
       "name": "Sarr",
@@ -6532,8 +6532,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2834,
-      "transfers_out_event": 2439
+      "transfers_in_event": 2934,
+      "transfers_out_event": 2503
     },
     "210": {
       "name": "Wharton",
@@ -6559,8 +6559,8 @@
       "corners": 2,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1271,
-      "transfers_out_event": 4855
+      "transfers_in_event": 1300,
+      "transfers_out_event": 4941
     },
     "211": {
       "name": "Yeremy",
@@ -6586,8 +6586,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 757,
-      "transfers_out_event": 2931
+      "transfers_in_event": 772,
+      "transfers_out_event": 3037
     },
     "212": {
       "name": "Hughes",
@@ -6601,7 +6601,7 @@
       "pts": 2,
       "ppg": 1.0,
       "mins": 29,
-      "sel": 7.3,
+      "sel": 7.2,
       "xgi": 0.04,
       "xgi90": 0.12,
       "ep_next": 0.5,
@@ -6613,8 +6613,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9714,
-      "transfers_out_event": 48632
+      "transfers_in_event": 9905,
+      "transfers_out_event": 50072
     },
     "213": {
       "name": "Lerma",
@@ -6640,8 +6640,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 99,
-      "transfers_out_event": 411
+      "transfers_in_event": 102,
+      "transfers_out_event": 419
     },
     "214": {
       "name": "Kamada",
@@ -6667,8 +6667,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3613,
-      "transfers_out_event": 3359
+      "transfers_in_event": 3718,
+      "transfers_out_event": 3478
     },
     "215": {
       "name": "Devenny",
@@ -6722,7 +6722,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 135
+      "transfers_out_event": 142
     },
     "217": {
       "name": "M.Fran\u00e7a",
@@ -6749,7 +6749,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 169
+      "transfers_out_event": 172
     },
     "218": {
       "name": "Doucour\u00e9",
@@ -6775,8 +6775,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 123,
-      "transfers_out_event": 312
+      "transfers_in_event": 125,
+      "transfers_out_event": 322
     },
     "219": {
       "name": "J.Rak-Sakyi",
@@ -6856,8 +6856,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 161,
-      "transfers_out_event": 458
+      "transfers_in_event": 166,
+      "transfers_out_event": 468
     },
     "222": {
       "name": "Strand Larsen",
@@ -6883,8 +6883,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5881,
-      "transfers_out_event": 4368
+      "transfers_in_event": 6188,
+      "transfers_out_event": 4497
     },
     "223": {
       "name": "Mateta",
@@ -6910,8 +6910,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 239,
-      "transfers_out_event": 9900
+      "transfers_in_event": 247,
+      "transfers_out_event": 10071
     },
     "224": {
       "name": "Nketiah",
@@ -6937,8 +6937,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1430,
-      "transfers_out_event": 3638
+      "transfers_in_event": 1463,
+      "transfers_out_event": 3725
     },
     "225": {
       "name": "Uche",
@@ -6991,8 +6991,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 85,
-      "transfers_out_event": 533
+      "transfers_in_event": 87,
+      "transfers_out_event": 546
     },
     "555": {
       "name": "Matthews",
@@ -7018,8 +7018,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1230,
-      "transfers_out_event": 3249
+      "transfers_in_event": 1264,
+      "transfers_out_event": 3311
     },
     "577": {
       "name": "Tomiyasu",
@@ -7046,7 +7046,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 149,
-      "transfers_out_event": 1346
+      "transfers_out_event": 1393
     },
     "588": {
       "name": "Khalaili",
@@ -7072,8 +7072,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2233,
-      "transfers_out_event": 1502
+      "transfers_in_event": 2254,
+      "transfers_out_event": 1624
     },
     "595": {
       "name": "Gozo",
@@ -7100,7 +7100,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 41,
-      "transfers_out_event": 97
+      "transfers_out_event": 98
     },
     "633": {
       "name": "Ahanor",
@@ -7126,8 +7126,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 148,
-      "transfers_out_event": 115
+      "transfers_in_event": 151,
+      "transfers_out_event": 117
     },
     "643": {
       "name": "Chilwell",
@@ -7153,8 +7153,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 622,
-      "transfers_out_event": 3151
+      "transfers_in_event": 648,
+      "transfers_out_event": 3220
     },
     "644": {
       "name": "Timber",
@@ -7180,8 +7180,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 504,
-      "transfers_out_event": 342
+      "transfers_in_event": 514,
+      "transfers_out_event": 346
     },
     "647": {
       "name": "Osorio",
@@ -7207,8 +7207,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 29,
-      "transfers_out_event": 81
+      "transfers_in_event": 30,
+      "transfers_out_event": 82
     },
     "21": {
       "name": "N\u00f8rgaard",
@@ -7234,8 +7234,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 65,
-      "transfers_out_event": 362
+      "transfers_in_event": 66,
+      "transfers_out_event": 376
     },
     "209": {
       "name": "Johnson",
@@ -7261,8 +7261,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 479,
-      "transfers_out_event": 791
+      "transfers_in_event": 489,
+      "transfers_out_event": 815
     },
     "226": {
       "name": "Pickford",
@@ -7288,8 +7288,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 31474,
-      "transfers_out_event": 17979
+      "transfers_in_event": 32272,
+      "transfers_out_event": 18611
     },
     "227": {
       "name": "Travers",
@@ -7315,8 +7315,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 271,
-      "transfers_out_event": 286
+      "transfers_in_event": 275,
+      "transfers_out_event": 292
     },
     "228": {
       "name": "King",
@@ -7342,8 +7342,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 123,
-      "transfers_out_event": 187
+      "transfers_in_event": 125,
+      "transfers_out_event": 191
     },
     "229": {
       "name": "Tarkowski",
@@ -7357,7 +7357,7 @@
       "pts": 43,
       "ppg": 8.6,
       "mins": 450,
-      "sel": 16.8,
+      "sel": 16.9,
       "xgi": 0.22,
       "xgi90": 0.05,
       "ep_next": 11.0,
@@ -7369,8 +7369,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 254667,
-      "transfers_out_event": 25941
+      "transfers_in_event": 261301,
+      "transfers_out_event": 27397
     },
     "230": {
       "name": "Branthwaite",
@@ -7384,7 +7384,7 @@
       "pts": 27,
       "ppg": 5.4,
       "mins": 450,
-      "sel": 2.4,
+      "sel": 2.5,
       "xgi": 0.19,
       "xgi90": 0.03,
       "ep_next": 7.0,
@@ -7396,8 +7396,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 22653,
-      "transfers_out_event": 8374
+      "transfers_in_event": 23731,
+      "transfers_out_event": 8702
     },
     "231": {
       "name": "Keane",
@@ -7423,8 +7423,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 450,
-      "transfers_out_event": 4139
+      "transfers_in_event": 468,
+      "transfers_out_event": 4233
     },
     "232": {
       "name": "O'Brien",
@@ -7450,8 +7450,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 370,
-      "transfers_out_event": 1279
+      "transfers_in_event": 379,
+      "transfers_out_event": 1304
     },
     "233": {
       "name": "Mykolenko",
@@ -7477,8 +7477,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 41899,
-      "transfers_out_event": 29961
+      "transfers_in_event": 42080,
+      "transfers_out_event": 31602
     },
     "234": {
       "name": "Patterson",
@@ -7505,7 +7505,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 139
+      "transfers_out_event": 140
     },
     "235": {
       "name": "Aznou",
@@ -7532,7 +7532,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 621
+      "transfers_out_event": 631
     },
     "236": {
       "name": "Dewsbury-Hall",
@@ -7558,8 +7558,8 @@
       "corners": 2,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 36339,
-      "transfers_out_event": 53519
+      "transfers_in_event": 36935,
+      "transfers_out_event": 56292
     },
     "238": {
       "name": "Grealish",
@@ -7585,8 +7585,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4279,
-      "transfers_out_event": 3263
+      "transfers_in_event": 4410,
+      "transfers_out_event": 3347
     },
     "239": {
       "name": "Garner",
@@ -7612,8 +7612,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 2044,
-      "transfers_out_event": 2253
+      "transfers_in_event": 2140,
+      "transfers_out_event": 2329
     },
     "242": {
       "name": "George",
@@ -7639,8 +7639,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2738,
-      "transfers_out_event": 11783
+      "transfers_in_event": 2792,
+      "transfers_out_event": 12126
     },
     "243": {
       "name": "Alcaraz",
@@ -7667,7 +7667,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 170,
-      "transfers_out_event": 437
+      "transfers_out_event": 440
     },
     "244": {
       "name": "Armstrong",
@@ -7693,8 +7693,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 952,
-      "transfers_out_event": 3550
+      "transfers_in_event": 981,
+      "transfers_out_event": 3601
     },
     "245": {
       "name": "Dibling",
@@ -7720,8 +7720,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 128,
-      "transfers_out_event": 167
+      "transfers_in_event": 134,
+      "transfers_out_event": 168
     },
     "246": {
       "name": "R\u00f6hl",
@@ -7748,7 +7748,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 8,
-      "transfers_out_event": 627
+      "transfers_out_event": 635
     },
     "247": {
       "name": "Hackney",
@@ -7774,8 +7774,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 215,
-      "transfers_out_event": 1176
+      "transfers_in_event": 217,
+      "transfers_out_event": 1207
     },
     "248": {
       "name": "Beto",
@@ -7802,7 +7802,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 7928
+      "transfers_out_event": 8076
     },
     "249": {
       "name": "Barry",
@@ -7816,7 +7816,7 @@
       "pts": 20,
       "ppg": 4.0,
       "mins": 417,
-      "sel": 8.3,
+      "sel": 8.4,
       "xgi": 3.65,
       "xgi90": 0.79,
       "ep_next": 4.0,
@@ -7828,8 +7828,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 94609,
-      "transfers_out_event": 45209
+      "transfers_in_event": 97658,
+      "transfers_out_event": 46951
     },
     "649": {
       "name": "Maitland-Niles",
@@ -7855,8 +7855,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 21267,
-      "transfers_out_event": 5510
+      "transfers_in_event": 21816,
+      "transfers_out_event": 5698
     },
     "654": {
       "name": "Graham",
@@ -7882,8 +7882,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 251,
-      "transfers_out_event": 1052
+      "transfers_in_event": 254,
+      "transfers_out_event": 1066
     },
     "250": {
       "name": "Leno",
@@ -7909,8 +7909,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 47399,
-      "transfers_out_event": 13805
+      "transfers_in_event": 49449,
+      "transfers_out_event": 14543
     },
     "251": {
       "name": "Lecomte",
@@ -7936,8 +7936,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2839,
-      "transfers_out_event": 2858
+      "transfers_in_event": 2947,
+      "transfers_out_event": 2949
     },
     "252": {
       "name": "McNally",
@@ -7964,7 +7964,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 656
+      "transfers_out_event": 677
     },
     "253": {
       "name": "Andersen",
@@ -7990,8 +7990,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3063,
-      "transfers_out_event": 1231
+      "transfers_in_event": 3159,
+      "transfers_out_event": 1260
     },
     "254": {
       "name": "Robinson",
@@ -8017,8 +8017,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 19425,
-      "transfers_out_event": 7840
+      "transfers_in_event": 20540,
+      "transfers_out_event": 8229
     },
     "255": {
       "name": "J.Cuenca",
@@ -8044,8 +8044,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 68,
-      "transfers_out_event": 122
+      "transfers_in_event": 70,
+      "transfers_out_event": 124
     },
     "256": {
       "name": "Tete",
@@ -8071,8 +8071,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 73,
-      "transfers_out_event": 1092
+      "transfers_in_event": 78,
+      "transfers_out_event": 1105
     },
     "257": {
       "name": "Bassey",
@@ -8098,8 +8098,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7459,
-      "transfers_out_event": 2203
+      "transfers_in_event": 8105,
+      "transfers_out_event": 2335
     },
     "258": {
       "name": "Castagne",
@@ -8125,8 +8125,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 17275,
-      "transfers_out_event": 5627
+      "transfers_in_event": 18034,
+      "transfers_out_event": 5828
     },
     "261": {
       "name": "Iwobi",
@@ -8152,8 +8152,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 4291,
-      "transfers_out_event": 3654
+      "transfers_in_event": 4534,
+      "transfers_out_event": 3768
     },
     "262": {
       "name": "Smith Rowe",
@@ -8179,8 +8179,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 342,
-      "transfers_out_event": 1418
+      "transfers_in_event": 355,
+      "transfers_out_event": 1447
     },
     "263": {
       "name": "Kevin",
@@ -8206,8 +8206,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 218,
-      "transfers_out_event": 309
+      "transfers_in_event": 225,
+      "transfers_out_event": 318
     },
     "264": {
       "name": "Bobb",
@@ -8233,8 +8233,8 @@
       "corners": 2,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2889,
-      "transfers_out_event": 2001
+      "transfers_in_event": 3040,
+      "transfers_out_event": 2060
     },
     "265": {
       "name": "Berge",
@@ -8260,8 +8260,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 727,
-      "transfers_out_event": 1425
+      "transfers_in_event": 751,
+      "transfers_out_event": 1459
     },
     "266": {
       "name": "Cairney",
@@ -8287,14 +8287,14 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 12,
+      "transfers_in_event": 13,
       "transfers_out_event": 21
     },
     "268": {
       "name": "King",
       "team": "FUL",
       "pos": "MID",
-      "cost": 5.5,
+      "cost": 5.6,
       "status": "a",
       "news": "",
       "chance": null,
@@ -8302,7 +8302,7 @@
       "pts": 24,
       "ppg": 4.8,
       "mins": 425,
-      "sel": 2.8,
+      "sel": 2.9,
       "xgi": 2.0,
       "xgi90": 0.43,
       "ep_next": 2.5,
@@ -8313,9 +8313,9 @@
       "pens_text": "",
       "corners": null,
       "fks": null,
-      "cost_change_event": 0,
-      "transfers_in_event": 113580,
-      "transfers_out_event": 21883
+      "cost_change_event": 1,
+      "transfers_in_event": 125406,
+      "transfers_out_event": 22908
     },
     "269": {
       "name": "Sessegnon",
@@ -8341,8 +8341,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 347,
-      "transfers_out_event": 1403
+      "transfers_in_event": 365,
+      "transfers_out_event": 1431
     },
     "270": {
       "name": "Reed",
@@ -8368,8 +8368,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2978,
-      "transfers_out_event": 7450
+      "transfers_in_event": 3051,
+      "transfers_out_event": 7639
     },
     "271": {
       "name": "Muniz",
@@ -8395,8 +8395,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1968,
-      "transfers_out_event": 2907
+      "transfers_in_event": 2035,
+      "transfers_out_event": 2968
     },
     "272": {
       "name": "Kusi-Asare",
@@ -8422,8 +8422,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 12039,
-      "transfers_out_event": 36198
+      "transfers_in_event": 12390,
+      "transfers_out_event": 37186
     },
     "569": {
       "name": "Gonzalo",
@@ -8437,7 +8437,7 @@
       "pts": 14,
       "ppg": 2.8,
       "mins": 425,
-      "sel": 4.1,
+      "sel": 4.2,
       "xgi": 2.91,
       "xgi90": 0.61,
       "ep_next": 2.0,
@@ -8449,8 +8449,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 87032,
-      "transfers_out_event": 36632
+      "transfers_in_event": 93579,
+      "transfers_out_event": 37791
     },
     "570": {
       "name": "Palacios",
@@ -8476,8 +8476,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 760,
-      "transfers_out_event": 1024
+      "transfers_in_event": 776,
+      "transfers_out_event": 1050
     },
     "580": {
       "name": "Charles",
@@ -8503,8 +8503,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 832,
-      "transfers_out_event": 506
+      "transfers_in_event": 934,
+      "transfers_out_event": 535
     },
     "610": {
       "name": "De Fougerolles",
@@ -8531,7 +8531,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 527
+      "transfers_out_event": 532
     },
     "626": {
       "name": "Zepa",
@@ -8557,8 +8557,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1203,
-      "transfers_out_event": 2453
+      "transfers_in_event": 1314,
+      "transfers_out_event": 2501
     },
     "635": {
       "name": "Larsson",
@@ -8584,7 +8584,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 101,
+      "transfers_in_event": 103,
       "transfers_out_event": 77
     },
     "636": {
@@ -8611,8 +8611,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 36,
-      "transfers_out_event": 29
+      "transfers_in_event": 37,
+      "transfers_out_event": 30
     },
     "650": {
       "name": "Affengruber",
@@ -8638,8 +8638,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9449,
-      "transfers_out_event": 2204
+      "transfers_in_event": 10698,
+      "transfers_out_event": 2453
     },
     "240": {
       "name": "Iroegbunam",
@@ -8666,7 +8666,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 83,
-      "transfers_out_event": 146
+      "transfers_out_event": 147
     },
     "273": {
       "name": "Phillips",
@@ -8692,8 +8692,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3336,
-      "transfers_out_event": 3968
+      "transfers_in_event": 3414,
+      "transfers_out_event": 4101
     },
     "274": {
       "name": "Butland",
@@ -8719,8 +8719,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 73,
-      "transfers_out_event": 344
+      "transfers_in_event": 74,
+      "transfers_out_event": 352
     },
     "275": {
       "name": "Cartwright",
@@ -8774,7 +8774,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 122
+      "transfers_out_event": 127
     },
     "277": {
       "name": "Egan",
@@ -8800,8 +8800,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 31039,
-      "transfers_out_event": 32611
+      "transfers_in_event": 32245,
+      "transfers_out_event": 33499
     },
     "278": {
       "name": "Hughes",
@@ -8827,8 +8827,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1208,
-      "transfers_out_event": 2102
+      "transfers_in_event": 1224,
+      "transfers_out_event": 2135
     },
     "279": {
       "name": "Ajayi",
@@ -8854,8 +8854,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 47901,
-      "transfers_out_event": 64201
+      "transfers_in_event": 49132,
+      "transfers_out_event": 65615
     },
     "280": {
       "name": "Coyle",
@@ -8881,8 +8881,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2255,
-      "transfers_out_event": 2269
+      "transfers_in_event": 2297,
+      "transfers_out_event": 2338
     },
     "281": {
       "name": "Drameh",
@@ -8909,7 +8909,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 268
+      "transfers_out_event": 272
     },
     "282": {
       "name": "Giles",
@@ -8935,8 +8935,8 @@
       "corners": 3,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 23362,
-      "transfers_out_event": 15315
+      "transfers_in_event": 23946,
+      "transfers_out_event": 15672
     },
     "283": {
       "name": "Jacob",
@@ -8989,8 +8989,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 423,
-      "transfers_out_event": 477
+      "transfers_in_event": 433,
+      "transfers_out_event": 490
     },
     "285": {
       "name": "McNair",
@@ -9016,8 +9016,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 207,
-      "transfers_out_event": 448
+      "transfers_in_event": 214,
+      "transfers_out_event": 456
     },
     "286": {
       "name": "Belloumi",
@@ -9043,8 +9043,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 84980,
-      "transfers_out_event": 28782
+      "transfers_in_event": 87778,
+      "transfers_out_event": 29809
     },
     "287": {
       "name": "Millar",
@@ -9071,7 +9071,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 332
+      "transfers_out_event": 336
     },
     "288": {
       "name": "Dowell",
@@ -9097,8 +9097,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 653,
-      "transfers_out_event": 2178
+      "transfers_in_event": 666,
+      "transfers_out_event": 2217
     },
     "289": {
       "name": "Crooks",
@@ -9124,8 +9124,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 5462,
-      "transfers_out_event": 4619
+      "transfers_in_event": 5581,
+      "transfers_out_event": 4751
     },
     "290": {
       "name": "Slater",
@@ -9151,8 +9151,8 @@
       "corners": 1,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 17385,
-      "transfers_out_event": 41532
+      "transfers_in_event": 17831,
+      "transfers_out_event": 42909
     },
     "291": {
       "name": "Matazo",
@@ -9179,7 +9179,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 34,
-      "transfers_out_event": 64
+      "transfers_out_event": 67
     },
     "292": {
       "name": "\u00d6m\u00fcr",
@@ -9206,7 +9206,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 90,
-      "transfers_out_event": 158
+      "transfers_out_event": 161
     },
     "293": {
       "name": "Kamara",
@@ -9259,8 +9259,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 160,
-      "transfers_out_event": 519
+      "transfers_in_event": 161,
+      "transfers_out_event": 527
     },
     "295": {
       "name": "McBurnie",
@@ -9286,8 +9286,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9174,
-      "transfers_out_event": 19566
+      "transfers_in_event": 9485,
+      "transfers_out_event": 20001
     },
     "296": {
       "name": "Akintola",
@@ -9314,7 +9314,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 293
+      "transfers_out_event": 300
     },
     "297": {
       "name": "Gyabi",
@@ -9341,7 +9341,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 71,
-      "transfers_out_event": 158
+      "transfers_out_event": 160
     },
     "298": {
       "name": "Destan",
@@ -9368,7 +9368,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1495
+      "transfers_out_event": 1532
     },
     "299": {
       "name": "Burstow",
@@ -9395,7 +9395,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 234
+      "transfers_out_event": 240
     },
     "340": {
       "name": "Gelhardt",
@@ -9422,7 +9422,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 103,
-      "transfers_out_event": 119
+      "transfers_out_event": 120
     },
     "556": {
       "name": "Targett",
@@ -9448,8 +9448,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 120,
-      "transfers_out_event": 10801
+      "transfers_in_event": 126,
+      "transfers_out_event": 11071
     },
     "563": {
       "name": "Morita",
@@ -9476,7 +9476,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 24,
-      "transfers_out_event": 196
+      "transfers_out_event": 201
     },
     "572": {
       "name": "Tzolakis",
@@ -9490,7 +9490,7 @@
       "pts": 34,
       "ppg": 6.8,
       "mins": 450,
-      "sel": 12.8,
+      "sel": 12.9,
       "xgi": 0.0,
       "xgi90": 0.0,
       "ep_next": 4.0,
@@ -9502,8 +9502,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 135721,
-      "transfers_out_event": 26046
+      "transfers_in_event": 138491,
+      "transfers_out_event": 27165
     },
     "574": {
       "name": "Hjert\u00f8-Dahl",
@@ -9529,8 +9529,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 82,
-      "transfers_out_event": 347
+      "transfers_in_event": 83,
+      "transfers_out_event": 355
     },
     "576": {
       "name": "Stroud",
@@ -9556,8 +9556,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 153,
-      "transfers_out_event": 508
+      "transfers_in_event": 158,
+      "transfers_out_event": 522
     },
     "585": {
       "name": "Herrington",
@@ -9583,8 +9583,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1115,
-      "transfers_out_event": 1848
+      "transfers_in_event": 1128,
+      "transfers_out_event": 1889
     },
     "586": {
       "name": "Mendy",
@@ -9610,8 +9610,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8078,
-      "transfers_out_event": 35147
+      "transfers_in_event": 8331,
+      "transfers_out_event": 35554
     },
     "589": {
       "name": "Gourna-Douath",
@@ -9664,8 +9664,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 379,
-      "transfers_out_event": 164
+      "transfers_in_event": 385,
+      "transfers_out_event": 165
     },
     "632": {
       "name": "Ansah",
@@ -9691,8 +9691,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 80,
-      "transfers_out_event": 456
+      "transfers_in_event": 82,
+      "transfers_out_event": 459
     },
     "637": {
       "name": "Vaz",
@@ -9718,8 +9718,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1987,
-      "transfers_out_event": 1260
+      "transfers_in_event": 2020,
+      "transfers_out_event": 1281
     },
     "638": {
       "name": "Norton-Cuffy",
@@ -9746,7 +9746,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 462,
-      "transfers_out_event": 2766
+      "transfers_out_event": 2799
     },
     "642": {
       "name": "Thomas",
@@ -9772,8 +9772,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 530,
-      "transfers_out_event": 372
+      "transfers_in_event": 538,
+      "transfers_out_event": 375
     },
     "645": {
       "name": "Mouzakitis",
@@ -9799,8 +9799,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 98,
-      "transfers_out_event": 94
+      "transfers_in_event": 101,
+      "transfers_out_event": 95
     },
     "259": {
       "name": "Diop",
@@ -9826,8 +9826,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8000,
-      "transfers_out_event": 61254
+      "transfers_in_event": 8300,
+      "transfers_out_event": 63095
     },
     "267": {
       "name": "Luki\u0107",
@@ -9853,8 +9853,8 @@
       "corners": 1,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 238,
-      "transfers_out_event": 575
+      "transfers_in_event": 248,
+      "transfers_out_event": 597
     },
     "300": {
       "name": "Walton",
@@ -9880,8 +9880,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1990,
-      "transfers_out_event": 1203
+      "transfers_in_event": 2071,
+      "transfers_out_event": 1246
     },
     "301": {
       "name": "Palmer",
@@ -9907,8 +9907,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4491,
-      "transfers_out_event": 13196
+      "transfers_in_event": 4658,
+      "transfers_out_event": 13581
     },
     "302": {
       "name": "Button",
@@ -9934,8 +9934,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1727,
-      "transfers_out_event": 1477
+      "transfers_in_event": 1810,
+      "transfers_out_event": 1521
     },
     "303": {
       "name": "Kipr\u00e9",
@@ -9961,8 +9961,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4933,
-      "transfers_out_event": 4789
+      "transfers_in_event": 5075,
+      "transfers_out_event": 4896
     },
     "304": {
       "name": "O'Shea",
@@ -9976,7 +9976,7 @@
       "pts": 10,
       "ppg": 2.0,
       "mins": 450,
-      "sel": 2.7,
+      "sel": 2.6,
       "xgi": 0.33,
       "xgi90": 0.06,
       "ep_next": 1.5,
@@ -9988,8 +9988,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2322,
-      "transfers_out_event": 16074
+      "transfers_in_event": 2417,
+      "transfers_out_event": 16494
     },
     "305": {
       "name": "Davis",
@@ -10015,8 +10015,8 @@
       "corners": null,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 59324,
-      "transfers_out_event": 31466
+      "transfers_in_event": 61940,
+      "transfers_out_event": 32483
     },
     "306": {
       "name": "Greaves",
@@ -10042,8 +10042,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 531,
-      "transfers_out_event": 3886
+      "transfers_in_event": 540,
+      "transfers_out_event": 4053
     },
     "307": {
       "name": "Johnson",
@@ -10070,7 +10070,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 398
+      "transfers_out_event": 408
     },
     "308": {
       "name": "Furlong",
@@ -10096,8 +10096,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6921,
-      "transfers_out_event": 3276
+      "transfers_in_event": 7066,
+      "transfers_out_event": 3374
     },
     "309": {
       "name": "N\u00fa\u00f1ez",
@@ -10123,8 +10123,8 @@
       "corners": 3,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 104,
-      "transfers_out_event": 725
+      "transfers_in_event": 106,
+      "transfers_out_event": 738
     },
     "310": {
       "name": "Matusiwa",
@@ -10204,8 +10204,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 400,
-      "transfers_out_event": 309
+      "transfers_in_event": 405,
+      "transfers_out_event": 319
     },
     "313": {
       "name": "Clarke",
@@ -10231,8 +10231,8 @@
       "corners": 4,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 197,
-      "transfers_out_event": 1021
+      "transfers_in_event": 221,
+      "transfers_out_event": 1045
     },
     "314": {
       "name": "Ogbene",
@@ -10286,7 +10286,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 67,
-      "transfers_out_event": 2759
+      "transfers_out_event": 2816
     },
     "316": {
       "name": "Emersonn",
@@ -10312,8 +10312,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 40921,
-      "transfers_out_event": 25183
+      "transfers_in_event": 42665,
+      "transfers_out_event": 25712
     },
     "317": {
       "name": "Hirst",
@@ -10340,7 +10340,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 527
+      "transfers_out_event": 541
     },
     "318": {
       "name": "Philogene",
@@ -10366,8 +10366,8 @@
       "corners": 5,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 38,
-      "transfers_out_event": 175
+      "transfers_in_event": 39,
+      "transfers_out_event": 180
     },
     "319": {
       "name": "Szmodics",
@@ -10420,8 +10420,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5346,
-      "transfers_out_event": 10304
+      "transfers_in_event": 5424,
+      "transfers_out_event": 10495
     },
     "321": {
       "name": "Walle Egeli",
@@ -10447,8 +10447,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 20487,
-      "transfers_out_event": 29293
+      "transfers_in_event": 21169,
+      "transfers_out_event": 30051
     },
     "322": {
       "name": "Al-Hamadi",
@@ -10475,7 +10475,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 409
+      "transfers_out_event": 415
     },
     "323": {
       "name": "McAteer",
@@ -10501,8 +10501,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1769,
-      "transfers_out_event": 7046
+      "transfers_in_event": 1833,
+      "transfers_out_event": 7223
     },
     "324": {
       "name": "Mehmeti",
@@ -10529,7 +10529,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 81,
-      "transfers_out_event": 163
+      "transfers_out_event": 165
     },
     "554": {
       "name": "Van Oevelen",
@@ -10556,7 +10556,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 92
+      "transfers_out_event": 94
     },
     "562": {
       "name": "Maeda",
@@ -10582,8 +10582,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 148,
-      "transfers_out_event": 1589
+      "transfers_in_event": 152,
+      "transfers_out_event": 1629
     },
     "564": {
       "name": "Scherpen",
@@ -10609,8 +10609,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 774,
-      "transfers_out_event": 3029
+      "transfers_in_event": 822,
+      "transfers_out_event": 3110
     },
     "571": {
       "name": "Florentino",
@@ -10636,8 +10636,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 120,
-      "transfers_out_event": 369
+      "transfers_in_event": 121,
+      "transfers_out_event": 375
     },
     "591": {
       "name": "Enciso",
@@ -10663,8 +10663,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2780,
-      "transfers_out_event": 6678
+      "transfers_in_event": 2953,
+      "transfers_out_event": 6861
     },
     "592": {
       "name": "Ouattara",
@@ -10690,8 +10690,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 794,
-      "transfers_out_event": 2251
+      "transfers_in_event": 818,
+      "transfers_out_event": 2306
     },
     "602": {
       "name": "Humphreys",
@@ -10718,7 +10718,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 255
+      "transfers_out_event": 256
     },
     "619": {
       "name": "Palacios",
@@ -10744,8 +10744,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 579,
-      "transfers_out_event": 911
+      "transfers_in_event": 592,
+      "transfers_out_event": 930
     },
     "640": {
       "name": "Flemming",
@@ -10771,8 +10771,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1066,
-      "transfers_out_event": 1092
+      "transfers_in_event": 1116,
+      "transfers_out_event": 1119
     },
     "260": {
       "name": "Wilson",
@@ -10798,8 +10798,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 78,
-      "transfers_out_event": 43957
+      "transfers_in_event": 81,
+      "transfers_out_event": 44980
     },
     "326": {
       "name": "Perri",
@@ -10826,7 +10826,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1423
+      "transfers_out_event": 1441
     },
     "327": {
       "name": "Bijol",
@@ -10852,8 +10852,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 873,
-      "transfers_out_event": 5923
+      "transfers_in_event": 893,
+      "transfers_out_event": 6023
     },
     "329": {
       "name": "Rodon",
@@ -10880,7 +10880,7 @@
       "fks": null,
       "cost_change_event": -1,
       "transfers_in_event": 51,
-      "transfers_out_event": 9608
+      "transfers_out_event": 9840
     },
     "330": {
       "name": "Bogle",
@@ -10906,8 +10906,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 140471,
-      "transfers_out_event": 29972
+      "transfers_in_event": 144526,
+      "transfers_out_event": 31197
     },
     "331": {
       "name": "Gudmundsson",
@@ -10933,8 +10933,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 681,
-      "transfers_out_event": 389
+      "transfers_in_event": 737,
+      "transfers_out_event": 412
     },
     "332": {
       "name": "Justin",
@@ -10960,8 +10960,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5209,
-      "transfers_out_event": 6665
+      "transfers_in_event": 5537,
+      "transfers_out_event": 6949
     },
     "333": {
       "name": "Bornauw",
@@ -11014,8 +11014,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 33799,
-      "transfers_out_event": 27731
+      "transfers_in_event": 35744,
+      "transfers_out_event": 28758
     },
     "335": {
       "name": "Stach",
@@ -11041,8 +11041,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 5477,
-      "transfers_out_event": 21236
+      "transfers_in_event": 5650,
+      "transfers_out_event": 21697
     },
     "336": {
       "name": "Okafor",
@@ -11068,8 +11068,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2059,
-      "transfers_out_event": 3795
+      "transfers_in_event": 2152,
+      "transfers_out_event": 3924
     },
     "337": {
       "name": "Aaronson",
@@ -11095,8 +11095,8 @@
       "corners": null,
       "fks": 4,
       "cost_change_event": -1,
-      "transfers_in_event": 231,
-      "transfers_out_event": 3670
+      "transfers_in_event": 237,
+      "transfers_out_event": 3752
     },
     "338": {
       "name": "Ampadu",
@@ -11122,8 +11122,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1914,
-      "transfers_out_event": 5534
+      "transfers_in_event": 2010,
+      "transfers_out_event": 5746
     },
     "339": {
       "name": "Longstaff",
@@ -11149,8 +11149,8 @@
       "corners": 3,
       "fks": 3,
       "cost_change_event": -1,
-      "transfers_in_event": 160,
-      "transfers_out_event": 684
+      "transfers_in_event": 162,
+      "transfers_out_event": 694
     },
     "341": {
       "name": "Gnonto",
@@ -11177,7 +11177,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 58
+      "transfers_out_event": 61
     },
     "342": {
       "name": "Harrison",
@@ -11230,8 +11230,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 215,
-      "transfers_out_event": 615
+      "transfers_in_event": 225,
+      "transfers_out_event": 625
     },
     "344": {
       "name": "Gruev",
@@ -11284,8 +11284,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2469,
-      "transfers_out_event": 2516
+      "transfers_in_event": 2535,
+      "transfers_out_event": 2579
     },
     "346": {
       "name": "Calvert-Lewin",
@@ -11311,8 +11311,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 104755,
-      "transfers_out_event": 186120
+      "transfers_in_event": 107517,
+      "transfers_out_event": 191748
     },
     "347": {
       "name": "Nmecha",
@@ -11338,8 +11338,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2217,
-      "transfers_out_event": 3998
+      "transfers_in_event": 2266,
+      "transfers_out_event": 4088
     },
     "348": {
       "name": "Piroe",
@@ -11366,7 +11366,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 465
+      "transfers_out_event": 474
     },
     "349": {
       "name": "Mateo Joseph",
@@ -11392,8 +11392,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 357,
-      "transfers_out_event": 528
+      "transfers_in_event": 364,
+      "transfers_out_event": 536
     },
     "385": {
       "name": "Trafford",
@@ -11419,8 +11419,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 25932,
-      "transfers_out_event": 17032
+      "transfers_in_event": 26767,
+      "transfers_out_event": 17579
     },
     "598": {
       "name": "Elvedi",
@@ -11446,8 +11446,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 281,
-      "transfers_out_event": 269
+      "transfers_in_event": 290,
+      "transfers_out_event": 278
     },
     "603": {
       "name": "Lienou",
@@ -11473,8 +11473,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 256,
-      "transfers_out_event": 543
+      "transfers_in_event": 262,
+      "transfers_out_event": 552
     },
     "604": {
       "name": "Cresswell",
@@ -11500,8 +11500,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 328,
-      "transfers_out_event": 944
+      "transfers_in_event": 333,
+      "transfers_out_event": 957
     },
     "625": {
       "name": "Cairns",
@@ -11527,8 +11527,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 913,
-      "transfers_out_event": 840
+      "transfers_in_event": 935,
+      "transfers_out_event": 855
     },
     "629": {
       "name": "Zetterer",
@@ -11554,8 +11554,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3346,
-      "transfers_out_event": 2949
+      "transfers_in_event": 3410,
+      "transfers_out_event": 2996
     },
     "641": {
       "name": "Bard",
@@ -11581,8 +11581,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 105,
-      "transfers_out_event": 84
+      "transfers_in_event": 108,
+      "transfers_out_event": 89
     },
     "648": {
       "name": "Bahoya",
@@ -11608,8 +11608,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 120,
-      "transfers_out_event": 188
+      "transfers_in_event": 121,
+      "transfers_out_event": 191
     },
     "350": {
       "name": "A.Becker",
@@ -11635,8 +11635,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 15540,
-      "transfers_out_event": 13141
+      "transfers_in_event": 16046,
+      "transfers_out_event": 13513
     },
     "351": {
       "name": "Mamardashvili",
@@ -11662,8 +11662,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 277,
-      "transfers_out_event": 669
+      "transfers_in_event": 283,
+      "transfers_out_event": 679
     },
     "352": {
       "name": "Woodman",
@@ -11689,8 +11689,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 852,
-      "transfers_out_event": 2556
+      "transfers_in_event": 873,
+      "transfers_out_event": 2613
     },
     "353": {
       "name": "Pecsi",
@@ -11743,8 +11743,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 223,
-      "transfers_out_event": 171
+      "transfers_in_event": 228,
+      "transfers_out_event": 175
     },
     "355": {
       "name": "Davies",
@@ -11770,8 +11770,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 315,
-      "transfers_out_event": 498
+      "transfers_in_event": 316,
+      "transfers_out_event": 505
     },
     "356": {
       "name": "Virgil",
@@ -11797,8 +11797,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 25385,
-      "transfers_out_event": 48145
+      "transfers_in_event": 26440,
+      "transfers_out_event": 49350
     },
     "357": {
       "name": "Frimpong",
@@ -11824,8 +11824,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1770,
-      "transfers_out_event": 13617
+      "transfers_in_event": 1805,
+      "transfers_out_event": 13846
     },
     "358": {
       "name": "Kerkez",
@@ -11851,8 +11851,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 2849,
-      "transfers_out_event": 11547
+      "transfers_in_event": 2926,
+      "transfers_out_event": 11820
     },
     "359": {
       "name": "Gomez",
@@ -11878,8 +11878,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 358,
-      "transfers_out_event": 124
+      "transfers_in_event": 363,
+      "transfers_out_event": 127
     },
     "360": {
       "name": "Bradley",
@@ -11905,8 +11905,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 67,
-      "transfers_out_event": 91
+      "transfers_in_event": 69,
+      "transfers_out_event": 95
     },
     "361": {
       "name": "Lucky",
@@ -11932,8 +11932,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 315,
-      "transfers_out_event": 620
+      "transfers_in_event": 319,
+      "transfers_out_event": 631
     },
     "362": {
       "name": "Jacquet",
@@ -11959,8 +11959,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 38524,
-      "transfers_out_event": 16233
+      "transfers_in_event": 38975,
+      "transfers_out_event": 17950
     },
     "363": {
       "name": "Leoni",
@@ -11987,7 +11987,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 74,
-      "transfers_out_event": 195
+      "transfers_out_event": 199
     },
     "364": {
       "name": "Tsimikas",
@@ -12013,8 +12013,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 107,
-      "transfers_out_event": 418
+      "transfers_in_event": 114,
+      "transfers_out_event": 424
     },
     "365": {
       "name": "Ramsay",
@@ -12041,7 +12041,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 522
+      "transfers_out_event": 532
     },
     "366": {
       "name": "Wirtz",
@@ -12067,8 +12067,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 5146,
-      "transfers_out_event": 45608
+      "transfers_in_event": 5513,
+      "transfers_out_event": 46745
     },
     "367": {
       "name": "Gakpo",
@@ -12082,7 +12082,7 @@
       "pts": 32,
       "ppg": 6.4,
       "mins": 370,
-      "sel": 12.2,
+      "sel": 12.1,
       "xgi": 2.35,
       "xgi90": 0.58,
       "ep_next": 1.5,
@@ -12094,8 +12094,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 52389,
-      "transfers_out_event": 112511
+      "transfers_in_event": 52610,
+      "transfers_out_event": 118066
     },
     "368": {
       "name": "Szoboszlai",
@@ -12121,8 +12121,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": -1,
-      "transfers_in_event": 40730,
-      "transfers_out_event": 237009
+      "transfers_in_event": 41804,
+      "transfers_out_event": 243596
     },
     "369": {
       "name": "Ngumoha",
@@ -12148,8 +12148,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 890,
-      "transfers_out_event": 4550
+      "transfers_in_event": 911,
+      "transfers_out_event": 4631
     },
     "370": {
       "name": "Chiesa",
@@ -12175,7 +12175,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 17,
+      "transfers_in_event": 18,
       "transfers_out_event": 268
     },
     "371": {
@@ -12202,8 +12202,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1351,
-      "transfers_out_event": 9662
+      "transfers_in_event": 1386,
+      "transfers_out_event": 9819
     },
     "372": {
       "name": "Mac Allister",
@@ -12229,8 +12229,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 4152,
-      "transfers_out_event": 7430
+      "transfers_in_event": 4246,
+      "transfers_out_event": 7568
     },
     "373": {
       "name": "C.Jones",
@@ -12283,8 +12283,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 173,
-      "transfers_out_event": 473
+      "transfers_in_event": 176,
+      "transfers_out_event": 475
     },
     "375": {
       "name": "Nyoni",
@@ -12311,7 +12311,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 99,
-      "transfers_out_event": 323
+      "transfers_out_event": 328
     },
     "376": {
       "name": "Bajcetic",
@@ -12364,8 +12364,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1690,
-      "transfers_out_event": 12284
+      "transfers_in_event": 1741,
+      "transfers_out_event": 12495
     },
     "378": {
       "name": "McConnell",
@@ -12391,8 +12391,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1108,
-      "transfers_out_event": 1623
+      "transfers_in_event": 1116,
+      "transfers_out_event": 1648
     },
     "379": {
       "name": "Isak",
@@ -12406,7 +12406,7 @@
       "pts": 33,
       "ppg": 6.6,
       "mins": 413,
-      "sel": 22.1,
+      "sel": 22.0,
       "xgi": 3.62,
       "xgi90": 0.79,
       "ep_next": 3.8,
@@ -12418,8 +12418,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 120623,
-      "transfers_out_event": 108720
+      "transfers_in_event": 121722,
+      "transfers_out_event": 115424
     },
     "380": {
       "name": "Ekitik\u00e9",
@@ -12445,8 +12445,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 426,
-      "transfers_out_event": 905
+      "transfers_in_event": 443,
+      "transfers_out_event": 921
     },
     "381": {
       "name": "Koumas",
@@ -12472,8 +12472,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 187,
-      "transfers_out_event": 205
+      "transfers_in_event": 189,
+      "transfers_out_event": 206
     },
     "382": {
       "name": "Danns",
@@ -12499,8 +12499,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3812,
-      "transfers_out_event": 2603
+      "transfers_in_event": 3887,
+      "transfers_out_event": 2649
     },
     "383": {
       "name": "Elliott",
@@ -12527,7 +12527,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 247
+      "transfers_out_event": 250
     },
     "579": {
       "name": "Araujo",
@@ -12553,8 +12553,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 19017,
-      "transfers_out_event": 11416
+      "transfers_in_event": 19666,
+      "transfers_out_event": 11668
     },
     "627": {
       "name": "Barcola",
@@ -12580,8 +12580,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 13719,
-      "transfers_out_event": 20540
+      "transfers_in_event": 14361,
+      "transfers_out_event": 20998
     },
     "155": {
       "name": "Enzo",
@@ -12607,8 +12607,8 @@
       "corners": 4,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 33961,
-      "transfers_out_event": 16547
+      "transfers_in_event": 34689,
+      "transfers_out_event": 17059
     },
     "237": {
       "name": "Ndiaye",
@@ -12634,8 +12634,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 7876,
-      "transfers_out_event": 74335
+      "transfers_in_event": 8111,
+      "transfers_out_event": 76048
     },
     "384": {
       "name": "Donnarumma",
@@ -12661,8 +12661,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 11636,
-      "transfers_out_event": 33377
+      "transfers_in_event": 11847,
+      "transfers_out_event": 34144
     },
     "386": {
       "name": "Bettinelli",
@@ -12688,8 +12688,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 63,
-      "transfers_out_event": 92
+      "transfers_in_event": 64,
+      "transfers_out_event": 93
     },
     "387": {
       "name": "O'Reilly",
@@ -12703,7 +12703,7 @@
       "pts": 6,
       "ppg": 1.5,
       "mins": 163,
-      "sel": 10.8,
+      "sel": 10.7,
       "xgi": 1.3,
       "xgi90": 0.72,
       "ep_next": 0.8,
@@ -12715,8 +12715,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 5422,
-      "transfers_out_event": 82325
+      "transfers_in_event": 5439,
+      "transfers_out_event": 85296
     },
     "388": {
       "name": "Gu\u00e9hi",
@@ -12742,8 +12742,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 25949,
-      "transfers_out_event": 57124
+      "transfers_in_event": 26544,
+      "transfers_out_event": 58653
     },
     "389": {
       "name": "Matheus N.",
@@ -12769,8 +12769,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1851,
-      "transfers_out_event": 3235
+      "transfers_in_event": 1893,
+      "transfers_out_event": 3305
     },
     "390": {
       "name": "R\u00faben",
@@ -12796,8 +12796,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5133,
-      "transfers_out_event": 9816
+      "transfers_in_event": 5256,
+      "transfers_out_event": 10018
     },
     "391": {
       "name": "Gvardiol",
@@ -12823,8 +12823,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 161955,
-      "transfers_out_event": 63904
+      "transfers_in_event": 166000,
+      "transfers_out_event": 66493
     },
     "392": {
       "name": "A\u00eft-Nouri",
@@ -12850,8 +12850,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 569,
-      "transfers_out_event": 2345
+      "transfers_in_event": 580,
+      "transfers_out_event": 2381
     },
     "393": {
       "name": "Khusanov",
@@ -12877,8 +12877,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1547,
-      "transfers_out_event": 9571
+      "transfers_in_event": 1574,
+      "transfers_out_event": 9685
     },
     "394": {
       "name": "Alleyne",
@@ -12931,8 +12931,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 347,
-      "transfers_out_event": 1290
+      "transfers_in_event": 356,
+      "transfers_out_event": 1312
     },
     "396": {
       "name": "Vitor Reis",
@@ -12958,8 +12958,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 78,
-      "transfers_out_event": 164
+      "transfers_in_event": 80,
+      "transfers_out_event": 166
     },
     "397": {
       "name": "Semenyo",
@@ -12985,8 +12985,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 129217,
-      "transfers_out_event": 87889
+      "transfers_in_event": 130011,
+      "transfers_out_event": 93378
     },
     "398": {
       "name": "Foden",
@@ -13012,8 +13012,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 233,
-      "transfers_out_event": 30811
+      "transfers_in_event": 237,
+      "transfers_out_event": 31389
     },
     "399": {
       "name": "Cherki",
@@ -13039,8 +13039,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 139500,
-      "transfers_out_event": 101758
+      "transfers_in_event": 144228,
+      "transfers_out_event": 105101
     },
     "400": {
       "name": "Doku",
@@ -13066,8 +13066,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5174,
-      "transfers_out_event": 2331
+      "transfers_in_event": 5346,
+      "transfers_out_event": 2383
     },
     "402": {
       "name": "Rodrigo",
@@ -13147,8 +13147,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 123,
-      "transfers_out_event": 498
+      "transfers_in_event": 129,
+      "transfers_out_event": 503
     },
     "407": {
       "name": "Echeverri",
@@ -13202,7 +13202,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 14
+      "transfers_out_event": 16
     },
     "409": {
       "name": "Mukasa",
@@ -13229,7 +13229,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 664
+      "transfers_out_event": 673
     },
     "410": {
       "name": "Monga",
@@ -13256,7 +13256,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 57
+      "transfers_out_event": 59
     },
     "411": {
       "name": "Haaland",
@@ -13282,8 +13282,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 87593,
-      "transfers_out_event": 25396
+      "transfers_in_event": 89982,
+      "transfers_out_event": 26654
     },
     "481": {
       "name": "Anderson",
@@ -13309,8 +13309,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8750,
-      "transfers_out_event": 30218
+      "transfers_in_event": 9003,
+      "transfers_out_event": 30938
     },
     "587": {
       "name": "Rulli",
@@ -13336,8 +13336,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 83,
-      "transfers_out_event": 108
+      "transfers_in_event": 86,
+      "transfers_out_event": 109
     },
     "616": {
       "name": "Bouaddi",
@@ -13363,8 +13363,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 889,
-      "transfers_out_event": 2215
+      "transfers_in_event": 898,
+      "transfers_out_event": 2235
     },
     "621": {
       "name": "McAidoo",
@@ -13390,8 +13390,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 213,
-      "transfers_out_event": 1152
+      "transfers_in_event": 216,
+      "transfers_out_event": 1161
     },
     "622": {
       "name": "Braithwaite",
@@ -13417,8 +13417,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 617,
-      "transfers_out_event": 1721
+      "transfers_in_event": 628,
+      "transfers_out_event": 1737
     },
     "628": {
       "name": "Allan",
@@ -13444,8 +13444,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 240,
-      "transfers_out_event": 177
+      "transfers_in_event": 244,
+      "transfers_out_event": 180
     },
     "653": {
       "name": "Samba",
@@ -13471,8 +13471,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 267,
-      "transfers_out_event": 514
+      "transfers_in_event": 272,
+      "transfers_out_event": 519
     },
     "43": {
       "name": "Tielemans",
@@ -13498,8 +13498,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3460,
-      "transfers_out_event": 11450
+      "transfers_in_event": 3551,
+      "transfers_out_event": 11636
     },
     "131": {
       "name": "Baleba",
@@ -13525,8 +13525,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1553,
-      "transfers_out_event": 816
+      "transfers_in_event": 1620,
+      "transfers_out_event": 832
     },
     "162": {
       "name": "Andrey Santos",
@@ -13552,8 +13552,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1097,
-      "transfers_out_event": 5358
+      "transfers_in_event": 1111,
+      "transfers_out_event": 5470
     },
     "325": {
       "name": "Darlow",
@@ -13579,8 +13579,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 64,
-      "transfers_out_event": 239
+      "transfers_in_event": 65,
+      "transfers_out_event": 244
     },
     "412": {
       "name": "Lammens",
@@ -13594,7 +13594,7 @@
       "pts": 11,
       "ppg": 2.2,
       "mins": 450,
-      "sel": 9.9,
+      "sel": 9.8,
       "xgi": 0.0,
       "xgi90": 0.0,
       "ep_next": 3.0,
@@ -13606,8 +13606,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7638,
-      "transfers_out_event": 53463
+      "transfers_in_event": 7874,
+      "transfers_out_event": 54921
     },
     "413": {
       "name": "Bayindir",
@@ -13634,7 +13634,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 44
+      "transfers_out_event": 45
     },
     "414": {
       "name": "Heaton",
@@ -13660,8 +13660,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 231,
-      "transfers_out_event": 304
+      "transfers_in_event": 236,
+      "transfers_out_event": 313
     },
     "415": {
       "name": "Dorgu",
@@ -13687,8 +13687,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1037,
-      "transfers_out_event": 4818
+      "transfers_in_event": 1038,
+      "transfers_out_event": 4963
     },
     "416": {
       "name": "De Ligt",
@@ -13714,8 +13714,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 91,
-      "transfers_out_event": 143
+      "transfers_in_event": 94,
+      "transfers_out_event": 147
     },
     "417": {
       "name": "Dalot",
@@ -13741,8 +13741,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1506,
-      "transfers_out_event": 8217
+      "transfers_in_event": 1578,
+      "transfers_out_event": 8410
     },
     "418": {
       "name": "Maguire",
@@ -13768,8 +13768,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 5105,
-      "transfers_out_event": 80216
+      "transfers_in_event": 5342,
+      "transfers_out_event": 81811
     },
     "419": {
       "name": "Martinez",
@@ -13795,8 +13795,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 4015,
-      "transfers_out_event": 6889
+      "transfers_in_event": 4092,
+      "transfers_out_event": 7004
     },
     "420": {
       "name": "Yoro",
@@ -13822,8 +13822,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 506,
-      "transfers_out_event": 2330
+      "transfers_in_event": 532,
+      "transfers_out_event": 2356
     },
     "421": {
       "name": "Heaven",
@@ -13849,8 +13849,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 281,
-      "transfers_out_event": 1604
+      "transfers_in_event": 286,
+      "transfers_out_event": 1638
     },
     "422": {
       "name": "Mazraoui",
@@ -13877,7 +13877,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 613,
-      "transfers_out_event": 3178
+      "transfers_out_event": 3287
     },
     "423": {
       "name": "Shaw",
@@ -13903,8 +13903,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 4430,
-      "transfers_out_event": 81970
+      "transfers_in_event": 4664,
+      "transfers_out_event": 83684
     },
     "424": {
       "name": "Amass",
@@ -13930,8 +13930,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 449,
-      "transfers_out_event": 848
+      "transfers_in_event": 457,
+      "transfers_out_event": 861
     },
     "425": {
       "name": "Fredricson",
@@ -13984,8 +13984,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": -1,
-      "transfers_in_event": 52762,
-      "transfers_out_event": 212128
+      "transfers_in_event": 54966,
+      "transfers_out_event": 216753
     },
     "427": {
       "name": "Mbeumo",
@@ -14011,8 +14011,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 44402,
-      "transfers_out_event": 142595
+      "transfers_in_event": 46456,
+      "transfers_out_event": 146460
     },
     "428": {
       "name": "Cunha",
@@ -14038,8 +14038,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 25911,
-      "transfers_out_event": 24018
+      "transfers_in_event": 27083,
+      "transfers_out_event": 24609
     },
     "429": {
       "name": "Rashford",
@@ -14065,8 +14065,8 @@
       "corners": null,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 4333,
-      "transfers_out_event": 19519
+      "transfers_in_event": 4362,
+      "transfers_out_event": 20010
     },
     "430": {
       "name": "Mount",
@@ -14092,8 +14092,8 @@
       "corners": null,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 201,
-      "transfers_out_event": 209
+      "transfers_in_event": 206,
+      "transfers_out_event": 211
     },
     "431": {
       "name": "Amad",
@@ -14119,8 +14119,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 148,
-      "transfers_out_event": 2036
+      "transfers_in_event": 150,
+      "transfers_out_event": 2083
     },
     "432": {
       "name": "Mainoo",
@@ -14134,7 +14134,7 @@
       "pts": 22,
       "ppg": 4.4,
       "mins": 354,
-      "sel": 1.6,
+      "sel": 1.5,
       "xgi": 0.82,
       "xgi90": 0.21,
       "ep_next": 3.0,
@@ -14146,8 +14146,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8086,
-      "transfers_out_event": 16957
+      "transfers_in_event": 8156,
+      "transfers_out_event": 17395
     },
     "433": {
       "name": "Ugarte",
@@ -14200,7 +14200,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 47,
+      "transfers_in_event": 49,
       "transfers_out_event": 60
     },
     "435": {
@@ -14227,8 +14227,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 396,
-      "transfers_out_event": 384
+      "transfers_in_event": 404,
+      "transfers_out_event": 389
     },
     "436": {
       "name": "Collyer",
@@ -14255,7 +14255,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 49
+      "transfers_out_event": 50
     },
     "437": {
       "name": "Bendito Mantato",
@@ -14281,8 +14281,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 510,
-      "transfers_out_event": 955
+      "transfers_in_event": 524,
+      "transfers_out_event": 978
     },
     "438": {
       "name": "Fletcher",
@@ -14308,8 +14308,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2670,
-      "transfers_out_event": 2287
+      "transfers_in_event": 2694,
+      "transfers_out_event": 2320
     },
     "439": {
       "name": "\u0160e\u0161ko",
@@ -14335,8 +14335,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6764,
-      "transfers_out_event": 26102
+      "transfers_in_event": 6806,
+      "transfers_out_event": 26571
     },
     "440": {
       "name": "Zirkzee",
@@ -14362,8 +14362,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 2169,
-      "transfers_out_event": 3360
+      "transfers_in_event": 2231,
+      "transfers_out_event": 3409
     },
     "441": {
       "name": "Obi",
@@ -14390,7 +14390,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 12036
+      "transfers_out_event": 12194
     },
     "405": {
       "name": "N.Gonzalez",
@@ -14416,8 +14416,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 709,
-      "transfers_out_event": 1922
+      "transfers_in_event": 734,
+      "transfers_out_event": 1937
     },
     "442": {
       "name": "Pope",
@@ -14443,8 +14443,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 949,
-      "transfers_out_event": 3378
+      "transfers_in_event": 967,
+      "transfers_out_event": 3446
     },
     "443": {
       "name": "Gillespie",
@@ -14470,17 +14470,17 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 47,
-      "transfers_out_event": 91
+      "transfers_in_event": 48,
+      "transfers_out_event": 94
     },
     "444": {
       "name": "Jaouen",
       "team": "NEW",
       "pos": "GKP",
       "cost": 4.4,
-      "status": "d",
-      "news": "Ankle injury - 50% chance of playing",
-      "chance": 50,
+      "status": "i",
+      "news": "Hamstring injury - Unknown return date",
+      "chance": 0,
       "form": 0.0,
       "pts": 0,
       "ppg": 0.0,
@@ -14497,8 +14497,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 20,
-      "transfers_out_event": 133
+      "transfers_in_event": 21,
+      "transfers_out_event": 139
     },
     "445": {
       "name": "Thiaw",
@@ -14524,8 +14524,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 10149,
-      "transfers_out_event": 11326
+      "transfers_in_event": 10603,
+      "transfers_out_event": 11703
     },
     "446": {
       "name": "Sch\u00e4r",
@@ -14551,8 +14551,8 @@
       "corners": null,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 639,
-      "transfers_out_event": 988
+      "transfers_in_event": 658,
+      "transfers_out_event": 998
     },
     "447": {
       "name": "Botman",
@@ -14578,8 +14578,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5492,
-      "transfers_out_event": 3437
+      "transfers_in_event": 5649,
+      "transfers_out_event": 3542
     },
     "448": {
       "name": "Burn",
@@ -14605,8 +14605,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 125,
-      "transfers_out_event": 6339
+      "transfers_in_event": 129,
+      "transfers_out_event": 6472
     },
     "449": {
       "name": "Hall",
@@ -14632,8 +14632,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 1,
-      "transfers_in_event": 272401,
-      "transfers_out_event": 25000
+      "transfers_in_event": 281346,
+      "transfers_out_event": 26134
     },
     "450": {
       "name": "Livramento",
@@ -14659,8 +14659,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 467,
-      "transfers_out_event": 1644
+      "transfers_in_event": 473,
+      "transfers_out_event": 1683
     },
     "451": {
       "name": "A.Murphy",
@@ -14687,7 +14687,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 320
+      "transfers_out_event": 326
     },
     "453": {
       "name": "Barnes",
@@ -14713,8 +14713,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 180990,
-      "transfers_out_event": 26582
+      "transfers_in_event": 186487,
+      "transfers_out_event": 30629
     },
     "454": {
       "name": "Elanga",
@@ -14740,8 +14740,8 @@
       "corners": 2,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 353,
-      "transfers_out_event": 176942
+      "transfers_in_event": 358,
+      "transfers_out_event": 179935
     },
     "456": {
       "name": "J.Ramsey",
@@ -14767,8 +14767,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 80,
-      "transfers_out_event": 5063
+      "transfers_in_event": 84,
+      "transfers_out_event": 5174
     },
     "457": {
       "name": "J.Murphy",
@@ -14794,8 +14794,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1056,
-      "transfers_out_event": 884
+      "transfers_in_event": 1077,
+      "transfers_out_event": 902
     },
     "458": {
       "name": "Joelinton",
@@ -14822,7 +14822,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 21,
-      "transfers_out_event": 91
+      "transfers_out_event": 92
     },
     "459": {
       "name": "L.Miley",
@@ -14848,8 +14848,8 @@
       "corners": 5,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 496,
-      "transfers_out_event": 608
+      "transfers_in_event": 499,
+      "transfers_out_event": 638
     },
     "460": {
       "name": "Willock",
@@ -14875,8 +14875,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 10704,
-      "transfers_out_event": 3166
+      "transfers_in_event": 11005,
+      "transfers_out_event": 3283
     },
     "461": {
       "name": "Tour\u00e9",
@@ -14902,8 +14902,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 372,
-      "transfers_out_event": 935
+      "transfers_in_event": 378,
+      "transfers_out_event": 957
     },
     "462": {
       "name": "Steur",
@@ -14929,8 +14929,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 289,
-      "transfers_out_event": 424
+      "transfers_in_event": 295,
+      "transfers_out_event": 435
     },
     "463": {
       "name": "Woltemade",
@@ -14957,7 +14957,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4011
+      "transfers_out_event": 4068
     },
     "464": {
       "name": "Wissa",
@@ -14983,8 +14983,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 101055,
-      "transfers_out_event": 151955
+      "transfers_in_event": 104928,
+      "transfers_out_event": 155024
     },
     "465": {
       "name": "Osula",
@@ -15010,8 +15010,8 @@
       "corners": null,
       "fks": 4,
       "cost_change_event": -1,
-      "transfers_in_event": 140,
-      "transfers_out_event": 2633
+      "transfers_in_event": 141,
+      "transfers_out_event": 2697
     },
     "466": {
       "name": "Neave",
@@ -15038,7 +15038,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4196
+      "transfers_out_event": 4261
     },
     "559": {
       "name": "Bamba",
@@ -15064,8 +15064,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 133,
-      "transfers_out_event": 532
+      "transfers_in_event": 135,
+      "transfers_out_event": 544
     },
     "567": {
       "name": "Horn\u00ed\u010dek",
@@ -15091,8 +15091,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 7957,
-      "transfers_out_event": 5734
+      "transfers_in_event": 8168,
+      "transfers_out_event": 5953
     },
     "593": {
       "name": "Dedi\u0107",
@@ -15118,8 +15118,8 @@
       "corners": null,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 285,
-      "transfers_out_event": 40926
+      "transfers_in_event": 289,
+      "transfers_out_event": 42023
     },
     "609": {
       "name": "Shahar",
@@ -15146,7 +15146,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1957
+      "transfers_out_event": 1977
     },
     "634": {
       "name": "Fernandez-Pardo",
@@ -15172,8 +15172,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2356,
-      "transfers_out_event": 1555
+      "transfers_in_event": 2439,
+      "transfers_out_event": 1592
     },
     "659": {
       "name": "Miley",
@@ -15199,8 +15199,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1507,
-      "transfers_out_event": 679
+      "transfers_in_event": 1524,
+      "transfers_out_event": 691
     },
     "663": {
       "name": "Pivas",
@@ -15226,8 +15226,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 433,
-      "transfers_out_event": 69
+      "transfers_in_event": 438,
+      "transfers_out_event": 71
     },
     "664": {
       "name": "Salia",
@@ -15253,8 +15253,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 10700,
-      "transfers_out_event": 1810
+      "transfers_in_event": 10903,
+      "transfers_out_event": 1864
     },
     "665": {
       "name": "Mills",
@@ -15280,7 +15280,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 171,
+      "transfers_in_event": 174,
       "transfers_out_event": 34
     },
     "666": {
@@ -15307,8 +15307,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 249,
-      "transfers_out_event": 37
+      "transfers_in_event": 253,
+      "transfers_out_event": 38
     },
     "167": {
       "name": "Delap",
@@ -15334,8 +15334,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 1,
-      "transfers_in_event": 26449,
-      "transfers_out_event": 31302
+      "transfers_in_event": 26877,
+      "transfers_out_event": 32069
     },
     "201": {
       "name": "Mu\u00f1oz",
@@ -15361,8 +15361,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8710,
-      "transfers_out_event": 32787
+      "transfers_in_event": 8928,
+      "transfers_out_event": 33550
     },
     "467": {
       "name": "Sels",
@@ -15388,8 +15388,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2276,
-      "transfers_out_event": 6823
+      "transfers_in_event": 2363,
+      "transfers_out_event": 7030
     },
     "468": {
       "name": "John",
@@ -15416,7 +15416,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 68,
-      "transfers_out_event": 166
+      "transfers_out_event": 167
     },
     "469": {
       "name": "N.Williams",
@@ -15442,8 +15442,8 @@
       "corners": 2,
       "fks": 3,
       "cost_change_event": 0,
-      "transfers_in_event": 12550,
-      "transfers_out_event": 51797
+      "transfers_in_event": 13034,
+      "transfers_out_event": 53244
     },
     "470": {
       "name": "Morato",
@@ -15470,7 +15470,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 129
+      "transfers_out_event": 134
     },
     "471": {
       "name": "Milenkovi\u0107",
@@ -15496,8 +15496,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 71,
-      "transfers_out_event": 13236
+      "transfers_in_event": 78,
+      "transfers_out_event": 13510
     },
     "472": {
       "name": "Murillo",
@@ -15523,8 +15523,8 @@
       "corners": null,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 9670,
-      "transfers_out_event": 9133
+      "transfers_in_event": 9950,
+      "transfers_out_event": 9356
     },
     "473": {
       "name": "Aina",
@@ -15538,7 +15538,7 @@
       "pts": 8,
       "ppg": 2.0,
       "mins": 306,
-      "sel": 2.4,
+      "sel": 2.3,
       "xgi": 0.57,
       "xgi90": 0.17,
       "ep_next": 1.0,
@@ -15550,8 +15550,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1178,
-      "transfers_out_event": 22075
+      "transfers_in_event": 1208,
+      "transfers_out_event": 22581
     },
     "474": {
       "name": "Jair Cunha",
@@ -15577,8 +15577,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 300,
-      "transfers_out_event": 700
+      "transfers_in_event": 306,
+      "transfers_out_event": 717
     },
     "475": {
       "name": "Savona",
@@ -15604,8 +15604,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 21,
-      "transfers_out_event": 20
+      "transfers_in_event": 22,
+      "transfers_out_event": 23
     },
     "476": {
       "name": "O.Richards",
@@ -15631,8 +15631,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 333,
-      "transfers_out_event": 799
+      "transfers_in_event": 337,
+      "transfers_out_event": 815
     },
     "477": {
       "name": "Abbott",
@@ -15659,7 +15659,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 900
+      "transfers_out_event": 925
     },
     "478": {
       "name": "Netz",
@@ -15685,8 +15685,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 61,
-      "transfers_out_event": 127
+      "transfers_in_event": 62,
+      "transfers_out_event": 128
     },
     "479": {
       "name": "Bindon",
@@ -15713,7 +15713,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 579
+      "transfers_out_event": 594
     },
     "480": {
       "name": "Gibbs-White",
@@ -15739,8 +15739,8 @@
       "corners": null,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 75296,
-      "transfers_out_event": 94866
+      "transfers_in_event": 78173,
+      "transfers_out_event": 98601
     },
     "482": {
       "name": "Hudson-Odoi",
@@ -15766,8 +15766,8 @@
       "corners": null,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 299,
-      "transfers_out_event": 1239
+      "transfers_in_event": 315,
+      "transfers_out_event": 1253
     },
     "483": {
       "name": "Ndoye",
@@ -15793,8 +15793,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 851,
-      "transfers_out_event": 8760
+      "transfers_in_event": 902,
+      "transfers_out_event": 8953
     },
     "484": {
       "name": "Hutchinson",
@@ -15821,7 +15821,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 404
+      "transfers_out_event": 410
     },
     "485": {
       "name": "Bakwa",
@@ -15848,7 +15848,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 38
+      "transfers_out_event": 41
     },
     "486": {
       "name": "McAtee",
@@ -15874,8 +15874,8 @@
       "corners": 1,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 387,
-      "transfers_out_event": 983
+      "transfers_in_event": 397,
+      "transfers_out_event": 999
     },
     "487": {
       "name": "Dominguez",
@@ -15901,8 +15901,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 66,
-      "transfers_out_event": 315
+      "transfers_in_event": 68,
+      "transfers_out_event": 318
     },
     "488": {
       "name": "I.Sangar\u00e9",
@@ -15928,8 +15928,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 341,
-      "transfers_out_event": 3398
+      "transfers_in_event": 360,
+      "transfers_out_event": 3495
     },
     "489": {
       "name": "Yates",
@@ -15943,7 +15943,7 @@
       "pts": 0,
       "ppg": 0.0,
       "mins": 0,
-      "sel": 1.2,
+      "sel": 1.1,
       "xgi": 0.0,
       "xgi90": 0.0,
       "ep_next": 0.0,
@@ -15955,8 +15955,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 654,
-      "transfers_out_event": 7926
+      "transfers_in_event": 675,
+      "transfers_out_event": 8112
     },
     "490": {
       "name": "Wood",
@@ -15982,8 +15982,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2269,
-      "transfers_out_event": 6964
+      "transfers_in_event": 2328,
+      "transfers_out_event": 7087
     },
     "491": {
       "name": "Igor Jesus",
@@ -16009,8 +16009,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 8435,
-      "transfers_out_event": 25191
+      "transfers_in_event": 8754,
+      "transfers_out_event": 25766
     },
     "493": {
       "name": "Kalimuendo",
@@ -16036,8 +16036,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 252,
-      "transfers_out_event": 450
+      "transfers_in_event": 256,
+      "transfers_out_event": 457
     },
     "558": {
       "name": "Schlager",
@@ -16063,8 +16063,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 238,
-      "transfers_out_event": 860
+      "transfers_in_event": 244,
+      "transfers_out_event": 877
     },
     "581": {
       "name": "Diomande",
@@ -16090,8 +16090,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1682,
-      "transfers_out_event": 2453
+      "transfers_in_event": 1721,
+      "transfers_out_event": 2484
     },
     "590": {
       "name": "Benda",
@@ -16118,7 +16118,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 140,
-      "transfers_out_event": 251
+      "transfers_out_event": 255
     },
     "112": {
       "name": "Van Hecke",
@@ -16144,8 +16144,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 19704,
-      "transfers_out_event": 39291
+      "transfers_in_event": 19986,
+      "transfers_out_event": 41820
     },
     "147": {
       "name": "Tosin",
@@ -16171,8 +16171,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 115,
-      "transfers_out_event": 600
+      "transfers_in_event": 117,
+      "transfers_out_event": 611
     },
     "401": {
       "name": "Marmoush",
@@ -16198,8 +16198,8 @@
       "corners": 8,
       "fks": 4,
       "cost_change_event": 0,
-      "transfers_in_event": 13817,
-      "transfers_out_event": 23678
+      "transfers_in_event": 14336,
+      "transfers_out_event": 24192
     },
     "403": {
       "name": "S\u00e1vio",
@@ -16225,8 +16225,8 @@
       "corners": 2,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3367,
-      "transfers_out_event": 7745
+      "transfers_in_event": 3471,
+      "transfers_out_event": 7945
     },
     "455": {
       "name": "Tonali",
@@ -16252,8 +16252,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 2567,
-      "transfers_out_event": 16322
+      "transfers_in_event": 2649,
+      "transfers_out_event": 16654
     },
     "494": {
       "name": "Vicario",
@@ -16280,7 +16280,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 768
+      "transfers_out_event": 783
     },
     "495": {
       "name": "Austin",
@@ -16306,8 +16306,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2132,
-      "transfers_out_event": 2356
+      "transfers_in_event": 2181,
+      "transfers_out_event": 2406
     },
     "496": {
       "name": "Kinsky",
@@ -16321,7 +16321,7 @@
       "pts": 18,
       "ppg": 3.6,
       "mins": 450,
-      "sel": 17.2,
+      "sel": 17.1,
       "xgi": 0.0,
       "xgi90": 0.0,
       "ep_next": 4.5,
@@ -16333,8 +16333,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 21387,
-      "transfers_out_event": 122284
+      "transfers_in_event": 22109,
+      "transfers_out_event": 125947
     },
     "497": {
       "name": "Dubravka",
@@ -16360,8 +16360,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 30845,
-      "transfers_out_event": 53639
+      "transfers_in_event": 32265,
+      "transfers_out_event": 55217
     },
     "498": {
       "name": "Senesi",
@@ -16387,8 +16387,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1329,
-      "transfers_out_event": 23136
+      "transfers_in_event": 1365,
+      "transfers_out_event": 23583
     },
     "499": {
       "name": "Pedro Porro",
@@ -16414,8 +16414,8 @@
       "corners": 1,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 1783,
-      "transfers_out_event": 81943
+      "transfers_in_event": 1800,
+      "transfers_out_event": 83989
     },
     "500": {
       "name": "Romero",
@@ -16442,7 +16442,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 316
+      "transfers_out_event": 318
     },
     "502": {
       "name": "Robertson",
@@ -16468,8 +16468,8 @@
       "corners": 6,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6594,
-      "transfers_out_event": 14522
+      "transfers_in_event": 6891,
+      "transfers_out_event": 15065
     },
     "503": {
       "name": "Van de Ven",
@@ -16495,8 +16495,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6923,
-      "transfers_out_event": 21742
+      "transfers_in_event": 7181,
+      "transfers_out_event": 22251
     },
     "505": {
       "name": "Spence",
@@ -16523,7 +16523,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1305
+      "transfers_out_event": 1318
     },
     "506": {
       "name": "Udogie",
@@ -16549,8 +16549,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 369,
-      "transfers_out_event": 1758
+      "transfers_in_event": 380,
+      "transfers_out_event": 1784
     },
     "507": {
       "name": "Phillips",
@@ -16577,7 +16577,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 57
+      "transfers_out_event": 59
     },
     "508": {
       "name": "Davies",
@@ -16603,8 +16603,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 8184,
-      "transfers_out_event": 4368
+      "transfers_in_event": 8397,
+      "transfers_out_event": 4508
     },
     "509": {
       "name": "Byfield",
@@ -16630,8 +16630,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 132,
-      "transfers_out_event": 262
+      "transfers_in_event": 136,
+      "transfers_out_event": 268
     },
     "510": {
       "name": "Rowswell",
@@ -16657,8 +16657,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 176,
-      "transfers_out_event": 366
+      "transfers_in_event": 178,
+      "transfers_out_event": 379
     },
     "511": {
       "name": "Souza",
@@ -16685,7 +16685,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 961
+      "transfers_out_event": 986
     },
     "512": {
       "name": "Kudus",
@@ -16711,8 +16711,8 @@
       "corners": 7,
       "fks": 6,
       "cost_change_event": 0,
-      "transfers_in_event": 2614,
-      "transfers_out_event": 1304
+      "transfers_in_event": 2696,
+      "transfers_out_event": 1336
     },
     "513": {
       "name": "Xavi",
@@ -16738,7 +16738,7 @@
       "corners": null,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 59,
+      "transfers_in_event": 60,
       "transfers_out_event": 86
     },
     "514": {
@@ -16765,8 +16765,8 @@
       "corners": 3,
       "fks": 3,
       "cost_change_event": -1,
-      "transfers_in_event": 216,
-      "transfers_out_event": 2124
+      "transfers_in_event": 227,
+      "transfers_out_event": 2173
     },
     "515": {
       "name": "Maddison",
@@ -16792,8 +16792,8 @@
       "corners": 5,
       "fks": 5,
       "cost_change_event": 0,
-      "transfers_in_event": 861,
-      "transfers_out_event": 2134
+      "transfers_in_event": 881,
+      "transfers_out_event": 2181
     },
     "516": {
       "name": "Bentancur",
@@ -16819,8 +16819,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 454,
-      "transfers_out_event": 855
+      "transfers_in_event": 464,
+      "transfers_out_event": 892
     },
     "517": {
       "name": "Odobert",
@@ -16846,7 +16846,7 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 32,
+      "transfers_in_event": 33,
       "transfers_out_event": 15
     },
     "518": {
@@ -16874,7 +16874,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 731
+      "transfers_out_event": 750
     },
     "519": {
       "name": "Gallagher",
@@ -16900,8 +16900,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 878,
-      "transfers_out_event": 732
+      "transfers_in_event": 890,
+      "transfers_out_event": 758
     },
     "520": {
       "name": "Bergvall",
@@ -16927,8 +16927,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 115,
-      "transfers_out_event": 670
+      "transfers_in_event": 119,
+      "transfers_out_event": 687
     },
     "521": {
       "name": "Kulusevski",
@@ -16954,8 +16954,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 109,
-      "transfers_out_event": 80
+      "transfers_in_event": 114,
+      "transfers_out_event": 83
     },
     "522": {
       "name": "Gray",
@@ -16981,8 +16981,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 506,
-      "transfers_out_event": 1320
+      "transfers_in_event": 518,
+      "transfers_out_event": 1346
     },
     "523": {
       "name": "Moore",
@@ -17009,7 +17009,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 584
+      "transfers_out_event": 597
     },
     "524": {
       "name": "Olusesi",
@@ -17035,8 +17035,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 6232,
-      "transfers_out_event": 8052
+      "transfers_in_event": 6278,
+      "transfers_out_event": 8170
     },
     "525": {
       "name": "Fernandes",
@@ -17062,8 +17062,8 @@
       "corners": 4,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 525,
-      "transfers_out_event": 7215
+      "transfers_in_event": 542,
+      "transfers_out_event": 7381
     },
     "526": {
       "name": "Solanke",
@@ -17089,8 +17089,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2260,
-      "transfers_out_event": 6231
+      "transfers_in_event": 2331,
+      "transfers_out_event": 6356
     },
     "527": {
       "name": "Richarlison",
@@ -17117,7 +17117,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 6306
+      "transfers_out_event": 6439
     },
     "528": {
       "name": "Scarlett",
@@ -17144,7 +17144,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 8672
+      "transfers_out_event": 8830
     },
     "578": {
       "name": "Mudryk",
@@ -17170,8 +17170,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 23,
-      "transfers_out_event": 596
+      "transfers_in_event": 25,
+      "transfers_out_event": 607
     },
     "601": {
       "name": "Williams-Barnett",
@@ -17197,8 +17197,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 178,
-      "transfers_out_event": 800
+      "transfers_in_event": 182,
+      "transfers_out_event": 812
     },
     "501": {
       "name": "Danso",
@@ -17224,8 +17224,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1279,
-      "transfers_out_event": 908
+      "transfers_in_event": 1304,
+      "transfers_out_event": 917
     },
     "529": {
       "name": "Roefs",
@@ -17251,8 +17251,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 2251,
-      "transfers_out_event": 12899
+      "transfers_in_event": 2301,
+      "transfers_out_event": 13238
     },
     "530": {
       "name": "Patterson",
@@ -17279,7 +17279,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 391
+      "transfers_out_event": 398
     },
     "531": {
       "name": "Ellborg",
@@ -17305,8 +17305,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 153,
-      "transfers_out_event": 280
+      "transfers_in_event": 156,
+      "transfers_out_event": 291
     },
     "532": {
       "name": "Ballard",
@@ -17332,8 +17332,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3671,
-      "transfers_out_event": 20242
+      "transfers_in_event": 3684,
+      "transfers_out_event": 21256
     },
     "533": {
       "name": "Mukiele",
@@ -17359,8 +17359,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 5671,
-      "transfers_out_event": 9674
+      "transfers_in_event": 5807,
+      "transfers_out_event": 9908
     },
     "534": {
       "name": "Hume",
@@ -17386,8 +17386,8 @@
       "corners": 3,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 1333,
-      "transfers_out_event": 32459
+      "transfers_in_event": 1366,
+      "transfers_out_event": 33362
     },
     "535": {
       "name": "Alderete",
@@ -17413,8 +17413,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 247,
-      "transfers_out_event": 1174
+      "transfers_in_event": 249,
+      "transfers_out_event": 1192
     },
     "536": {
       "name": "Reinildo",
@@ -17440,8 +17440,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 245,
-      "transfers_out_event": 1660
+      "transfers_in_event": 255,
+      "transfers_out_event": 1689
     },
     "537": {
       "name": "Seelt",
@@ -17468,7 +17468,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 23
+      "transfers_out_event": 26
     },
     "538": {
       "name": "Hjelde",
@@ -17495,7 +17495,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 168
+      "transfers_out_event": 172
     },
     "539": {
       "name": "O'Nien",
@@ -17521,8 +17521,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 19290,
-      "transfers_out_event": 12994
+      "transfers_in_event": 19709,
+      "transfers_out_event": 13378
     },
     "540": {
       "name": "Masuaku",
@@ -17549,7 +17549,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 685
+      "transfers_out_event": 703
     },
     "541": {
       "name": "Meunier",
@@ -17575,8 +17575,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 1858,
-      "transfers_out_event": 1014
+      "transfers_in_event": 1912,
+      "transfers_out_event": 1051
     },
     "542": {
       "name": "E.Le F\u00e9e",
@@ -17602,8 +17602,8 @@
       "corners": 1,
       "fks": 3,
       "cost_change_event": -1,
-      "transfers_in_event": 12817,
-      "transfers_out_event": 26803
+      "transfers_in_event": 13207,
+      "transfers_out_event": 27641
     },
     "543": {
       "name": "Diarra",
@@ -17629,8 +17629,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 20,
-      "transfers_out_event": 260
+      "transfers_in_event": 21,
+      "transfers_out_event": 262
     },
     "544": {
       "name": "Xhaka",
@@ -17656,8 +17656,8 @@
       "corners": 2,
       "fks": 2,
       "cost_change_event": 0,
-      "transfers_in_event": 6888,
-      "transfers_out_event": 25188
+      "transfers_in_event": 7040,
+      "transfers_out_event": 25763
     },
     "545": {
       "name": "Sadiki",
@@ -17683,8 +17683,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 439,
-      "transfers_out_event": 1476
+      "transfers_in_event": 450,
+      "transfers_out_event": 1527
     },
     "546": {
       "name": "Adingra",
@@ -17711,7 +17711,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 203
+      "transfers_out_event": 206
     },
     "547": {
       "name": "Mundle",
@@ -17738,7 +17738,7 @@
       "fks": null,
       "cost_change_event": 0,
       "transfers_in_event": 11,
-      "transfers_out_event": 58
+      "transfers_out_event": 60
     },
     "548": {
       "name": "Rigg",
@@ -17764,8 +17764,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 38,
-      "transfers_out_event": 253
+      "transfers_in_event": 40,
+      "transfers_out_event": 259
     },
     "549": {
       "name": "Talbi",
@@ -17791,8 +17791,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 122,
-      "transfers_out_event": 607
+      "transfers_in_event": 124,
+      "transfers_out_event": 620
     },
     "550": {
       "name": "Jocelin.T",
@@ -17818,8 +17818,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 45,
-      "transfers_out_event": 45
+      "transfers_in_event": 47,
+      "transfers_out_event": 48
     },
     "551": {
       "name": "N.Angulo",
@@ -17845,8 +17845,8 @@
       "corners": null,
       "fks": 1,
       "cost_change_event": 0,
-      "transfers_in_event": 561,
-      "transfers_out_event": 847
+      "transfers_in_event": 587,
+      "transfers_out_event": 865
     },
     "552": {
       "name": "Brobbey",
@@ -17872,8 +17872,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": -1,
-      "transfers_in_event": 198835,
-      "transfers_out_event": 55485
+      "transfers_in_event": 199744,
+      "transfers_out_event": 57946
     },
     "553": {
       "name": "Isidor",
@@ -17899,8 +17899,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 3954,
-      "transfers_out_event": 12414
+      "transfers_in_event": 4145,
+      "transfers_out_event": 12623
     },
     "612": {
       "name": "Methalie",
@@ -17926,8 +17926,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 131,
-      "transfers_out_event": 77
+      "transfers_in_event": 134,
+      "transfers_out_event": 78
     },
     "613": {
       "name": "Ahoka",
@@ -17953,8 +17953,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 629,
-      "transfers_out_event": 1704
+      "transfers_in_event": 644,
+      "transfers_out_event": 1723
     },
     "646": {
       "name": "Fofana",
@@ -17980,8 +17980,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 357,
-      "transfers_out_event": 320
+      "transfers_in_event": 362,
+      "transfers_out_event": 325
     },
     "651": {
       "name": "J.Angulo",
@@ -18007,8 +18007,8 @@
       "corners": null,
       "fks": null,
       "cost_change_event": 0,
-      "transfers_in_event": 9667,
-      "transfers_out_event": 7760
+      "transfers_in_event": 9889,
+      "transfers_out_event": 7898
     }
   }
 }
