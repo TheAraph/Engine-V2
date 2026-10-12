@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 11,
+      "my_rank": 13,
       "rivals_sampled": 28,
       "gw": 5,
       "edges": [
@@ -23,7 +23,7 @@
           "pos": "DEF",
           "cost": 4.3,
           "league_own": 7.1,
-          "global_own": 7.0
+          "global_own": 6.9
         },
         {
           "name": "Hume",
@@ -37,37 +37,37 @@
           "pos": "MID",
           "cost": 6.3,
           "league_own": 14.3,
-          "global_own": 7.2
+          "global_own": 6.9
         },
         {
           "name": "Cherki",
           "pos": "MID",
           "cost": 7.8,
           "league_own": 28.6,
-          "global_own": 28.9
+          "global_own": 30.0
         },
         {
           "name": "De Cuyper",
           "pos": "DEF",
-          "cost": 5.0,
+          "cost": 5.1,
           "league_own": 28.6,
-          "global_own": 32.6
+          "global_own": 33.8
         }
       ],
       "exposure": [
         {
           "name": "Rogers",
           "pos": "MID",
-          "cost": 7.8,
+          "cost": 7.9,
           "league_own": 53.6,
-          "global_own": 43.5
+          "global_own": 44.2
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.7,
           "league_own": 50.0,
-          "global_own": 24.6
+          "global_own": 24.9
         }
       ],
       "captains": [
@@ -88,7 +88,7 @@
           "share": 3.6
         },
         {
-          "name": "B.Fernandes",
+          "name": "Cherki",
           "share": 3.6
         }
       ]
@@ -96,7 +96,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 4,
+      "my_rank": 5,
       "rivals_sampled": 8,
       "gw": 5,
       "edges": [
@@ -119,14 +119,14 @@
           "pos": "MID",
           "cost": 7.8,
           "league_own": 12.5,
-          "global_own": 28.9
+          "global_own": 30.0
         },
         {
           "name": "Shaw",
           "pos": "DEF",
           "cost": 4.3,
           "league_own": 25.0,
-          "global_own": 7.0
+          "global_own": 6.9
         },
         {
           "name": "Kinsky",
@@ -140,23 +140,23 @@
         {
           "name": "Rogers",
           "pos": "MID",
-          "cost": 7.8,
+          "cost": 7.9,
           "league_own": 50.0,
-          "global_own": 43.5
+          "global_own": 44.2
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
           "cost": 6.9,
           "league_own": 50.0,
-          "global_own": 30.1
+          "global_own": 29.2
         },
         {
           "name": "Maguire",
           "pos": "DEF",
           "cost": 4.8,
           "league_own": 50.0,
-          "global_own": 7.7
+          "global_own": 7.6
         }
       ],
       "captains": [
