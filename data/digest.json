@@ -1,153 +1,20 @@
 {
-  "generated_at": "2026-10-15T05:23:18.761492+00:00",
+  "generated_at": "2026-10-15T11:54:41.163892+00:00",
   "next_gw": 7,
   "deadline": "2026-10-17T10:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 667,
     "flagged": 194,
-    "managers": 11088731
+    "managers": 11090064
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Goretzka",
-        "team": "AVL",
-        "pos": "MID",
-        "cost": 5.9,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Pedro Porro",
-        "team": "TOT",
-        "pos": "DEF",
-        "cost": 5.3,
-        "sel": 5.7,
-        "news": "Hamstring injury - Unknown return date",
-        "chance": 0,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Mu\u00f1oz",
-        "team": "NFO",
-        "pos": "DEF",
-        "cost": 5.3,
-        "sel": 5.2,
-        "news": "",
-        "chance": null,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Senesi",
-        "team": "TOT",
-        "pos": "DEF",
-        "cost": 5.7,
-        "sel": 3.3,
-        "news": "",
-        "chance": null,
-        "from": 5.8,
-        "to": 5.7
-      },
-      {
-        "name": "Mazraoui",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 4.3,
-        "sel": 0.4,
-        "news": "Back injury - 75% chance of playing",
-        "chance": 75,
-        "from": 4.4,
-        "to": 4.3
-      },
-      {
-        "name": "Dasilva",
-        "team": "BRE",
-        "pos": "MID",
-        "cost": 4.8,
-        "sel": 0.0,
-        "news": "Hamstring injury - Unknown return date",
-        "chance": 0,
-        "from": 4.9,
-        "to": 4.8
-      }
-    ],
-    "form_risers": [
-      {
-        "name": "Justin",
-        "team": "LEE",
-        "pos": "DEF",
-        "cost": 4.5,
-        "sel": 1.6,
-        "news": "",
-        "chance": null,
-        "form_from": 5.3,
-        "form_to": 7.0
-      },
-      {
-        "name": "Hall",
-        "team": "NEW",
-        "pos": "DEF",
-        "cost": 5.3,
-        "sel": 20.7,
-        "news": "",
-        "chance": null,
-        "form_from": 4.3,
-        "form_to": 6.5
-      },
-      {
-        "name": "Trafford",
-        "team": "LEE",
-        "pos": "GKP",
-        "cost": 5.0,
-        "sel": 5.6,
-        "news": "",
-        "chance": null,
-        "form_from": 5.0,
-        "form_to": 6.0
-      },
-      {
-        "name": "Botman",
-        "team": "NEW",
-        "pos": "DEF",
-        "cost": 5.0,
-        "sel": 0.8,
-        "news": "",
-        "chance": null,
-        "form_from": 4.7,
-        "form_to": 6.0
-      },
-      {
-        "name": "Barnes",
-        "team": "NEW",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 8.1,
-        "news": "",
-        "chance": null,
-        "form_from": 4.3,
-        "form_to": 5.5
-      },
-      {
-        "name": "Willock",
-        "team": "NEW",
-        "pos": "MID",
-        "cost": 5.0,
-        "sel": 0.6,
-        "news": "",
-        "chance": null,
-        "form_from": 4.0,
-        "form_to": 5.5
-      }
-    ],
+    "price_falls": [],
+    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -156,7 +23,7 @@
       "team": "LIV",
       "pos": "MID",
       "cost": 6.9,
-      "sel": 27.6,
+      "sel": 27.5,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -166,7 +33,7 @@
       "team": "BRE",
       "pos": "MID",
       "cost": 6.2,
-      "sel": 15.0,
+      "sel": 14.9,
       "news": "Shoulder injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -176,7 +43,7 @@
       "team": "LIV",
       "pos": "FWD",
       "cost": 9.0,
-      "sel": 14.1,
+      "sel": 14.0,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -186,7 +53,7 @@
       "team": "LIV",
       "pos": "MID",
       "cost": 7.1,
-      "sel": 7.6,
+      "sel": 7.5,
       "news": "Ankle injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -222,16 +89,6 @@
       "status": "injured"
     },
     {
-      "name": "James",
-      "team": "CHE",
-      "pos": "DEF",
-      "cost": 5.3,
-      "sel": 5.1,
-      "news": "Unspecified injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
       "name": "Brobbey",
       "team": "SUN",
       "pos": "FWD",
@@ -240,6 +97,16 @@
       "news": "Hamstring injury - Expected back 25 Oct",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "James",
+      "team": "CHE",
+      "pos": "DEF",
+      "cost": 5.3,
+      "sel": 5.0,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Scott",
@@ -302,16 +169,6 @@
       "status": "injured"
     },
     {
-      "name": "Mainoo",
-      "team": "MUN",
-      "pos": "MID",
-      "cost": 5.5,
-      "sel": 1.5,
-      "news": "Unspecified injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
       "name": "Targett",
       "team": "HUL",
       "pos": "DEF",
@@ -320,6 +177,16 @@
       "news": "Ankle injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Mainoo",
+      "team": "MUN",
+      "pos": "MID",
+      "cost": 5.5,
+      "sel": 1.4,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Robinson",
@@ -517,8 +384,8 @@
       "pos": "MID",
       "cost": 5.9,
       "sel": 0.5,
-      "news": "Ankle injury - 50% chance of playing",
-      "chance": 50,
+      "news": "Ankle injury - 75% chance of playing",
+      "chance": 75,
       "status": "doubtful"
     },
     {
@@ -2099,7 +1966,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 10.5,
-      "sel": 35.7,
+      "sel": 35.8,
       "xgi90": 0.45,
       "ep_next": 10.5
     },
@@ -2109,7 +1976,7 @@
       "pos": "MID",
       "cost": 6.0,
       "form": 10.0,
-      "sel": 39.8,
+      "sel": 39.9,
       "xgi90": 0.52,
       "ep_next": 10.0
     },
@@ -2149,7 +2016,7 @@
       "pos": "MID",
       "cost": 7.9,
       "form": 10.0,
-      "sel": 6.4,
+      "sel": 6.5,
       "xgi90": 0.32,
       "ep_next": 10.0
     },
@@ -2169,7 +2036,7 @@
       "pos": "MID",
       "cost": 7.9,
       "form": 9.0,
-      "sel": 32.2,
+      "sel": 32.3,
       "xgi90": 0.69,
       "ep_next": 9.0
     },
@@ -2339,7 +2206,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 6.5,
-      "sel": 20.7,
+      "sel": 20.6,
       "xgi90": 0.19,
       "ep_next": 6.5
     },
@@ -2349,7 +2216,7 @@
       "pos": "FWD",
       "cost": 7.8,
       "form": 6.0,
-      "sel": 69.9,
+      "sel": 70.0,
       "xgi90": 0.64,
       "ep_next": 6.0
     },
@@ -3119,7 +2986,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1465617,
+    "overall_rank": 1465614,
     "total_points": 402,
     "bank": 0.1,
     "value": 100.3,
@@ -3165,7 +3032,7 @@
         "news": "",
         "chance": null,
         "form": 10.5,
-        "sel": 35.7,
+        "sel": 35.8,
         "ep_next": 10.5,
         "slot": 3,
         "captain": false,
@@ -3181,7 +3048,7 @@
         "news": "",
         "chance": null,
         "form": 6.5,
-        "sel": 20.7,
+        "sel": 20.6,
         "ep_next": 6.5,
         "slot": 4,
         "captain": false,
@@ -3229,7 +3096,7 @@
         "news": "",
         "chance": null,
         "form": 10.0,
-        "sel": 39.8,
+        "sel": 39.9,
         "ep_next": 10.0,
         "slot": 7,
         "captain": false,
@@ -3245,7 +3112,7 @@
         "news": "",
         "chance": null,
         "form": 5.5,
-        "sel": 45.1,
+        "sel": 45.2,
         "ep_next": 5.5,
         "slot": 8,
         "captain": false,
@@ -3325,7 +3192,7 @@
         "news": "Shoulder injury - 75% chance of playing",
         "chance": 75,
         "form": 5.0,
-        "sel": 15.0,
+        "sel": 14.9,
         "ep_next": 3.8,
         "slot": 13,
         "captain": false,
