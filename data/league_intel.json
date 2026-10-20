@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 11,
+      "my_rank": 12,
       "rivals_sampled": 28,
       "gw": 6,
       "edges": [
@@ -23,14 +23,14 @@
           "pos": "FWD",
           "cost": 5.7,
           "league_own": 7.1,
-          "global_own": 8.5
+          "global_own": 8.4
         },
         {
           "name": "Gonzalo",
           "pos": "FWD",
           "cost": 6.1,
           "league_own": 14.3,
-          "global_own": 7.0
+          "global_own": 6.9
         },
         {
           "name": "Gibbs-White",
@@ -58,7 +58,7 @@
           "pos": "MID",
           "cost": 6.2,
           "league_own": 25.0,
-          "global_own": 13.9
+          "global_own": 14.0
         }
       ],
       "exposure": [
@@ -103,7 +103,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 4,
+      "my_rank": 5,
       "rivals_sampled": 8,
       "gw": 6,
       "edges": [
@@ -119,7 +119,7 @@
           "pos": "FWD",
           "cost": 6.1,
           "league_own": 0.0,
-          "global_own": 7.0
+          "global_own": 6.9
         },
         {
           "name": "Davis",
@@ -147,7 +147,7 @@
           "pos": "FWD",
           "cost": 5.7,
           "league_own": 12.5,
-          "global_own": 8.5
+          "global_own": 8.4
         },
         {
           "name": "Raya",
@@ -168,7 +168,7 @@
           "pos": "MID",
           "cost": 6.2,
           "league_own": 25.0,
-          "global_own": 13.9
+          "global_own": 14.0
         }
       ],
       "exposure": [
@@ -198,7 +198,7 @@
           "pos": "MID",
           "cost": 6.8,
           "league_own": 50.0,
-          "global_own": 19.6
+          "global_own": 19.5
         },
         {
           "name": "Maguire",
