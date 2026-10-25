@@ -23,35 +23,35 @@
           "pos": "FWD",
           "cost": 5.7,
           "league_own": 10.7,
-          "global_own": 7.8
+          "global_own": 7.6
         },
         {
           "name": "Gonzalo",
           "pos": "FWD",
-          "cost": 6.1,
+          "cost": 6.0,
           "league_own": 14.3,
-          "global_own": 6.5
+          "global_own": 6.1
         },
         {
           "name": "Gibbs-White",
           "pos": "MID",
           "cost": 7.9,
           "league_own": 17.9,
-          "global_own": 12.3
+          "global_own": 12.2
         },
         {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 17.9,
-          "global_own": 7.4
+          "global_own": 7.3
         },
         {
           "name": "Kinsky",
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 21.4,
-          "global_own": 14.6
+          "global_own": 14.7
         },
         {
           "name": "Schade",
@@ -67,21 +67,21 @@
           "pos": "FWD",
           "cost": 7.9,
           "league_own": 92.9,
-          "global_own": 73.8
-        },
-        {
-          "name": "Konsa",
-          "pos": "DEF",
-          "cost": 4.6,
-          "league_own": 53.6,
-          "global_own": 18.7
+          "global_own": 73.3
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.8,
           "league_own": 53.6,
-          "global_own": 28.6
+          "global_own": 28.2
+        },
+        {
+          "name": "Konsa",
+          "pos": "DEF",
+          "cost": 4.6,
+          "league_own": 53.6,
+          "global_own": 19.1
         }
       ],
       "captains": [
@@ -106,7 +106,7 @@
     {
       "league": "Kazinata",
       "id": 978874,
-      "my_rank": 5,
+      "my_rank": 6,
       "rivals_sampled": 8,
       "gw": 7,
       "edges": [
@@ -122,35 +122,35 @@
           "pos": "MID",
           "cost": 9.5,
           "league_own": 0.0,
-          "global_own": 10.1
+          "global_own": 9.6
         },
         {
           "name": "Gonzalo",
           "pos": "FWD",
-          "cost": 6.1,
+          "cost": 6.0,
           "league_own": 0.0,
-          "global_own": 6.5
+          "global_own": 6.1
         },
         {
           "name": "Gibbs-White",
           "pos": "MID",
           "cost": 7.9,
           "league_own": 12.5,
-          "global_own": 12.3
+          "global_own": 12.2
         },
         {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 12.5,
-          "global_own": 7.4
+          "global_own": 7.3
         },
         {
           "name": "Barry",
           "pos": "FWD",
           "cost": 5.7,
           "league_own": 12.5,
-          "global_own": 7.8
+          "global_own": 7.6
         },
         {
           "name": "Raya",
@@ -171,7 +171,7 @@
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 14.6
+          "global_own": 14.7
         },
         {
           "name": "Schade",
@@ -187,42 +187,42 @@
           "pos": "FWD",
           "cost": 7.9,
           "league_own": 87.5,
-          "global_own": 73.8
+          "global_own": 73.3
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.6,
           "league_own": 50.0,
-          "global_own": 18.7
+          "global_own": 19.1
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.8,
           "league_own": 50.0,
-          "global_own": 28.6
+          "global_own": 28.2
         },
         {
           "name": "Szoboszlai",
           "pos": "MID",
-          "cost": 6.8,
+          "cost": 6.7,
           "league_own": 50.0,
-          "global_own": 16.2
+          "global_own": 15.8
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.1,
           "league_own": 50.0,
-          "global_own": 22.7
+          "global_own": 22.1
         },
         {
           "name": "Verbruggen",
           "pos": "GKP",
           "cost": 4.6,
           "league_own": 50.0,
-          "global_own": 22.7
+          "global_own": 22.6
         },
         {
           "name": "Maguire",
