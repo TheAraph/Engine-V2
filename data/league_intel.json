@@ -16,14 +16,14 @@
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 0.0,
-          "global_own": 1.2
+          "global_own": 1.3
         },
         {
           "name": "Rice",
           "pos": "MID",
           "cost": 7.4,
           "league_own": 3.6,
-          "global_own": 12.6
+          "global_own": 12.5
         },
         {
           "name": "Gonzalo",
@@ -58,7 +58,7 @@
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 14.9
+          "global_own": 15.0
         }
       ],
       "exposure": [
@@ -74,14 +74,14 @@
           "pos": "DEF",
           "cost": 4.7,
           "league_own": 60.7,
-          "global_own": 20.2
+          "global_own": 20.3
         },
         {
           "name": "Cherki",
           "pos": "MID",
           "cost": 8.0,
           "league_own": 50.0,
-          "global_own": 38.4
+          "global_own": 38.3
         }
       ],
       "captains": [
@@ -119,7 +119,7 @@
           "pos": "DEF",
           "cost": 4.5,
           "league_own": 0.0,
-          "global_own": 1.2
+          "global_own": 1.3
         },
         {
           "name": "Gonzalo",
@@ -161,14 +161,14 @@
           "pos": "MID",
           "cost": 7.4,
           "league_own": 25.0,
-          "global_own": 12.6
+          "global_own": 12.5
         },
         {
           "name": "Kinsky",
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 14.9
+          "global_own": 15.0
         },
         {
           "name": "Schade",
@@ -184,7 +184,7 @@
           "pos": "DEF",
           "cost": 4.7,
           "league_own": 50.0,
-          "global_own": 20.2
+          "global_own": 20.3
         },
         {
           "name": "Palmer",
@@ -198,14 +198,14 @@
           "pos": "FWD",
           "cost": 6.1,
           "league_own": 50.0,
-          "global_own": 21.4
+          "global_own": 21.3
         },
         {
           "name": "Verbruggen",
           "pos": "GKP",
           "cost": 4.6,
           "league_own": 50.0,
-          "global_own": 22.5
+          "global_own": 22.4
         }
       ],
       "captains": [
