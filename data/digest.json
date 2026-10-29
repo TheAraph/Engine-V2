@@ -1,113 +1,31 @@
 {
-  "generated_at": "2026-10-29T06:36:11.872549+00:00",
+  "generated_at": "2026-10-29T13:30:09.800860+00:00",
   "next_gw": 9,
   "deadline": "2026-10-31T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 669,
-    "flagged": 199,
-    "managers": 11195543
+    "flagged": 200,
+    "managers": 11196734
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Lacroix",
-        "team": "CHE",
+        "name": "Affengruber",
+        "team": "FUL",
         "pos": "DEF",
-        "cost": 5.9,
-        "sel": 6.3,
-        "news": "Hamstring injury - 75% chance of playing",
+        "cost": 4.5,
+        "sel": 0.7,
+        "news": "Unspecified injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Wirtz",
-        "team": "LIV",
-        "pos": "MID",
-        "cost": 7.2,
-        "sel": 5.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Henderson",
-        "team": "CRY",
-        "pos": "GKP",
-        "cost": 4.9,
-        "sel": 1.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Meunier",
-        "team": "SUN",
-        "pos": "DEF",
-        "cost": 4.4,
-        "sel": 0.2,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Wieffer",
-        "team": "BHA",
-        "pos": "DEF",
-        "cost": 4.8,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Minteh",
-        "team": "BHA",
-        "pos": "MID",
-        "cost": 5.8,
-        "sel": 0.0,
-        "news": "",
-        "chance": 100
-      }
-    ],
-    "price_rises": [
-      {
-        "name": "Manzambi",
-        "team": "AVL",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 4.8,
-        "news": "",
-        "chance": 100,
-        "from": 6.0,
-        "to": 6.1
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "M.Sangar\u00e9",
-        "team": "BRE",
-        "pos": "MID",
-        "cost": 5.4,
-        "sel": 6.6,
-        "news": "",
-        "chance": null,
-        "from": 5.5,
-        "to": 5.4
-      }
-    ],
+    "recovered": [],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
-    "ownership_surges": [
-      {
-        "name": "N.Jackson",
-        "team": "AVL",
-        "pos": "FWD",
-        "cost": 6.8,
-        "sel": 13.3,
-        "news": "",
-        "chance": null,
-        "sel_from": 12.3,
-        "sel_to": 13.3
-      }
-    ]
+    "ownership_surges": []
   },
   "flagged": [
     {
@@ -115,7 +33,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 63.0,
+      "sel": 62.0,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -125,7 +43,7 @@
       "team": "ARS",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 51.1,
+      "sel": 50.8,
       "news": "Hip injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -135,7 +53,7 @@
       "team": "LIV",
       "pos": "MID",
       "cost": 6.7,
-      "sel": 14.7,
+      "sel": 14.6,
       "news": "Hamstring injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -155,7 +73,7 @@
       "team": "COV",
       "pos": "DEF",
       "cost": 4.0,
-      "sel": 9.3,
+      "sel": 9.2,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -175,7 +93,7 @@
       "team": "MCI",
       "pos": "MID",
       "cost": 8.2,
-      "sel": 7.5,
+      "sel": 7.4,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -185,7 +103,7 @@
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.9,
-      "sel": 6.3,
+      "sel": 6.2,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -418,6 +336,16 @@
       "sel": 0.8,
       "news": "Knock - 50% chance of playing",
       "chance": 50,
+      "status": "doubtful"
+    },
+    {
+      "name": "Affengruber",
+      "team": "FUL",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.7,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
       "status": "doubtful"
     },
     {
@@ -2108,7 +2036,7 @@
       "pos": "DEF",
       "cost": 7.9,
       "form": 9.0,
-      "sel": 22.9,
+      "sel": 23.0,
       "xgi90": 0.21,
       "ep_next": 9.0
     },
@@ -2138,7 +2066,7 @@
       "pos": "FWD",
       "cost": 6.2,
       "form": 8.3,
-      "sel": 9.3,
+      "sel": 9.6,
       "xgi90": 0.54,
       "ep_next": 8.3
     },
@@ -2148,7 +2076,7 @@
       "pos": "FWD",
       "cost": 6.8,
       "form": 8.0,
-      "sel": 13.3,
+      "sel": 13.9,
       "xgi90": 0.44,
       "ep_next": 8.0
     },
@@ -2168,7 +2096,7 @@
       "pos": "MID",
       "cost": 6.6,
       "form": 7.7,
-      "sel": 4.3,
+      "sel": 4.4,
       "xgi90": 0.35,
       "ep_next": 7.7
     },
@@ -2198,7 +2126,7 @@
       "pos": "MID",
       "cost": 6.4,
       "form": 7.0,
-      "sel": 19.9,
+      "sel": 20.2,
       "xgi90": 0.67,
       "ep_next": 7.0
     },
@@ -2208,7 +2136,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 6.7,
-      "sel": 1.6,
+      "sel": 1.7,
       "xgi90": 0.12,
       "ep_next": 6.7
     },
@@ -2248,7 +2176,7 @@
       "pos": "MID",
       "cost": 5.4,
       "form": 6.0,
-      "sel": 0.7,
+      "sel": 0.8,
       "xgi90": 0.27,
       "ep_next": 6.0
     },
@@ -2278,7 +2206,7 @@
       "pos": "FWD",
       "cost": 9.1,
       "form": 6.0,
-      "sel": 17.1,
+      "sel": 17.3,
       "xgi90": 0.7,
       "ep_next": 6.0
     },
@@ -2308,7 +2236,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 5.7,
-      "sel": 4.8,
+      "sel": 4.9,
       "xgi90": 0.58,
       "ep_next": 5.7
     },
@@ -3128,7 +3056,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1360897,
+    "overall_rank": 1360896,
     "total_points": 518,
     "bank": 0.2,
     "value": 101.2,
@@ -3158,7 +3086,7 @@
         "news": "Hip injury - 75% chance of playing",
         "chance": 75,
         "form": 5.3,
-        "sel": 51.1,
+        "sel": 50.8,
         "ep_next": 4.0,
         "slot": 2,
         "captain": false,
@@ -3238,7 +3166,7 @@
         "news": "",
         "chance": null,
         "form": 3.7,
-        "sel": 46.2,
+        "sel": 46.1,
         "ep_next": 3.7,
         "slot": 7,
         "captain": false,
@@ -3334,7 +3262,7 @@
         "news": "Thigh injury - Unknown return date",
         "chance": 0,
         "form": 4.7,
-        "sel": 63.0,
+        "sel": 62.0,
         "ep_next": 0.0,
         "slot": 13,
         "captain": false,
