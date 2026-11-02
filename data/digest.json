@@ -1,165 +1,20 @@
 {
-  "generated_at": "2026-11-02T06:58:07.053130+00:00",
+  "generated_at": "2026-11-02T16:25:55.596479+00:00",
   "next_gw": 10,
   "deadline": "2026-11-06T18:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 670,
     "flagged": 193,
-    "managers": 11223053
+    "managers": 11225425
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "Calafiori",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 5.9,
-        "sel": 47.9,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Szoboszlai",
-        "team": "LIV",
-        "pos": "MID",
-        "cost": 6.7,
-        "sel": 13.5,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Rice",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 7.4,
-        "sel": 12.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Tzolis",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 3.8,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Munoz",
-        "team": "LIV",
-        "pos": "MID",
-        "cost": 6.5,
-        "sel": 0.7,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Madueke",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 6.2,
-        "sel": 0.4,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Lewis-Skelly",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 5.3,
-        "sel": 0.5,
-        "news": "",
-        "chance": null,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "McNair",
-        "team": "HUL",
-        "pos": "DEF",
-        "cost": 3.9,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100,
-        "from": 4.0,
-        "to": 3.9
-      },
-      {
-        "name": "Lucky",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 3.9,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 4.0,
-        "to": 3.9
-      }
-    ],
-    "form_risers": [
-      {
-        "name": "Konsa",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 4.7,
-        "sel": 22.4,
-        "news": "",
-        "chance": 100,
-        "form_from": 6.8,
-        "form_to": 9.2
-      },
-      {
-        "name": "Gabriel",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 8.0,
-        "sel": 24.2,
-        "news": "",
-        "chance": null,
-        "form_from": 6.8,
-        "form_to": 8.2
-      },
-      {
-        "name": "Rice",
-        "team": "ARS",
-        "pos": "MID",
-        "cost": 7.4,
-        "sel": 12.0,
-        "news": "",
-        "chance": 100,
-        "form_from": 4.8,
-        "form_to": 6.8
-      },
-      {
-        "name": "Raya",
-        "team": "ARS",
-        "pos": "GKP",
-        "cost": 6.2,
-        "sel": 46.4,
-        "news": "",
-        "chance": null,
-        "form_from": 4.8,
-        "form_to": 6.0
-      },
-      {
-        "name": "Calafiori",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 5.9,
-        "sel": 47.9,
-        "news": "",
-        "chance": 100,
-        "form_from": 4.0,
-        "form_to": 5.5
-      }
-    ],
+    "price_falls": [],
+    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -168,7 +23,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 41.9,
+      "sel": 41.4,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -188,7 +43,7 @@
       "team": "ARS",
       "pos": "MID",
       "cost": 9.5,
-      "sel": 6.5,
+      "sel": 6.4,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -248,7 +103,7 @@
       "team": "CHE",
       "pos": "GKP",
       "cost": 4.9,
-      "sel": 3.3,
+      "sel": 3.2,
       "news": "Head injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -2101,7 +1956,7 @@
       "pos": "DEF",
       "cost": 4.7,
       "form": 9.2,
-      "sel": 22.4,
+      "sel": 22.5,
       "xgi90": 0.09,
       "ep_next": 9.2
     },
@@ -2111,7 +1966,7 @@
       "pos": "FWD",
       "cost": 6.4,
       "form": 8.5,
-      "sel": 16.8,
+      "sel": 17.1,
       "xgi90": 0.55,
       "ep_next": 8.5
     },
@@ -2121,7 +1976,7 @@
       "pos": "DEF",
       "cost": 8.0,
       "form": 8.2,
-      "sel": 24.2,
+      "sel": 24.3,
       "xgi90": 0.19,
       "ep_next": 8.2
     },
@@ -2131,7 +1986,7 @@
       "pos": "FWD",
       "cost": 7.0,
       "form": 8.2,
-      "sel": 25.0,
+      "sel": 25.2,
       "xgi90": 0.43,
       "ep_next": 8.2
     },
@@ -2141,7 +1996,7 @@
       "pos": "DEF",
       "cost": 5.4,
       "form": 7.8,
-      "sel": 44.5,
+      "sel": 44.6,
       "xgi90": 0.38,
       "ep_next": 7.8
     },
@@ -2151,7 +2006,7 @@
       "pos": "FWD",
       "cost": 15.8,
       "form": 7.2,
-      "sel": 78.9,
+      "sel": 79.0,
       "xgi90": 0.84,
       "ep_next": 7.2
     },
@@ -2161,7 +2016,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "form": 7.2,
-      "sel": 10.5,
+      "sel": 10.7,
       "xgi90": 0.26,
       "ep_next": 7.2
     },
@@ -2191,7 +2046,7 @@
       "pos": "MID",
       "cost": 7.4,
       "form": 6.8,
-      "sel": 12.0,
+      "sel": 12.1,
       "xgi90": 0.29,
       "ep_next": 6.8
     },
@@ -2201,7 +2056,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 6.5,
-      "sel": 2.4,
+      "sel": 2.5,
       "xgi90": 0.11,
       "ep_next": 6.5
     },
@@ -2231,7 +2086,7 @@
       "pos": "GKP",
       "cost": 6.2,
       "form": 6.0,
-      "sel": 46.4,
+      "sel": 46.5,
       "xgi90": 0.0,
       "ep_next": 6.0
     },
@@ -2241,7 +2096,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 6.0,
-      "sel": 6.7,
+      "sel": 6.8,
       "xgi90": 0.52,
       "ep_next": 6.0
     },
@@ -2251,7 +2106,7 @@
       "pos": "MID",
       "cost": 6.6,
       "form": 6.0,
-      "sel": 26.8,
+      "sel": 27.0,
       "xgi90": 0.61,
       "ep_next": 6.0
     },
@@ -2261,7 +2116,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "form": 6.0,
-      "sel": 2.2,
+      "sel": 2.3,
       "xgi90": 0.18,
       "ep_next": 6.0
     },
@@ -2361,7 +2216,7 @@
       "pos": "MID",
       "cost": 8.1,
       "form": 5.2,
-      "sel": 51.9,
+      "sel": 52.1,
       "xgi90": 0.48,
       "ep_next": 5.2
     },
@@ -2381,7 +2236,7 @@
       "pos": "FWD",
       "cost": 9.2,
       "form": 5.0,
-      "sel": 21.2,
+      "sel": 21.3,
       "xgi90": 0.64,
       "ep_next": 5.0
     },
@@ -2391,7 +2246,7 @@
       "pos": "GKP",
       "cost": 4.4,
       "form": 5.0,
-      "sel": 15.3,
+      "sel": 15.4,
       "xgi90": 0.0,
       "ep_next": 5.0
     }
@@ -3121,7 +2976,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1089833,
+    "overall_rank": 1089831,
     "total_points": 576,
     "bank": 1.7,
     "value": 101.2,
@@ -3135,7 +2990,7 @@
         "news": "",
         "chance": null,
         "form": 5.0,
-        "sel": 15.3,
+        "sel": 15.4,
         "ep_next": 5.0,
         "slot": 1,
         "captain": false,
@@ -3167,7 +3022,7 @@
         "news": "",
         "chance": null,
         "form": 7.8,
-        "sel": 44.5,
+        "sel": 44.6,
         "ep_next": 7.8,
         "slot": 3,
         "captain": false,
@@ -3183,7 +3038,7 @@
         "news": "",
         "chance": null,
         "form": 2.2,
-        "sel": 20.3,
+        "sel": 20.2,
         "ep_next": 2.2,
         "slot": 4,
         "captain": false,
@@ -3199,7 +3054,7 @@
         "news": "",
         "chance": 100,
         "form": 6.8,
-        "sel": 12.0,
+        "sel": 12.1,
         "ep_next": 6.8,
         "slot": 5,
         "captain": false,
@@ -3231,7 +3086,7 @@
         "news": "",
         "chance": null,
         "form": 5.2,
-        "sel": 51.9,
+        "sel": 52.1,
         "ep_next": 5.2,
         "slot": 7,
         "captain": false,
@@ -3247,7 +3102,7 @@
         "news": "",
         "chance": 100,
         "form": 1.5,
-        "sel": 11.0,
+        "sel": 10.9,
         "ep_next": 1.5,
         "slot": 8,
         "captain": false,
@@ -3263,7 +3118,7 @@
         "news": "",
         "chance": 100,
         "form": 1.5,
-        "sel": 14.5,
+        "sel": 14.4,
         "ep_next": 1.5,
         "slot": 9,
         "captain": false,
@@ -3279,7 +3134,7 @@
         "news": "",
         "chance": null,
         "form": 8.5,
-        "sel": 16.8,
+        "sel": 17.1,
         "ep_next": 8.5,
         "slot": 10,
         "captain": false,
@@ -3295,7 +3150,7 @@
         "news": "",
         "chance": 100,
         "form": 7.2,
-        "sel": 78.9,
+        "sel": 79.0,
         "ep_next": 7.2,
         "slot": 11,
         "captain": true,
@@ -3311,7 +3166,7 @@
         "news": "",
         "chance": null,
         "form": 6.0,
-        "sel": 46.4,
+        "sel": 46.5,
         "ep_next": 6.0,
         "slot": 12,
         "captain": false,
