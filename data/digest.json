@@ -1,74 +1,39 @@
 {
-  "generated_at": "2026-11-05T07:30:27.396402+00:00",
+  "generated_at": "2026-11-05T14:51:12.286705+00:00",
   "next_gw": 10,
   "deadline": "2026-11-06T18:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 670,
     "flagged": 192,
-    "managers": 11238949
+    "managers": 11240533
   },
   "changes": {
-    "new_injuries": [],
-    "worsened": [],
-    "recovered": [
+    "new_injuries": [
       {
-        "name": "Saliba",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 5.9,
-        "sel": 0.2,
-        "news": "",
-        "chance": 100
+        "name": "Onyeka",
+        "team": "COV",
+        "pos": "MID",
+        "cost": 4.8,
+        "sel": 0.1,
+        "news": "Groin injury - 50% chance of playing",
+        "chance": 50
       }
     ],
-    "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Gibbs-White",
-        "team": "NFO",
-        "pos": "MID",
-        "cost": 7.8,
-        "sel": 10.5,
-        "news": "",
-        "chance": 100,
-        "from": 7.9,
-        "to": 7.8
-      },
-      {
-        "name": "Maguire",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 4.6,
-        "sel": 5.5,
-        "news": "",
-        "chance": null,
-        "from": 4.7,
-        "to": 4.6
-      },
+    "worsened": [],
+    "recovered": [
       {
         "name": "Rodon",
         "team": "LEE",
         "pos": "DEF",
         "cost": 4.2,
         "sel": 0.4,
-        "news": "Hamstring injury - Expected back 21 Nov",
-        "chance": 0,
-        "from": 4.3,
-        "to": 4.2
-      },
-      {
-        "name": "Tutierov",
-        "team": "SUN",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.0,
         "news": "",
-        "chance": null,
-        "from": 5.0,
-        "to": 4.9
+        "chance": 100
       }
     ],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -78,7 +43,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.7,
-      "sel": 39.1,
+      "sel": 38.7,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -88,7 +53,7 @@
       "team": "COV",
       "pos": "DEF",
       "cost": 4.0,
-      "sel": 8.1,
+      "sel": 8.0,
       "news": "Calf injury - 50% chance of playing",
       "chance": 50,
       "status": "doubtful"
@@ -98,7 +63,7 @@
       "team": "ARS",
       "pos": "MID",
       "cost": 9.5,
-      "sel": 6.2,
+      "sel": 6.1,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -118,7 +83,7 @@
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.9,
-      "sel": 5.1,
+      "sel": 5.0,
       "news": "Hamstring injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -128,7 +93,7 @@
       "team": "AVL",
       "pos": "DEF",
       "cost": 4.3,
-      "sel": 4.0,
+      "sel": 3.9,
       "news": "Suspended until 21 Nov",
       "chance": 0,
       "status": "suspended"
@@ -148,7 +113,7 @@
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.2,
-      "sel": 3.4,
+      "sel": 3.3,
       "news": "Knee injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -434,16 +399,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Rodon",
-      "team": "LEE",
-      "pos": "DEF",
-      "cost": 4.2,
-      "sel": 0.4,
-      "news": "Hamstring injury - Expected back 21 Nov",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Woltemade",
       "team": "NEW",
       "pos": "FWD",
@@ -702,6 +657,16 @@
       "news": "Has joined RB Leipzig permanently",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Onyeka",
+      "team": "COV",
+      "pos": "MID",
+      "cost": 4.8,
+      "sel": 0.1,
+      "news": "Groin injury - 50% chance of playing",
+      "chance": 50,
+      "status": "doubtful"
     },
     {
       "name": "Woolfenden",
@@ -2011,7 +1976,7 @@
       "pos": "FWD",
       "cost": 6.4,
       "form": 8.5,
-      "sel": 18.6,
+      "sel": 18.8,
       "xgi90": 0.55,
       "ep_next": 8.5
     },
@@ -2021,7 +1986,7 @@
       "pos": "DEF",
       "cost": 8.0,
       "form": 8.2,
-      "sel": 24.6,
+      "sel": 24.7,
       "xgi90": 0.19,
       "ep_next": 8.2
     },
@@ -2031,7 +1996,7 @@
       "pos": "FWD",
       "cost": 7.0,
       "form": 8.2,
-      "sel": 26.4,
+      "sel": 26.5,
       "xgi90": 0.43,
       "ep_next": 8.2
     },
@@ -2041,7 +2006,7 @@
       "pos": "DEF",
       "cost": 5.4,
       "form": 7.8,
-      "sel": 45.2,
+      "sel": 45.3,
       "xgi90": 0.38,
       "ep_next": 7.8
     },
@@ -2061,7 +2026,7 @@
       "pos": "DEF",
       "cost": 5.0,
       "form": 7.2,
-      "sel": 11.6,
+      "sel": 11.7,
       "xgi90": 0.26,
       "ep_next": 7.2
     },
@@ -2091,7 +2056,7 @@
       "pos": "MID",
       "cost": 7.4,
       "form": 6.8,
-      "sel": 12.6,
+      "sel": 12.7,
       "xgi90": 0.29,
       "ep_next": 6.8
     },
@@ -2111,7 +2076,7 @@
       "pos": "DEF",
       "cost": 5.2,
       "form": 6.5,
-      "sel": 7.4,
+      "sel": 7.5,
       "xgi90": 0.16,
       "ep_next": 6.5
     },
@@ -2141,7 +2106,7 @@
       "pos": "MID",
       "cost": 6.1,
       "form": 6.0,
-      "sel": 7.2,
+      "sel": 7.3,
       "xgi90": 0.52,
       "ep_next": 6.0
     },
@@ -2151,7 +2116,7 @@
       "pos": "MID",
       "cost": 6.6,
       "form": 6.0,
-      "sel": 28.0,
+      "sel": 28.2,
       "xgi90": 0.61,
       "ep_next": 6.0
     },
@@ -2161,7 +2126,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 6.0,
-      "sel": 2.7,
+      "sel": 2.8,
       "xgi90": 0.18,
       "ep_next": 6.0
     },
@@ -2261,7 +2226,7 @@
       "pos": "MID",
       "cost": 8.2,
       "form": 5.2,
-      "sel": 52.7,
+      "sel": 52.8,
       "xgi90": 0.48,
       "ep_next": 5.2
     },
@@ -2291,7 +2256,7 @@
       "pos": "FWD",
       "cost": 9.2,
       "form": 5.0,
-      "sel": 22.0,
+      "sel": 22.2,
       "xgi90": 0.64,
       "ep_next": 5.0
     }
@@ -3067,7 +3032,7 @@
         "news": "",
         "chance": null,
         "form": 7.8,
-        "sel": 45.2,
+        "sel": 45.3,
         "ep_next": 7.8,
         "slot": 3,
         "captain": false,
@@ -3083,7 +3048,7 @@
         "news": "",
         "chance": null,
         "form": 2.8,
-        "sel": 19.7,
+        "sel": 19.6,
         "ep_next": 2.8,
         "slot": 4,
         "captain": false,
@@ -3099,7 +3064,7 @@
         "news": "",
         "chance": 100,
         "form": 6.8,
-        "sel": 12.6,
+        "sel": 12.7,
         "ep_next": 6.8,
         "slot": 5,
         "captain": false,
@@ -3131,7 +3096,7 @@
         "news": "",
         "chance": null,
         "form": 5.2,
-        "sel": 52.7,
+        "sel": 52.8,
         "ep_next": 5.2,
         "slot": 7,
         "captain": false,
@@ -3147,7 +3112,7 @@
         "news": "",
         "chance": 100,
         "form": 1.5,
-        "sel": 10.5,
+        "sel": 10.4,
         "ep_next": 1.5,
         "slot": 8,
         "captain": false,
@@ -3163,7 +3128,7 @@
         "news": "",
         "chance": 100,
         "form": 1.5,
-        "sel": 14.2,
+        "sel": 14.1,
         "ep_next": 1.5,
         "slot": 9,
         "captain": false,
@@ -3179,7 +3144,7 @@
         "news": "",
         "chance": null,
         "form": 8.5,
-        "sel": 18.6,
+        "sel": 18.8,
         "ep_next": 8.5,
         "slot": 10,
         "captain": false,
