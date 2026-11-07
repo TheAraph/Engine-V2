@@ -21,23 +21,23 @@
         {
           "name": "Rice",
           "pos": "MID",
-          "cost": 7.4,
+          "cost": 7.5,
           "league_own": 3.6,
-          "global_own": 13.2
+          "global_own": 13.5
         },
         {
           "name": "Gonzalo",
           "pos": "FWD",
           "cost": 5.9,
           "league_own": 3.6,
-          "global_own": 4.1
+          "global_own": 3.8
         },
         {
           "name": "Gibbs-White",
           "pos": "MID",
           "cost": 7.8,
           "league_own": 17.9,
-          "global_own": 9.8
+          "global_own": 9.4
         },
         {
           "name": "Davis",
@@ -49,16 +49,16 @@
         {
           "name": "Evanilson",
           "pos": "FWD",
-          "cost": 6.4,
+          "cost": 6.5,
           "league_own": 21.4,
-          "global_own": 20.7
+          "global_own": 22.0
         },
         {
           "name": "Schade",
           "pos": "MID",
-          "cost": 6.2,
+          "cost": 6.1,
           "league_own": 21.4,
-          "global_own": 13.7
+          "global_own": 13.3
         },
         {
           "name": "Kinsky",
@@ -74,21 +74,21 @@
           "pos": "MID",
           "cost": 9.8,
           "league_own": 67.9,
-          "global_own": 28.4
+          "global_own": 28.5
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.8,
           "league_own": 60.7,
-          "global_own": 23.0
+          "global_own": 23.4
         },
         {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.0,
           "league_own": 50.0,
-          "global_own": 27.5
+          "global_own": 28.5
         }
       ],
       "captains": [
@@ -131,9 +131,9 @@
         {
           "name": "Evanilson",
           "pos": "FWD",
-          "cost": 6.4,
+          "cost": 6.5,
           "league_own": 0.0,
-          "global_own": 20.7
+          "global_own": 22.0
         },
         {
           "name": "Davis",
@@ -147,28 +147,28 @@
           "pos": "FWD",
           "cost": 5.9,
           "league_own": 0.0,
-          "global_own": 4.1
+          "global_own": 3.8
         },
         {
           "name": "Gibbs-White",
           "pos": "MID",
           "cost": 7.8,
           "league_own": 12.5,
-          "global_own": 9.8
+          "global_own": 9.4
         },
         {
           "name": "Rice",
           "pos": "MID",
-          "cost": 7.4,
+          "cost": 7.5,
           "league_own": 12.5,
-          "global_own": 13.2
+          "global_own": 13.5
         },
         {
           "name": "Raya",
           "pos": "GKP",
           "cost": 6.2,
           "league_own": 25.0,
-          "global_own": 47.0
+          "global_own": 47.2
         },
         {
           "name": "Kinsky",
@@ -180,9 +180,9 @@
         {
           "name": "Schade",
           "pos": "MID",
-          "cost": 6.2,
+          "cost": 6.1,
           "league_own": 25.0,
-          "global_own": 13.7
+          "global_own": 13.3
         }
       ],
       "exposure": [
@@ -191,28 +191,28 @@
           "pos": "FWD",
           "cost": 7.0,
           "league_own": 62.5,
-          "global_own": 27.5
+          "global_own": 28.5
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.8,
           "league_own": 50.0,
-          "global_own": 28.4
+          "global_own": 28.5
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
-          "cost": 6.1,
+          "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 19.4
+          "global_own": 18.4
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.8,
           "league_own": 50.0,
-          "global_own": 23.0
+          "global_own": 23.4
         }
       ],
       "captains": [
