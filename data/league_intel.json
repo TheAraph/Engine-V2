@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 14,
+      "my_rank": 15,
       "rivals_sampled": 28,
       "gw": 9,
       "edges": [
@@ -23,7 +23,7 @@
           "pos": "MID",
           "cost": 7.5,
           "league_own": 3.6,
-          "global_own": 13.5
+          "global_own": 13.6
         },
         {
           "name": "Gonzalo",
@@ -51,7 +51,7 @@
           "pos": "FWD",
           "cost": 6.5,
           "league_own": 21.4,
-          "global_own": 22.0
+          "global_own": 22.2
         },
         {
           "name": "Schade",
@@ -74,21 +74,21 @@
           "pos": "MID",
           "cost": 9.8,
           "league_own": 67.9,
-          "global_own": 28.5
+          "global_own": 28.6
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.8,
           "league_own": 60.7,
-          "global_own": 23.4
+          "global_own": 23.7
         },
         {
           "name": "N.Jackson",
           "pos": "FWD",
-          "cost": 7.0,
+          "cost": 7.1,
           "league_own": 50.0,
-          "global_own": 28.6
+          "global_own": 28.8
         }
       ],
       "captains": [
@@ -133,7 +133,7 @@
           "pos": "FWD",
           "cost": 6.5,
           "league_own": 0.0,
-          "global_own": 22.0
+          "global_own": 22.2
         },
         {
           "name": "Davis",
@@ -161,7 +161,7 @@
           "pos": "MID",
           "cost": 7.5,
           "league_own": 12.5,
-          "global_own": 13.5
+          "global_own": 13.6
         },
         {
           "name": "Raya",
@@ -189,30 +189,30 @@
         {
           "name": "N.Jackson",
           "pos": "FWD",
-          "cost": 7.0,
+          "cost": 7.1,
           "league_own": 62.5,
-          "global_own": 28.6
+          "global_own": 28.8
         },
         {
           "name": "Palmer",
           "pos": "MID",
           "cost": 9.8,
           "league_own": 50.0,
-          "global_own": 28.5
+          "global_own": 28.6
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 18.4
+          "global_own": 18.2
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.8,
           "league_own": 50.0,
-          "global_own": 23.4
+          "global_own": 23.7
         }
       ],
       "captains": [
