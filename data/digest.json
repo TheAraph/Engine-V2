@@ -1,94 +1,461 @@
 {
-  "generated_at": "2026-11-08T13:44:24.336149+00:00",
+  "generated_at": "2026-11-09T07:23:29.882450+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
-    "players": 671,
-    "flagged": 184,
-    "managers": 11261490
+    "players": 672,
+    "flagged": 183,
+    "managers": 11269332
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Gudmundsson",
-        "team": "LEE",
+        "name": "Thiago",
+        "team": "BRE",
+        "pos": "FWD",
+        "cost": 7.8,
+        "sel": 8.5,
+        "news": "Suspended until 5 Dec",
+        "chance": 0
+      },
+      {
+        "name": "Xhaka",
+        "team": "SUN",
+        "pos": "MID",
+        "cost": 5.3,
+        "sel": 2.6,
+        "news": "Calf injury - 75% chance of playing",
+        "chance": 75
+      },
+      {
+        "name": "Acheampong",
+        "team": "CHE",
         "pos": "DEF",
         "cost": 4.5,
-        "sel": 0.1,
-        "news": "Hamstring injury - 75% chance of playing",
+        "sel": 0.5,
+        "news": "Unspecified injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
     "recovered": [
       {
-        "name": "Scott",
-        "team": "BOU",
-        "pos": "MID",
-        "cost": 5.9,
-        "sel": 2.1,
+        "name": "Cash",
+        "team": "AVL",
+        "pos": "DEF",
+        "cost": 4.3,
+        "sel": 3.6,
         "news": "",
         "chance": 100
       },
       {
-        "name": "Henderson",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 1.4,
+        "name": "Martinez",
+        "team": "MUN",
+        "pos": "DEF",
+        "cost": 4.8,
+        "sel": 0.9,
         "news": "",
         "chance": 100
       },
       {
-        "name": "Mukiele",
+        "name": "Dorgu",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 5.7,
+        "sel": 0.3,
+        "news": "",
+        "chance": 100
+      },
+      {
+        "name": "Alderete",
         "team": "SUN",
         "pos": "DEF",
-        "cost": 5.3,
-        "sel": 1.4,
+        "cost": 4.8,
+        "sel": 0.2,
         "news": "",
         "chance": 100
+      }
+    ],
+    "price_rises": [
+      {
+        "name": "De Cuyper",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 47.4,
+        "news": "",
+        "chance": null,
+        "from": 5.4,
+        "to": 5.5
+      },
+      {
+        "name": "Isak",
+        "team": "LIV",
+        "pos": "FWD",
+        "cost": 9.3,
+        "sel": 24.7,
+        "news": "",
+        "chance": 100,
+        "from": 9.2,
+        "to": 9.3
+      },
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.1,
+        "sel": 14.2,
+        "news": "",
+        "chance": 100,
+        "from": 5.0,
+        "to": 5.1
+      },
+      {
+        "name": "Vuskovic",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 5.3,
+        "sel": 8.6,
+        "news": "",
+        "chance": null,
+        "from": 5.2,
+        "to": 5.3
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "Jo\u00e3o Pedro",
+        "team": "CHE",
+        "pos": "FWD",
+        "cost": 7.6,
+        "sel": 32.6,
+        "news": "Thigh injury - Unknown return date",
+        "chance": 0,
+        "from": 7.7,
+        "to": 7.6
+      },
+      {
+        "name": "Gvardiol",
+        "team": "MCI",
+        "pos": "DEF",
+        "cost": 5.6,
+        "sel": 23.4,
+        "news": "Unspecified injury - 75% chance of playing",
+        "chance": 75,
+        "from": 5.7,
+        "to": 5.6
+      },
+      {
+        "name": "Donnarumma",
+        "team": "MCI",
+        "pos": "GKP",
+        "cost": 5.4,
+        "sel": 7.2,
+        "news": "",
+        "chance": null,
+        "from": 5.5,
+        "to": 5.4
+      },
+      {
+        "name": "Emersonn",
+        "team": "IPS",
+        "pos": "FWD",
+        "cost": 5.4,
+        "sel": 2.9,
+        "news": "",
+        "chance": 100,
+        "from": 5.5,
+        "to": 5.4
+      },
+      {
+        "name": "Yalcouy\u00e9",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 4.4,
+        "sel": 2.7,
+        "news": "",
+        "chance": null,
+        "from": 4.5,
+        "to": 4.4
       },
       {
         "name": "F.Kad\u0131o\u011flu",
         "team": "BHA",
         "pos": "DEF",
-        "cost": 4.4,
+        "cost": 4.3,
         "sel": 1.3,
         "news": "",
-        "chance": 100
+        "chance": 100,
+        "from": 4.4,
+        "to": 4.3
       },
       {
-        "name": "Caicedo",
-        "team": "CHE",
-        "pos": "MID",
-        "cost": 5.3,
-        "sel": 1.0,
-        "news": "",
-        "chance": 100
-      },
-      {
-        "name": "Anselmino",
-        "team": "CHE",
+        "name": "A\u00eft-Nouri",
+        "team": "MCI",
         "pos": "DEF",
-        "cost": 4.5,
+        "cost": 5.1,
+        "sel": 0.3,
+        "news": "",
+        "chance": null,
+        "from": 5.2,
+        "to": 5.1
+      },
+      {
+        "name": "Berge",
+        "team": "FUL",
+        "pos": "MID",
+        "cost": 4.8,
+        "sel": 0.2,
+        "news": "",
+        "chance": null,
+        "from": 4.9,
+        "to": 4.8
+      },
+      {
+        "name": "Dowell",
+        "team": "HUL",
+        "pos": "MID",
+        "cost": 4.3,
+        "sel": 0.2,
+        "news": "",
+        "chance": null,
+        "from": 4.4,
+        "to": 4.3
+      },
+      {
+        "name": "Zambrano",
+        "team": "HUL",
+        "pos": "MID",
+        "cost": 4.4,
+        "sel": 0.1,
+        "news": "",
+        "chance": 100,
+        "from": 4.5,
+        "to": 4.4
+      },
+      {
+        "name": "Brooks",
+        "team": "BOU",
+        "pos": "MID",
+        "cost": 4.9,
         "sel": 0.0,
         "news": "",
-        "chance": 100
+        "chance": 100,
+        "from": 5.0,
+        "to": 4.9
+      },
+      {
+        "name": "Mehmeti",
+        "team": "IPS",
+        "pos": "MID",
+        "cost": 4.7,
+        "sel": 0.0,
+        "news": "",
+        "chance": null,
+        "from": 4.8,
+        "to": 4.7
+      },
+      {
+        "name": "Tutierov",
+        "team": "SUN",
+        "pos": "MID",
+        "cost": 4.8,
+        "sel": 0.0,
+        "news": "",
+        "chance": null,
+        "from": 4.9,
+        "to": 4.8
       }
     ],
-    "price_rises": [],
-    "price_falls": [],
-    "form_risers": [],
-    "ownership_surges": []
+    "form_risers": [
+      {
+        "name": "N.Jackson",
+        "team": "AVL",
+        "pos": "FWD",
+        "cost": 7.1,
+        "sel": 30.1,
+        "news": "",
+        "chance": null,
+        "form_from": 6.6,
+        "form_to": 8.8
+      },
+      {
+        "name": "Evanilson",
+        "team": "BOU",
+        "pos": "FWD",
+        "cost": 6.5,
+        "sel": 23.1,
+        "news": "",
+        "chance": null,
+        "form_from": 6.8,
+        "form_to": 8.6
+      },
+      {
+        "name": "Vuskovic",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 5.3,
+        "sel": 8.6,
+        "news": "",
+        "chance": null,
+        "form_from": 5.2,
+        "form_to": 7.6
+      },
+      {
+        "name": "De Cuyper",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 47.4,
+        "news": "",
+        "chance": null,
+        "form_from": 6.2,
+        "form_to": 7.4
+      },
+      {
+        "name": "Verbruggen",
+        "team": "BHA",
+        "pos": "GKP",
+        "cost": 4.6,
+        "sel": 23.8,
+        "news": "",
+        "chance": null,
+        "form_from": 5.6,
+        "form_to": 6.8
+      },
+      {
+        "name": "Wirtz",
+        "team": "LIV",
+        "pos": "MID",
+        "cost": 7.2,
+        "sel": 5.3,
+        "news": "",
+        "chance": 100,
+        "form_from": 3.0,
+        "form_to": 5.6
+      },
+      {
+        "name": "Isak",
+        "team": "LIV",
+        "pos": "FWD",
+        "cost": 9.3,
+        "sel": 24.7,
+        "news": "",
+        "chance": 100,
+        "form_from": 4.0,
+        "form_to": 5.6
+      },
+      {
+        "name": "E.Le F\u00e9e",
+        "team": "SUN",
+        "pos": "MID",
+        "cost": 5.7,
+        "sel": 2.7,
+        "news": "",
+        "chance": null,
+        "form_from": 3.4,
+        "form_to": 5.6
+      },
+      {
+        "name": "McGinn",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 5.4,
+        "sel": 3.4,
+        "news": "",
+        "chance": null,
+        "form_from": 3.4,
+        "form_to": 5.4
+      },
+      {
+        "name": "Gomez",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 5.0,
+        "sel": 4.1,
+        "news": "",
+        "chance": null,
+        "form_from": 3.6,
+        "form_to": 5.4
+      },
+      {
+        "name": "Boscagli",
+        "team": "BHA",
+        "pos": "DEF",
+        "cost": 4.5,
+        "sel": 0.7,
+        "news": "",
+        "chance": null,
+        "form_from": 4.0,
+        "form_to": 5.0
+      },
+      {
+        "name": "Gro\u00df",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 6.3,
+        "sel": 47.8,
+        "news": "",
+        "chance": null,
+        "form_from": 2.6,
+        "form_to": 4.6
+      },
+      {
+        "name": "Araujo",
+        "team": "LIV",
+        "pos": "DEF",
+        "cost": 5.5,
+        "sel": 4.3,
+        "news": "",
+        "chance": null,
+        "form_from": 3.0,
+        "form_to": 4.4
+      },
+      {
+        "name": "Roefs",
+        "team": "SUN",
+        "pos": "GKP",
+        "cost": 4.9,
+        "sel": 2.0,
+        "news": "",
+        "chance": null,
+        "form_from": 2.6,
+        "form_to": 4.4
+      },
+      {
+        "name": "Alysson",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 4.9,
+        "sel": 0.1,
+        "news": "",
+        "chance": 100,
+        "form_from": 0.8,
+        "form_to": 4.0
+      }
+    ],
+    "ownership_surges": [
+      {
+        "name": "N.Jackson",
+        "team": "AVL",
+        "pos": "FWD",
+        "cost": 7.1,
+        "sel": 30.1,
+        "news": "",
+        "chance": null,
+        "sel_from": 28.9,
+        "sel_to": 30.1
+      }
+    ]
   },
   "flagged": [
     {
       "name": "Jo\u00e3o Pedro",
       "team": "CHE",
       "pos": "FWD",
-      "cost": 7.7,
-      "sel": 33.7,
+      "cost": 7.6,
+      "sel": 32.6,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -97,8 +464,8 @@
       "name": "Gvardiol",
       "team": "MCI",
       "pos": "DEF",
-      "cost": 5.7,
-      "sel": 24.6,
+      "cost": 5.6,
+      "sel": 23.4,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -108,30 +475,30 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 15.1,
+      "sel": 14.6,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
+    },
+    {
+      "name": "Thiago",
+      "team": "BRE",
+      "pos": "FWD",
+      "cost": 7.8,
+      "sel": 8.5,
+      "news": "Suspended until 5 Dec",
+      "chance": 0,
+      "status": "suspended"
     },
     {
       "name": "Thomas",
       "team": "COV",
       "pos": "DEF",
       "cost": 4.0,
-      "sel": 7.5,
+      "sel": 7.4,
       "news": "Calf injury - 50% chance of playing",
       "chance": 50,
       "status": "doubtful"
-    },
-    {
-      "name": "Saka",
-      "team": "ARS",
-      "pos": "MID",
-      "cost": 9.4,
-      "sel": 5.7,
-      "news": "Thigh injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Semenyo",
@@ -144,44 +511,34 @@
       "status": "injured"
     },
     {
-      "name": "Lacroix",
-      "team": "CHE",
-      "pos": "DEF",
-      "cost": 5.8,
-      "sel": 4.7,
-      "news": "Hamstring injury - Unknown return date",
+      "name": "Saka",
+      "team": "ARS",
+      "pos": "MID",
+      "cost": 9.4,
+      "sel": 5.6,
+      "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
     {
-      "name": "Cash",
-      "team": "AVL",
+      "name": "Lacroix",
+      "team": "CHE",
       "pos": "DEF",
-      "cost": 4.3,
-      "sel": 3.6,
-      "news": "Suspended until 21 Nov",
+      "cost": 5.8,
+      "sel": 4.6,
+      "news": "Hamstring injury - Unknown return date",
       "chance": 0,
-      "status": "suspended"
+      "status": "injured"
     },
     {
       "name": "King",
       "team": "FUL",
       "pos": "MID",
       "cost": 5.5,
-      "sel": 3.4,
+      "sel": 3.3,
       "news": "Groin injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
-    },
-    {
-      "name": "James",
-      "team": "CHE",
-      "pos": "DEF",
-      "cost": 5.2,
-      "sel": 3.3,
-      "news": "Knee injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
     },
     {
       "name": "Shaw",
@@ -194,12 +551,32 @@
       "status": "injured"
     },
     {
+      "name": "James",
+      "team": "CHE",
+      "pos": "DEF",
+      "cost": 5.2,
+      "sel": 3.2,
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Martinez",
       "team": "CHE",
       "pos": "GKP",
       "cost": 4.9,
       "sel": 3.1,
       "news": "Head injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
+      "name": "Xhaka",
+      "team": "SUN",
+      "pos": "MID",
+      "cost": 5.3,
+      "sel": 2.6,
+      "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -264,26 +641,6 @@
       "status": "injured"
     },
     {
-      "name": "Martinez",
-      "team": "MUN",
-      "pos": "DEF",
-      "cost": 4.8,
-      "sel": 1.0,
-      "news": "Suspended until 22 Nov",
-      "chance": 0,
-      "status": "suspended"
-    },
-    {
-      "name": "Rashford",
-      "team": "MUN",
-      "pos": "MID",
-      "cost": 6.8,
-      "sel": 1.0,
-      "news": "Hip injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "\u0160e\u0161ko",
       "team": "MUN",
       "pos": "FWD",
@@ -294,14 +651,14 @@
       "status": "injured"
     },
     {
-      "name": "Gravenberch",
-      "team": "LIV",
+      "name": "Rashford",
+      "team": "MUN",
       "pos": "MID",
-      "cost": 5.8,
+      "cost": 6.8,
       "sel": 0.9,
-      "news": "Foot injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "news": "Hip injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Ballard",
@@ -322,6 +679,16 @@
       "news": "not included in squad.",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Gravenberch",
+      "team": "LIV",
+      "pos": "MID",
+      "cost": 5.8,
+      "sel": 0.8,
+      "news": "Foot injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Scarlett",
@@ -372,6 +739,16 @@
       "news": "Has joined Como on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Acheampong",
+      "team": "CHE",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.5,
+      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Sarr",
@@ -464,16 +841,6 @@
       "status": "unavailable"
     },
     {
-      "name": "Dorgu",
-      "team": "MUN",
-      "pos": "MID",
-      "cost": 5.7,
-      "sel": 0.3,
-      "news": "Hamstring injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
       "name": "S\u00e1vio",
       "team": "TOT",
       "pos": "MID",
@@ -532,16 +899,6 @@
       "news": "Has joined Internazionale permanently",
       "chance": 0,
       "status": "unavailable"
-    },
-    {
-      "name": "Alderete",
-      "team": "SUN",
-      "pos": "DEF",
-      "cost": 4.8,
-      "sel": 0.2,
-      "news": "Suspended until 21 Nov",
-      "chance": 0,
-      "status": "suspended"
     },
     {
       "name": "Martinelli",
@@ -1931,9 +2288,29 @@
       "pos": "DEF",
       "cost": 4.8,
       "form": 9.0,
-      "sel": 23.7,
+      "sel": 24.2,
       "xgi90": 0.08,
       "ep_next": 9.0
+    },
+    {
+      "name": "N.Jackson",
+      "team": "AVL",
+      "pos": "FWD",
+      "cost": 7.1,
+      "form": 8.8,
+      "sel": 30.1,
+      "xgi90": 0.54,
+      "ep_next": 8.8
+    },
+    {
+      "name": "Evanilson",
+      "team": "BOU",
+      "pos": "FWD",
+      "cost": 6.5,
+      "form": 8.6,
+      "sel": 23.1,
+      "xgi90": 0.59,
+      "ep_next": 8.6
     },
     {
       "name": "Gabriel",
@@ -1941,9 +2318,29 @@
       "pos": "DEF",
       "cost": 8.1,
       "form": 8.2,
-      "sel": 25.6,
+      "sel": 25.9,
       "xgi90": 0.17,
       "ep_next": 8.2
+    },
+    {
+      "name": "Vuskovic",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 5.3,
+      "form": 7.6,
+      "sel": 8.6,
+      "xgi90": 0.15,
+      "ep_next": 7.6
+    },
+    {
+      "name": "De Cuyper",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 5.5,
+      "form": 7.4,
+      "sel": 47.4,
+      "xgi90": 0.43,
+      "ep_next": 7.4
     },
     {
       "name": "Barry",
@@ -1951,48 +2348,38 @@
       "pos": "FWD",
       "cost": 5.7,
       "form": 7.0,
-      "sel": 9.8,
+      "sel": 10.3,
       "xgi90": 0.82,
       "ep_next": 7.0
     },
     {
-      "name": "Evanilson",
-      "team": "BOU",
-      "pos": "FWD",
-      "cost": 6.5,
+      "name": "Verbruggen",
+      "team": "BHA",
+      "pos": "GKP",
+      "cost": 4.6,
       "form": 6.8,
-      "sel": 22.2,
-      "xgi90": 0.55,
+      "sel": 23.8,
+      "xgi90": 0.02,
       "ep_next": 6.8
-    },
-    {
-      "name": "N.Jackson",
-      "team": "AVL",
-      "pos": "FWD",
-      "cost": 7.1,
-      "form": 6.6,
-      "sel": 28.9,
-      "xgi90": 0.43,
-      "ep_next": 6.6
     },
     {
       "name": "Van Hecke",
       "team": "TOT",
       "pos": "DEF",
-      "cost": 5.0,
+      "cost": 5.1,
       "form": 6.6,
-      "sel": 13.6,
+      "sel": 14.2,
       "xgi90": 0.24,
       "ep_next": 6.6
     },
     {
-      "name": "De Cuyper",
+      "name": "Ayari",
       "team": "BHA",
-      "pos": "DEF",
-      "cost": 5.4,
+      "pos": "MID",
+      "cost": 5.5,
       "form": 6.2,
-      "sel": 46.9,
-      "xgi90": 0.38,
+      "sel": 2.2,
+      "xgi90": 0.31,
       "ep_next": 6.2
     },
     {
@@ -2001,7 +2388,7 @@
       "pos": "FWD",
       "cost": 15.8,
       "form": 6.2,
-      "sel": 79.1,
+      "sel": 79.0,
       "xgi90": 0.8,
       "ep_next": 6.2
     },
@@ -2011,7 +2398,7 @@
       "pos": "GKP",
       "cost": 6.2,
       "form": 6.0,
-      "sel": 47.3,
+      "sel": 47.4,
       "xgi90": 0.0,
       "ep_next": 6.0
     },
@@ -2026,12 +2413,22 @@
       "ep_next": 6.0
     },
     {
+      "name": "Hill",
+      "team": "BOU",
+      "pos": "DEF",
+      "cost": 5.6,
+      "form": 6.0,
+      "sel": 2.9,
+      "xgi90": 0.13,
+      "ep_next": 6.0
+    },
+    {
       "name": "Dewsbury-Hall",
       "team": "EVE",
       "pos": "MID",
       "cost": 6.6,
       "form": 6.0,
-      "sel": 6.9,
+      "sel": 7.1,
       "xgi90": 0.32,
       "ep_next": 6.0
     },
@@ -2041,7 +2438,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 5.8,
-      "sel": 6.2,
+      "sel": 6.3,
       "xgi90": 0.08,
       "ep_next": 5.8
     },
@@ -2051,58 +2448,98 @@
       "pos": "DEF",
       "cost": 5.9,
       "form": 5.6,
-      "sel": 48.6,
+      "sel": 48.7,
       "xgi90": 0.26,
       "ep_next": 5.6
     },
     {
-      "name": "Verbruggen",
-      "team": "BHA",
-      "pos": "GKP",
-      "cost": 4.6,
-      "form": 5.6,
-      "sel": 23.7,
-      "xgi90": 0.02,
-      "ep_next": 5.6
-    },
-    {
-      "name": "Ayari",
-      "team": "BHA",
+      "name": "Wirtz",
+      "team": "LIV",
       "pos": "MID",
-      "cost": 5.5,
+      "cost": 7.2,
       "form": 5.6,
-      "sel": 2.2,
-      "xgi90": 0.31,
+      "sel": 5.3,
+      "xgi90": 0.35,
       "ep_next": 5.6
     },
     {
-      "name": "Hill",
+      "name": "Isak",
+      "team": "LIV",
+      "pos": "FWD",
+      "cost": 9.3,
+      "form": 5.6,
+      "sel": 24.7,
+      "xgi90": 0.62,
+      "ep_next": 5.6
+    },
+    {
+      "name": "E.Le F\u00e9e",
+      "team": "SUN",
+      "pos": "MID",
+      "cost": 5.7,
+      "form": 5.6,
+      "sel": 2.7,
+      "xgi90": 0.59,
+      "ep_next": 5.6
+    },
+    {
+      "name": "McGinn",
+      "team": "AVL",
+      "pos": "MID",
+      "cost": 5.4,
+      "form": 5.4,
+      "sel": 3.4,
+      "xgi90": 0.46,
+      "ep_next": 5.4
+    },
+    {
+      "name": "Tavernier",
+      "team": "BOU",
+      "pos": "MID",
+      "cost": 6.7,
+      "form": 5.4,
+      "sel": 31.0,
+      "xgi90": 0.61,
+      "ep_next": 5.4
+    },
+    {
+      "name": "Silva",
       "team": "BOU",
       "pos": "DEF",
-      "cost": 5.6,
-      "form": 5.2,
-      "sel": 2.8,
-      "xgi90": 0.11,
-      "ep_next": 5.2
+      "cost": 5.1,
+      "form": 5.4,
+      "sel": 3.6,
+      "xgi90": 0.17,
+      "ep_next": 5.4
     },
     {
-      "name": "Vuskovic",
+      "name": "Gomez",
       "team": "BHA",
-      "pos": "DEF",
-      "cost": 5.2,
-      "form": 5.2,
-      "sel": 8.0,
-      "xgi90": 0.16,
-      "ep_next": 5.2
+      "pos": "MID",
+      "cost": 5.0,
+      "form": 5.4,
+      "sel": 4.1,
+      "xgi90": 0.26,
+      "ep_next": 5.4
     },
     {
       "name": "Neto",
       "team": "CHE",
       "pos": "MID",
       "cost": 6.6,
+      "form": 5.4,
+      "sel": 5.0,
+      "xgi90": 0.34,
+      "ep_next": 5.4
+    },
+    {
+      "name": "Manzambi",
+      "team": "AVL",
+      "pos": "MID",
+      "cost": 6.2,
       "form": 5.2,
-      "sel": 5.1,
-      "xgi90": 0.37,
+      "sel": 8.5,
+      "xgi90": 0.5,
       "ep_next": 5.2
     },
     {
@@ -2111,7 +2548,7 @@
       "pos": "MID",
       "cost": 4.9,
       "form": 5.2,
-      "sel": 1.1,
+      "sel": 1.2,
       "xgi90": 0.48,
       "ep_next": 5.2
     },
@@ -2131,99 +2568,19 @@
       "pos": "GKP",
       "cost": 5.0,
       "form": 5.2,
-      "sel": 6.3,
+      "sel": 6.4,
       "xgi90": 0.0,
       "ep_next": 5.2
     },
     {
-      "name": "McBurnie",
-      "team": "HUL",
-      "pos": "FWD",
-      "cost": 5.5,
-      "form": 5.0,
-      "sel": 1.8,
-      "xgi90": 0.26,
-      "ep_next": 5.0
-    },
-    {
-      "name": "Justin",
-      "team": "LEE",
+      "name": "Boscagli",
+      "team": "BHA",
       "pos": "DEF",
       "cost": 4.5,
       "form": 5.0,
-      "sel": 2.4,
-      "xgi90": 0.17,
+      "sel": 0.7,
+      "xgi90": 0.14,
       "ep_next": 5.0
-    },
-    {
-      "name": "Manzambi",
-      "team": "AVL",
-      "pos": "MID",
-      "cost": 6.2,
-      "form": 4.8,
-      "sel": 8.3,
-      "xgi90": 0.52,
-      "ep_next": 4.8
-    },
-    {
-      "name": "Tavernier",
-      "team": "BOU",
-      "pos": "MID",
-      "cost": 6.7,
-      "form": 4.8,
-      "sel": 30.8,
-      "xgi90": 0.61,
-      "ep_next": 4.8
-    },
-    {
-      "name": "Silva",
-      "team": "BOU",
-      "pos": "DEF",
-      "cost": 5.1,
-      "form": 4.8,
-      "sel": 3.6,
-      "xgi90": 0.18,
-      "ep_next": 4.8
-    },
-    {
-      "name": "Castagne",
-      "team": "FUL",
-      "pos": "DEF",
-      "cost": 4.5,
-      "form": 4.8,
-      "sel": 1.2,
-      "xgi90": 0.22,
-      "ep_next": 4.8
-    },
-    {
-      "name": "Doku",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 7.5,
-      "form": 4.8,
-      "sel": 4.6,
-      "xgi90": 0.59,
-      "ep_next": 4.8
-    },
-    {
-      "name": "Henderson",
-      "team": "CHE",
-      "pos": "MID",
-      "cost": 4.9,
-      "form": 4.6,
-      "sel": 1.4,
-      "xgi90": 0.25,
-      "ep_next": 4.6
-    },
-    {
-      "name": "Thiago",
-      "team": "BRE",
-      "pos": "FWD",
-      "cost": 7.8,
-      "form": 4.4,
-      "sel": 9.0,
-      "xgi90": 0.6,
-      "ep_next": 4.4
     }
   ],
   "fixtures": {
@@ -2951,8 +3308,8 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1490628,
-    "total_points": 597,
+    "overall_rank": 1523033,
+    "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
     "picks": [
@@ -2965,7 +3322,7 @@
         "news": "",
         "chance": null,
         "form": 6.0,
-        "sel": 47.3,
+        "sel": 47.4,
         "ep_next": 6.0,
         "slot": 1,
         "captain": false,
@@ -2981,7 +3338,7 @@
         "news": "",
         "chance": 100,
         "form": 5.6,
-        "sel": 48.6,
+        "sel": 48.7,
         "ep_next": 5.6,
         "slot": 2,
         "captain": false,
@@ -2992,13 +3349,13 @@
         "name": "De Cuyper",
         "team": "BHA",
         "pos": "DEF",
-        "cost": 5.4,
+        "cost": 5.5,
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 6.2,
-        "sel": 46.9,
-        "ep_next": 6.2,
+        "form": 7.4,
+        "sel": 47.4,
+        "ep_next": 7.4,
         "slot": 3,
         "captain": false,
         "vice": false,
@@ -3013,7 +3370,7 @@
         "news": "",
         "chance": null,
         "form": 3.0,
-        "sel": 18.6,
+        "sel": 18.4,
         "ep_next": 3.0,
         "slot": 4,
         "captain": false,
@@ -3044,9 +3401,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 2.6,
-        "sel": 47.4,
-        "ep_next": 2.6,
+        "form": 4.6,
+        "sel": 47.8,
+        "ep_next": 4.6,
         "slot": 6,
         "captain": false,
         "vice": false,
@@ -3060,9 +3417,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 4.2,
+        "form": 4.6,
         "sel": 53.9,
-        "ep_next": 4.2,
+        "ep_next": 4.6,
         "slot": 7,
         "captain": false,
         "vice": false,
@@ -3076,9 +3433,9 @@
         "status": "a",
         "news": "",
         "chance": 100,
-        "form": 3.4,
-        "sel": 28.6,
-        "ep_next": 3.4,
+        "form": 3.8,
+        "sel": 28.5,
+        "ep_next": 3.8,
         "slot": 8,
         "captain": false,
         "vice": false,
@@ -3092,9 +3449,9 @@
         "status": "a",
         "news": "",
         "chance": 100,
-        "form": 5.6,
+        "form": 6.2,
         "sel": 2.2,
-        "ep_next": 5.6,
+        "ep_next": 6.2,
         "slot": 9,
         "captain": false,
         "vice": false,
@@ -3108,9 +3465,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 6.8,
-        "sel": 22.2,
-        "ep_next": 6.8,
+        "form": 8.6,
+        "sel": 23.1,
+        "ep_next": 8.6,
         "slot": 10,
         "captain": false,
         "vice": true,
@@ -3125,7 +3482,7 @@
         "news": "",
         "chance": 100,
         "form": 6.2,
-        "sel": 79.1,
+        "sel": 79.0,
         "ep_next": 6.2,
         "slot": 11,
         "captain": true,
@@ -3157,7 +3514,7 @@
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 3.8,
+        "sel": 3.7,
         "ep_next": 2.0,
         "slot": 13,
         "captain": false,
@@ -3188,9 +3545,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 0.8,
+        "form": 0.6,
         "sel": 6.7,
-        "ep_next": 0.8,
+        "ep_next": 0.6,
         "slot": 15,
         "captain": false,
         "vice": false,
