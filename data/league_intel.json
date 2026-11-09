@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "gw": 9,
+  "gw": 10,
   "entry": "6050572",
   "manager": "Adam Ryan",
   "leagues": [
@@ -9,8 +9,15 @@
       "id": 37785,
       "my_rank": 16,
       "rivals_sampled": 28,
-      "gw": 9,
+      "gw": 10,
       "edges": [
+        {
+          "name": "Ayari",
+          "pos": "MID",
+          "cost": 5.5,
+          "league_own": 0.0,
+          "global_own": 2.3
+        },
         {
           "name": "Bassey",
           "pos": "DEF",
@@ -23,7 +30,7 @@
           "pos": "MID",
           "cost": 7.5,
           "league_own": 3.6,
-          "global_own": 13.6
+          "global_own": 13.7
         },
         {
           "name": "Gonzalo",
@@ -33,32 +40,11 @@
           "global_own": 3.7
         },
         {
-          "name": "Gibbs-White",
-          "pos": "MID",
-          "cost": 7.8,
-          "league_own": 17.9,
-          "global_own": 9.3
-        },
-        {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 17.9,
-          "global_own": 6.7
-        },
-        {
-          "name": "Evanilson",
-          "pos": "FWD",
-          "cost": 6.5,
-          "league_own": 21.4,
-          "global_own": 23.1
-        },
-        {
-          "name": "Schade",
-          "pos": "MID",
-          "cost": 6.1,
-          "league_own": 21.4,
-          "global_own": 13.0
+          "global_own": 6.6
         },
         {
           "name": "Kinsky",
@@ -66,50 +52,64 @@
           "cost": 4.4,
           "league_own": 25.0,
           "global_own": 15.6
+        },
+        {
+          "name": "Hall",
+          "pos": "DEF",
+          "cost": 5.2,
+          "league_own": 28.6,
+          "global_own": 18.4
+        },
+        {
+          "name": "Evanilson",
+          "pos": "FWD",
+          "cost": 6.5,
+          "league_own": 28.6,
+          "global_own": 23.3
         }
       ],
       "exposure": [
         {
-          "name": "Palmer",
-          "pos": "MID",
-          "cost": 9.8,
-          "league_own": 67.9,
-          "global_own": 28.5
-        },
-        {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.8,
-          "league_own": 60.7,
-          "global_own": 24.2
+          "league_own": 64.3,
+          "global_own": 24.3
         },
         {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.1,
-          "league_own": 50.0,
-          "global_own": 30.1
+          "league_own": 60.7,
+          "global_own": 30.4
+        },
+        {
+          "name": "Tavernier",
+          "pos": "MID",
+          "cost": 6.7,
+          "league_own": 57.1,
+          "global_own": 31.1
         }
       ],
       "captains": [
         {
           "name": "Haaland",
-          "share": 78.6
+          "share": 71.4
         },
         {
-          "name": "Jo\u00e3o Pedro",
-          "share": 10.7
+          "name": "Calafiori",
+          "share": 7.1
+        },
+        {
+          "name": "Isak",
+          "share": 7.1
         },
         {
           "name": "Palmer",
           "share": 3.6
         },
         {
-          "name": "Isak",
-          "share": 3.6
-        },
-        {
-          "name": "Saka",
+          "name": "Rogers",
           "share": 3.6
         }
       ]
@@ -119,8 +119,15 @@
       "id": 978874,
       "my_rank": 6,
       "rivals_sampled": 8,
-      "gw": 9,
+      "gw": 10,
       "edges": [
+        {
+          "name": "Ayari",
+          "pos": "MID",
+          "cost": 5.5,
+          "league_own": 0.0,
+          "global_own": 2.3
+        },
         {
           "name": "Bassey",
           "pos": "DEF",
@@ -133,14 +140,7 @@
           "pos": "FWD",
           "cost": 6.5,
           "league_own": 0.0,
-          "global_own": 23.1
-        },
-        {
-          "name": "Davis",
-          "pos": "DEF",
-          "cost": 4.0,
-          "league_own": 0.0,
-          "global_own": 6.7
+          "global_own": 23.3
         },
         {
           "name": "Gonzalo",
@@ -150,25 +150,25 @@
           "global_own": 3.7
         },
         {
-          "name": "Gibbs-White",
-          "pos": "MID",
-          "cost": 7.8,
+          "name": "Hall",
+          "pos": "DEF",
+          "cost": 5.2,
           "league_own": 12.5,
-          "global_own": 9.3
+          "global_own": 18.4
+        },
+        {
+          "name": "Davis",
+          "pos": "DEF",
+          "cost": 4.0,
+          "league_own": 12.5,
+          "global_own": 6.6
         },
         {
           "name": "Rice",
           "pos": "MID",
           "cost": 7.5,
-          "league_own": 12.5,
-          "global_own": 13.6
-        },
-        {
-          "name": "Raya",
-          "pos": "GKP",
-          "cost": 6.2,
           "league_own": 25.0,
-          "global_own": 47.4
+          "global_own": 13.7
         },
         {
           "name": "Kinsky",
@@ -176,43 +176,36 @@
           "cost": 4.4,
           "league_own": 25.0,
           "global_own": 15.6
-        },
-        {
-          "name": "Schade",
-          "pos": "MID",
-          "cost": 6.1,
-          "league_own": 25.0,
-          "global_own": 13.0
         }
       ],
       "exposure": [
+        {
+          "name": "Konsa",
+          "pos": "DEF",
+          "cost": 4.8,
+          "league_own": 62.5,
+          "global_own": 24.3
+        },
         {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.1,
           "league_own": 62.5,
-          "global_own": 30.1
-        },
-        {
-          "name": "Palmer",
-          "pos": "MID",
-          "cost": 9.8,
-          "league_own": 50.0,
-          "global_own": 28.5
+          "global_own": 30.4
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 17.9
+          "global_own": 17.8
         },
         {
-          "name": "Konsa",
-          "pos": "DEF",
-          "cost": 4.8,
+          "name": "Verbruggen",
+          "pos": "GKP",
+          "cost": 4.6,
           "league_own": 50.0,
-          "global_own": 24.2
+          "global_own": 23.9
         }
       ],
       "captains": [
@@ -221,7 +214,7 @@
           "share": 87.5
         },
         {
-          "name": "B.Fernandes",
+          "name": "Cherki",
           "share": 12.5
         }
       ]
