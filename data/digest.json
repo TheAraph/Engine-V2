@@ -1,96 +1,42 @@
 {
-  "generated_at": "2026-11-10T07:52:15.790753+00:00",
+  "generated_at": "2026-11-10T15:07:38.628694+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 183,
-    "managers": 11276195
+    "flagged": 184,
+    "managers": 11277942
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Virgil",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 6.4,
-        "sel": 15.0,
-        "news": "Unspecified injury - 75% chance of playing",
+        "name": "Brobbey",
+        "team": "SUN",
+        "pos": "FWD",
+        "cost": 5.7,
+        "sel": 4.7,
+        "news": "Muscular injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
-    "recovered": [
-      {
-        "name": "King",
-        "team": "FUL",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 3.3,
-        "news": "",
-        "chance": 100
-      }
-    ],
+    "recovered": [],
     "price_rises": [],
-    "price_falls": [
+    "price_falls": [],
+    "form_risers": [
       {
-        "name": "Anderson",
-        "team": "MCI",
-        "pos": "MID",
-        "cost": 6.2,
-        "sel": 3.6,
-        "news": "",
-        "chance": 100,
-        "from": 6.3,
-        "to": 6.2
-      },
-      {
-        "name": "Wilson",
-        "team": "LEE",
-        "pos": "MID",
-        "cost": 6.1,
-        "sel": 1.1,
-        "news": "",
-        "chance": 100,
-        "from": 6.2,
-        "to": 6.1
-      },
-      {
-        "name": "Wharton",
-        "team": "CRY",
-        "pos": "MID",
-        "cost": 5.3,
-        "sel": 0.6,
-        "news": "",
-        "chance": 100,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Madjo",
-        "team": "AVL",
+        "name": "McBurnie",
+        "team": "HUL",
         "pos": "FWD",
-        "cost": 5.3,
-        "sel": 0.2,
-        "news": "",
-        "chance": 100,
-        "from": 5.4,
-        "to": 5.3
-      },
-      {
-        "name": "Doucour\u00e9",
-        "team": "CRY",
-        "pos": "MID",
-        "cost": 4.7,
-        "sel": 0.0,
+        "cost": 5.5,
+        "sel": 1.7,
         "news": "",
         "chance": null,
-        "from": 4.8,
-        "to": 4.7
+        "form_from": 5.0,
+        "form_to": 6.0
       }
     ],
-    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -99,7 +45,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 32.2,
+      "sel": 32.1,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -109,7 +55,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 23.1,
+      "sel": 23.0,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -175,11 +121,21 @@
       "status": "injured"
     },
     {
+      "name": "Brobbey",
+      "team": "SUN",
+      "pos": "FWD",
+      "cost": 5.7,
+      "sel": 4.7,
+      "news": "Muscular injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Lacroix",
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.8,
-      "sel": 4.6,
+      "sel": 4.5,
       "news": "Hamstring injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -1952,7 +1908,7 @@
       "pos": "FWD",
       "cost": 6.5,
       "form": 9.0,
-      "sel": 23.4,
+      "sel": 23.5,
       "xgi90": 0.59,
       "ep_next": 9.0
     },
@@ -1962,7 +1918,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 30.6,
+      "sel": 30.7,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -1982,9 +1938,19 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 7.5,
-      "sel": 14.4,
+      "sel": 14.5,
       "xgi90": 0.24,
       "ep_next": 7.5
+    },
+    {
+      "name": "Barry",
+      "team": "EVE",
+      "pos": "FWD",
+      "cost": 5.7,
+      "form": 7.2,
+      "sel": 10.6,
+      "xgi90": 0.82,
+      "ep_next": 7.2
     },
     {
       "name": "Hill",
@@ -2004,16 +1970,6 @@
       "form": 7.0,
       "sel": 2.3,
       "xgi90": 0.31,
-      "ep_next": 7.0
-    },
-    {
-      "name": "Barry",
-      "team": "EVE",
-      "pos": "FWD",
-      "cost": 5.7,
-      "form": 7.0,
-      "sel": 10.5,
-      "xgi90": 0.82,
       "ep_next": 7.0
     },
     {
@@ -2097,16 +2053,6 @@
       "ep_next": 6.0
     },
     {
-      "name": "Dewsbury-Hall",
-      "team": "EVE",
-      "pos": "MID",
-      "cost": 6.6,
-      "form": 6.0,
-      "sel": 7.1,
-      "xgi90": 0.32,
-      "ep_next": 6.0
-    },
-    {
       "name": "Castagne",
       "team": "FUL",
       "pos": "DEF",
@@ -2114,6 +2060,16 @@
       "form": 6.0,
       "sel": 1.2,
       "xgi90": 0.22,
+      "ep_next": 6.0
+    },
+    {
+      "name": "McBurnie",
+      "team": "HUL",
+      "pos": "FWD",
+      "cost": 5.5,
+      "form": 6.0,
+      "sel": 1.7,
+      "xgi90": 0.26,
       "ep_next": 6.0
     },
     {
@@ -2142,7 +2098,7 @@
       "pos": "MID",
       "cost": 7.2,
       "form": 5.6,
-      "sel": 5.4,
+      "sel": 5.5,
       "xgi90": 0.35,
       "ep_next": 5.6
     },
@@ -2952,7 +2908,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549578,
+    "overall_rank": 1549577,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3046,7 +3002,7 @@
         "news": "",
         "chance": null,
         "form": 4.2,
-        "sel": 47.9,
+        "sel": 48.0,
         "ep_next": 4.2,
         "slot": 6,
         "captain": false,
@@ -3110,7 +3066,7 @@
         "news": "",
         "chance": null,
         "form": 9.0,
-        "sel": 23.4,
+        "sel": 23.5,
         "ep_next": 9.0,
         "slot": 10,
         "captain": false,
