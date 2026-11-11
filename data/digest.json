@@ -1,97 +1,30 @@
 {
-  "generated_at": "2026-11-11T07:20:01.016362+00:00",
+  "generated_at": "2026-11-11T14:38:20.819170+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 186,
-    "managers": 11281415
+    "flagged": 187,
+    "managers": 11282677
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Belloumi",
-        "team": "HUL",
-        "pos": "MID",
-        "cost": 5.3,
-        "sel": 9.7,
-        "news": "Hamstring injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Maguire",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 4.6,
-        "sel": 5.1,
-        "news": "Back injury - 75% chance of playing",
+        "name": "Strand Larsen",
+        "team": "CRY",
+        "pos": "FWD",
+        "cost": 5.9,
+        "sel": 0.4,
+        "news": "Ankle injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [
-      {
-        "name": "Verbruggen",
-        "team": "BHA",
-        "pos": "GKP",
-        "cost": 4.7,
-        "sel": 23.9,
-        "news": "",
-        "chance": null,
-        "from": 4.6,
-        "to": 4.7
-      },
-      {
-        "name": "Dewsbury-Hall",
-        "team": "EVE",
-        "pos": "MID",
-        "cost": 6.7,
-        "sel": 7.2,
-        "news": "",
-        "chance": null,
-        "from": 6.6,
-        "to": 6.7
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Amass",
-        "team": "MUN",
-        "pos": "DEF",
-        "cost": 3.9,
-        "sel": 0.2,
-        "news": "",
-        "chance": null,
-        "from": 4.0,
-        "to": 3.9
-      }
-    ],
-    "form_risers": [
-      {
-        "name": "Isak",
-        "team": "LIV",
-        "pos": "FWD",
-        "cost": 9.3,
-        "sel": 25.0,
-        "news": "",
-        "chance": 100,
-        "form_from": 5.6,
-        "form_to": 7.0
-      },
-      {
-        "name": "Araujo",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 5.5,
-        "sel": 4.4,
-        "news": "",
-        "chance": null,
-        "form_from": 4.4,
-        "form_to": 5.5
-      }
-    ],
+    "price_rises": [],
+    "price_falls": [],
+    "form_risers": [],
     "ownership_surges": []
   },
   "flagged": [
@@ -100,7 +33,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 32.0,
+      "sel": 31.9,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -110,7 +43,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.9,
+      "sel": 22.8,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -140,7 +73,7 @@
       "team": "HUL",
       "pos": "MID",
       "cost": 5.3,
-      "sel": 9.7,
+      "sel": 9.6,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -464,6 +397,16 @@
       "news": "Calf injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Strand Larsen",
+      "team": "CRY",
+      "pos": "FWD",
+      "cost": 5.9,
+      "sel": 0.4,
+      "news": "Ankle injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Beto",
@@ -1993,7 +1936,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 30.8,
+      "sel": 30.9,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -2003,7 +1946,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 7.5,
-      "sel": 9.1,
+      "sel": 9.2,
       "xgi90": 0.15,
       "ep_next": 7.5
     },
@@ -2013,7 +1956,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 7.5,
-      "sel": 14.5,
+      "sel": 14.6,
       "xgi90": 0.24,
       "ep_next": 7.5
     },
@@ -2073,7 +2016,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 6.8,
-      "sel": 3.6,
+      "sel": 3.7,
       "xgi90": 0.17,
       "ep_next": 6.8
     },
@@ -2983,7 +2926,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549577,
+    "overall_rank": 1549576,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
