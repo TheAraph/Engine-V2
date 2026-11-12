@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-11-12T07:50:35.280017+00:00",
+  "generated_at": "2026-11-12T15:29:51.670521+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 187,
-    "managers": 11285329
+    "flagged": 188,
+    "managers": 11286384
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Manzambi",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 6.2,
+        "sel": 8.6,
+        "news": "Calf injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Steur",
-        "team": "NEW",
-        "pos": "MID",
-        "cost": 4.7,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 4.8,
-        "to": 4.7
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -45,7 +43,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.8,
+      "sel": 22.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -65,7 +63,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 14.2,
+      "sel": 14.1,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -81,11 +79,21 @@
       "status": "doubtful"
     },
     {
+      "name": "Manzambi",
+      "team": "AVL",
+      "pos": "MID",
+      "cost": 6.2,
+      "sel": 8.6,
+      "news": "Calf injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Thiago",
       "team": "BRE",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 8.2,
+      "sel": 8.1,
       "news": "Suspended until 5 Dec",
       "chance": 0,
       "status": "suspended"
@@ -1908,7 +1916,7 @@
       "pos": "DEF",
       "cost": 4.8,
       "form": 10.2,
-      "sel": 24.5,
+      "sel": 24.6,
       "xgi90": 0.08,
       "ep_next": 10.2
     },
@@ -1938,7 +1946,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 31.0,
+      "sel": 31.1,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -1948,7 +1956,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 7.5,
-      "sel": 9.2,
+      "sel": 9.3,
       "xgi90": 0.15,
       "ep_next": 7.5
     },
@@ -2058,7 +2066,7 @@
       "pos": "MID",
       "cost": 5.7,
       "form": 6.5,
-      "sel": 2.7,
+      "sel": 2.8,
       "xgi90": 0.59,
       "ep_next": 6.5
     },
@@ -2068,7 +2076,7 @@
       "pos": "GKP",
       "cost": 4.7,
       "form": 6.2,
-      "sel": 23.9,
+      "sel": 24.0,
       "xgi90": 0.02,
       "ep_next": 6.2
     },
@@ -2148,7 +2156,7 @@
       "pos": "MID",
       "cost": 5.0,
       "form": 5.5,
-      "sel": 4.2,
+      "sel": 4.3,
       "xgi90": 0.26,
       "ep_next": 5.5
     },
@@ -2183,16 +2191,6 @@
       "ep_next": 5.5
     },
     {
-      "name": "Manzambi",
-      "team": "AVL",
-      "pos": "MID",
-      "cost": 6.2,
-      "form": 5.2,
-      "sel": 8.6,
-      "xgi90": 0.5,
-      "ep_next": 5.2
-    },
-    {
       "name": "Petrovi\u0107",
       "team": "BOU",
       "pos": "GKP",
@@ -2200,6 +2198,16 @@
       "form": 5.2,
       "sel": 3.2,
       "xgi90": 0.0,
+      "ep_next": 5.2
+    },
+    {
+      "name": "Enciso",
+      "team": "IPS",
+      "pos": "MID",
+      "cost": 5.5,
+      "form": 5.2,
+      "sel": 1.1,
+      "xgi90": 0.46,
       "ep_next": 5.2
     }
   ],
@@ -2928,7 +2936,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549569,
+    "overall_rank": 1549566,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3022,7 +3030,7 @@
         "news": "",
         "chance": null,
         "form": 4.2,
-        "sel": 48.0,
+        "sel": 48.1,
         "ep_next": 4.2,
         "slot": 6,
         "captain": false,
@@ -3038,7 +3046,7 @@
         "news": "",
         "chance": null,
         "form": 3.5,
-        "sel": 53.9,
+        "sel": 54.0,
         "ep_next": 3.5,
         "slot": 7,
         "captain": false,
