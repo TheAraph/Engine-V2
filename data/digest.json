@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T07:27:21.626048+00:00",
+  "generated_at": "2026-11-13T14:47:29.337610+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
     "flagged": 188,
-    "managers": 11288364
+    "managers": 11289218
   },
   "changes": {
     "new_injuries": [],
@@ -33,7 +33,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.7,
+      "sel": 22.6,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -1936,7 +1936,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 31.1,
+      "sel": 31.2,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -2076,7 +2076,7 @@
       "pos": "FWD",
       "cost": 15.8,
       "form": 6.2,
-      "sel": 78.9,
+      "sel": 78.8,
       "xgi90": 0.8,
       "ep_next": 6.2
     },
@@ -2926,7 +2926,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549566,
+    "overall_rank": 1549563,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3052,7 +3052,7 @@
         "news": "",
         "chance": 100,
         "form": 2.8,
-        "sel": 28.4,
+        "sel": 28.3,
         "ep_next": 2.8,
         "slot": 8,
         "captain": false,
@@ -3100,7 +3100,7 @@
         "news": "",
         "chance": 100,
         "form": 6.2,
-        "sel": 78.9,
+        "sel": 78.8,
         "ep_next": 6.2,
         "slot": 11,
         "captain": true,
