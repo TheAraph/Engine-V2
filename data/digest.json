@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-11-13T14:47:29.337610+00:00",
+  "generated_at": "2026-11-14T07:09:13.795942+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
     "flagged": 188,
-    "managers": 11289218
+    "managers": 11291028
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [],
+    "price_falls": [
+      {
+        "name": "Roefs",
+        "team": "SUN",
+        "pos": "GKP",
+        "cost": 4.8,
+        "sel": 1.9,
+        "news": "",
+        "chance": null,
+        "from": 4.9,
+        "to": 4.8
+      }
+    ],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -23,7 +35,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 31.7,
+      "sel": 31.6,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -53,7 +65,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 14.1,
+      "sel": 14.0,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -149,22 +161,22 @@
       "status": "injured"
     },
     {
-      "name": "Shaw",
-      "team": "MUN",
-      "pos": "DEF",
-      "cost": 4.2,
-      "sel": 3.3,
-      "news": "Unspecified injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "James",
       "team": "CHE",
       "pos": "DEF",
       "cost": 5.2,
       "sel": 3.2,
       "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
+      "name": "Shaw",
+      "team": "MUN",
+      "pos": "DEF",
+      "cost": 4.2,
+      "sel": 3.2,
+      "news": "Unspecified injury - Unknown return date",
       "chance": 0,
       "status": "injured"
     },
@@ -1916,7 +1928,7 @@
       "pos": "DEF",
       "cost": 8.1,
       "form": 9.8,
-      "sel": 26.1,
+      "sel": 26.2,
       "xgi90": 0.17,
       "ep_next": 9.8
     },
@@ -1926,7 +1938,7 @@
       "pos": "FWD",
       "cost": 6.5,
       "form": 9.0,
-      "sel": 23.8,
+      "sel": 23.9,
       "xgi90": 0.59,
       "ep_next": 9.0
     },
@@ -1936,7 +1948,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 31.2,
+      "sel": 31.3,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -1946,7 +1958,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 7.5,
-      "sel": 9.3,
+      "sel": 9.4,
       "xgi90": 0.15,
       "ep_next": 7.5
     },
@@ -1966,7 +1978,7 @@
       "pos": "FWD",
       "cost": 5.7,
       "form": 7.2,
-      "sel": 10.7,
+      "sel": 10.8,
       "xgi90": 0.82,
       "ep_next": 7.2
     },
@@ -1976,7 +1988,7 @@
       "pos": "DEF",
       "cost": 5.6,
       "form": 7.0,
-      "sel": 3.0,
+      "sel": 3.1,
       "xgi90": 0.13,
       "ep_next": 7.0
     },
@@ -2006,7 +2018,7 @@
       "pos": "GKP",
       "cost": 6.2,
       "form": 6.8,
-      "sel": 47.5,
+      "sel": 47.6,
       "xgi90": 0.0,
       "ep_next": 6.8
     },
@@ -2136,7 +2148,7 @@
       "pos": "DEF",
       "cost": 5.5,
       "form": 5.5,
-      "sel": 47.8,
+      "sel": 47.9,
       "xgi90": 0.43,
       "ep_next": 5.5
     },
@@ -2940,7 +2952,7 @@
         "news": "",
         "chance": null,
         "form": 6.8,
-        "sel": 47.5,
+        "sel": 47.6,
         "ep_next": 6.8,
         "slot": 1,
         "captain": false,
@@ -2972,7 +2984,7 @@
         "news": "",
         "chance": null,
         "form": 5.5,
-        "sel": 47.8,
+        "sel": 47.9,
         "ep_next": 5.5,
         "slot": 3,
         "captain": false,
@@ -3084,7 +3096,7 @@
         "news": "",
         "chance": null,
         "form": 9.0,
-        "sel": 23.8,
+        "sel": 23.9,
         "ep_next": 9.0,
         "slot": 10,
         "captain": false,
