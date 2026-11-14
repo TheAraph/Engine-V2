@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-11-14T07:09:13.795942+00:00",
+  "generated_at": "2026-11-14T13:43:40.055192+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 188,
-    "managers": 11291028
+    "flagged": 189,
+    "managers": 11291813
   },
   "changes": {
-    "new_injuries": [],
+    "new_injuries": [
+      {
+        "name": "Dorgu",
+        "team": "MUN",
+        "pos": "MID",
+        "cost": 5.7,
+        "sel": 0.3,
+        "news": "Hamstring injury - 75% chance of playing",
+        "chance": 75
+      }
+    ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Roefs",
-        "team": "SUN",
-        "pos": "GKP",
-        "cost": 4.8,
-        "sel": 1.9,
-        "news": "",
-        "chance": null,
-        "from": 4.9,
-        "to": 4.8
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -45,7 +43,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.6,
+      "sel": 22.5,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -75,7 +73,7 @@
       "team": "HUL",
       "pos": "MID",
       "cost": 5.3,
-      "sel": 9.6,
+      "sel": 9.5,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -85,7 +83,7 @@
       "team": "AVL",
       "pos": "MID",
       "cost": 6.2,
-      "sel": 8.6,
+      "sel": 8.5,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -95,7 +93,7 @@
       "team": "BRE",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 8.1,
+      "sel": 8.0,
       "news": "Suspended until 5 Dec",
       "chance": 0,
       "status": "suspended"
@@ -111,16 +109,6 @@
       "status": "doubtful"
     },
     {
-      "name": "Semenyo",
-      "team": "MCI",
-      "pos": "MID",
-      "cost": 8.2,
-      "sel": 5.6,
-      "news": "Knee injury - Unknown return date",
-      "chance": 0,
-      "status": "injured"
-    },
-    {
       "name": "Saka",
       "team": "ARS",
       "pos": "MID",
@@ -131,11 +119,21 @@
       "status": "injured"
     },
     {
+      "name": "Semenyo",
+      "team": "MCI",
+      "pos": "MID",
+      "cost": 8.2,
+      "sel": 5.5,
+      "news": "Knee injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
+    },
+    {
       "name": "Maguire",
       "team": "MUN",
       "pos": "DEF",
       "cost": 4.6,
-      "sel": 5.1,
+      "sel": 5.0,
       "news": "Back injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -185,7 +183,7 @@
       "team": "CHE",
       "pos": "GKP",
       "cost": 4.9,
-      "sel": 3.1,
+      "sel": 3.0,
       "news": "Head injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -469,6 +467,16 @@
       "news": "Has joined Torino on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Dorgu",
+      "team": "MUN",
+      "pos": "MID",
+      "cost": 5.7,
+      "sel": 0.3,
+      "news": "Hamstring injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "S\u00e1vio",
@@ -1918,7 +1926,7 @@
       "pos": "DEF",
       "cost": 4.8,
       "form": 10.2,
-      "sel": 24.6,
+      "sel": 24.7,
       "xgi90": 0.08,
       "ep_next": 10.2
     },
@@ -1968,7 +1976,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 7.5,
-      "sel": 14.7,
+      "sel": 14.8,
       "xgi90": 0.24,
       "ep_next": 7.5
     },
