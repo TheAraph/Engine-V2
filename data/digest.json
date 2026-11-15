@@ -1,73 +1,29 @@
 {
-  "generated_at": "2026-11-15T07:19:53.697028+00:00",
+  "generated_at": "2026-11-15T14:12:17.743338+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 191,
-    "managers": 11293518
+    "flagged": 192,
+    "managers": 11294237
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Hadjam",
-        "team": "BHA",
+        "name": "Cash",
+        "team": "AVL",
         "pos": "DEF",
-        "cost": 4.5,
-        "sel": 0.1,
-        "news": "Unspecified injury - 75% chance of playing",
-        "chance": 75
-      },
-      {
-        "name": "Andr\u00e9s",
-        "team": "BHA",
-        "pos": "MID",
-        "cost": 5.5,
-        "sel": 0.1,
-        "news": "Hip injury - 75% chance of playing",
+        "cost": 4.3,
+        "sel": 3.6,
+        "news": "Concussion - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
     "recovered": [],
-    "price_rises": [
-      {
-        "name": "Konsa",
-        "team": "ARS",
-        "pos": "DEF",
-        "cost": 4.9,
-        "sel": 24.7,
-        "news": "",
-        "chance": 100,
-        "from": 4.8,
-        "to": 4.9
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Steele",
-        "team": "BHA",
-        "pos": "GKP",
-        "cost": 3.9,
-        "sel": 3.4,
-        "news": "",
-        "chance": null,
-        "from": 4.0,
-        "to": 3.9
-      },
-      {
-        "name": "Frimpong",
-        "team": "LIV",
-        "pos": "DEF",
-        "cost": 5.1,
-        "sel": 1.2,
-        "news": "Hamstring injury - Unknown return date",
-        "chance": 0,
-        "from": 5.2,
-        "to": 5.1
-      }
-    ],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -201,6 +157,16 @@
       "news": "Hamstring injury - Unknown return date",
       "chance": 0,
       "status": "injured"
+    },
+    {
+      "name": "Cash",
+      "team": "AVL",
+      "pos": "DEF",
+      "cost": 4.3,
+      "sel": 3.6,
+      "news": "Concussion - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "James",
@@ -2010,7 +1976,7 @@
       "pos": "FWD",
       "cost": 6.5,
       "form": 9.0,
-      "sel": 23.9,
+      "sel": 24.0,
       "xgi90": 0.59,
       "ep_next": 9.0
     },
@@ -2080,7 +2046,7 @@
       "pos": "FWD",
       "cost": 9.3,
       "form": 7.0,
-      "sel": 25.1,
+      "sel": 25.2,
       "xgi90": 0.62,
       "ep_next": 7.0
     },
@@ -3010,7 +2976,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549562,
+    "overall_rank": 1549561,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3168,7 +3134,7 @@
         "news": "",
         "chance": null,
         "form": 9.0,
-        "sel": 23.9,
+        "sel": 24.0,
         "ep_next": 9.0,
         "slot": 10,
         "captain": false,
