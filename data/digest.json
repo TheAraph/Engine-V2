@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-11-15T14:12:17.743338+00:00",
+  "generated_at": "2026-11-16T07:26:49.740283+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
-    "flagged": 192,
-    "managers": 11294237
+    "flagged": 193,
+    "managers": 11295924
   },
   "changes": {
     "new_injuries": [
       {
-        "name": "Cash",
-        "team": "AVL",
-        "pos": "DEF",
-        "cost": 4.3,
-        "sel": 3.6,
-        "news": "Concussion - 75% chance of playing",
+        "name": "Schlager",
+        "team": "NFO",
+        "pos": "MID",
+        "cost": 5.0,
+        "sel": 0.1,
+        "news": "Thigh injury - 75% chance of playing",
         "chance": 75
       }
     ],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [],
+    "price_falls": [
+      {
+        "name": "Hamer",
+        "team": "COV",
+        "pos": "MID",
+        "cost": 5.2,
+        "sel": 0.1,
+        "news": "",
+        "chance": null,
+        "from": 5.3,
+        "to": 5.2
+      }
+    ],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -43,7 +55,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.5,
+      "sel": 22.4,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -53,7 +65,7 @@
       "team": "LIV",
       "pos": "DEF",
       "cost": 6.4,
-      "sel": 14.8,
+      "sel": 14.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -877,6 +889,16 @@
       "news": "Has joined AC Milan on loan for the rest of the season",
       "chance": 0,
       "status": "unavailable"
+    },
+    {
+      "name": "Schlager",
+      "team": "NFO",
+      "pos": "MID",
+      "cost": 5.0,
+      "sel": 0.1,
+      "news": "Thigh injury - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
     },
     {
       "name": "Vicario",
@@ -1986,7 +2008,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 8.8,
-      "sel": 31.4,
+      "sel": 31.5,
       "xgi90": 0.54,
       "ep_next": 8.8
     },
@@ -2976,7 +2998,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549561,
+    "overall_rank": 1549559,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
