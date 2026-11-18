@@ -1,31 +1,19 @@
 {
-  "generated_at": "2026-11-18T08:01:40.653023+00:00",
+  "generated_at": "2026-11-18T15:53:43.121865+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
     "flagged": 198,
-    "managers": 11300118
+    "managers": 11300924
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
     "price_rises": [],
-    "price_falls": [
-      {
-        "name": "Barnes",
-        "team": "NEW",
-        "pos": "MID",
-        "cost": 6.0,
-        "sel": 6.5,
-        "news": "",
-        "chance": null,
-        "from": 6.1,
-        "to": 6.0
-      }
-    ],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -45,7 +33,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.2,
+      "sel": 22.1,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -55,7 +43,7 @@
       "team": "LIV",
       "pos": "DEF",
       "cost": 6.4,
-      "sel": 14.7,
+      "sel": 14.6,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -95,7 +83,7 @@
       "team": "BRE",
       "pos": "FWD",
       "cost": 7.8,
-      "sel": 7.9,
+      "sel": 7.8,
       "news": "Suspended until 5 Dec",
       "chance": 0,
       "status": "suspended"
@@ -2018,7 +2006,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 11.0,
-      "sel": 31.8,
+      "sel": 31.9,
       "xgi90": 0.54,
       "ep_next": 11.0
     },
@@ -2028,7 +2016,7 @@
       "pos": "DEF",
       "cost": 4.9,
       "form": 10.7,
-      "sel": 24.8,
+      "sel": 24.9,
       "xgi90": 0.08,
       "ep_next": 10.7
     },
@@ -2068,7 +2056,7 @@
       "pos": "DEF",
       "cost": 5.1,
       "form": 7.5,
-      "sel": 15.1,
+      "sel": 15.2,
       "xgi90": 0.24,
       "ep_next": 7.5
     },
@@ -2178,7 +2166,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 6.3,
-      "sel": 9.7,
+      "sel": 9.8,
       "xgi90": 0.15,
       "ep_next": 6.3
     },
@@ -3038,7 +3026,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549557,
+    "overall_rank": 1549554,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3228,7 +3216,7 @@
         "news": "",
         "chance": null,
         "form": 4.8,
-        "sel": 15.6,
+        "sel": 15.7,
         "ep_next": 4.8,
         "slot": 12,
         "captain": false,
@@ -3260,7 +3248,7 @@
         "news": "",
         "chance": null,
         "form": 3.7,
-        "sel": 1.3,
+        "sel": 1.2,
         "ep_next": 3.7,
         "slot": 14,
         "captain": false,
