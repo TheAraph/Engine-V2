@@ -1,20 +1,122 @@
 {
-  "generated_at": "2026-11-18T15:53:43.121865+00:00",
+  "generated_at": "2026-11-19T08:08:01.868568+00:00",
   "next_gw": 11,
   "deadline": "2026-11-21T11:00:00Z",
   "is_first_run": false,
   "totals": {
     "players": 672,
     "flagged": 198,
-    "managers": 11300924
+    "managers": 11302300
   },
   "changes": {
     "new_injuries": [],
     "worsened": [],
     "recovered": [],
-    "price_rises": [],
-    "price_falls": [],
-    "form_risers": [],
+    "price_rises": [
+      {
+        "name": "Gomez",
+        "team": "BHA",
+        "pos": "MID",
+        "cost": 5.1,
+        "sel": 4.4,
+        "news": "",
+        "chance": null,
+        "from": 5.0,
+        "to": 5.1
+      },
+      {
+        "name": "McGinn",
+        "team": "AVL",
+        "pos": "MID",
+        "cost": 5.5,
+        "sel": 3.9,
+        "news": "",
+        "chance": null,
+        "from": 5.4,
+        "to": 5.5
+      },
+      {
+        "name": "Suzuki",
+        "team": "AVL",
+        "pos": "GKP",
+        "cost": 5.1,
+        "sel": 3.2,
+        "news": "",
+        "chance": null,
+        "from": 5.0,
+        "to": 5.1
+      }
+    ],
+    "price_falls": [
+      {
+        "name": "Gonzalo",
+        "team": "FUL",
+        "pos": "FWD",
+        "cost": 5.8,
+        "sel": 3.5,
+        "news": "",
+        "chance": null,
+        "from": 5.9,
+        "to": 5.8
+      },
+      {
+        "name": "Georginio",
+        "team": "BHA",
+        "pos": "FWD",
+        "cost": 5.2,
+        "sel": 0.4,
+        "news": "",
+        "chance": 100,
+        "from": 5.3,
+        "to": 5.2
+      },
+      {
+        "name": "McConnell",
+        "team": "LIV",
+        "pos": "MID",
+        "cost": 4.3,
+        "sel": 0.2,
+        "news": "",
+        "chance": null,
+        "from": 4.4,
+        "to": 4.3
+      }
+    ],
+    "form_risers": [
+      {
+        "name": "Van Hecke",
+        "team": "TOT",
+        "pos": "DEF",
+        "cost": 5.1,
+        "sel": 15.3,
+        "news": "",
+        "chance": 100,
+        "form_from": 7.5,
+        "form_to": 8.7
+      },
+      {
+        "name": "Tel",
+        "team": "TOT",
+        "pos": "MID",
+        "cost": 5.6,
+        "sel": 0.5,
+        "news": "Ankle injury - 75% chance of playing",
+        "chance": 75,
+        "form_from": 4.0,
+        "form_to": 5.0
+      },
+      {
+        "name": "Fernandes",
+        "team": "TOT",
+        "pos": "MID",
+        "cost": 5.6,
+        "sel": 0.7,
+        "news": "",
+        "chance": null,
+        "form_from": 4.0,
+        "form_to": 5.0
+      }
+    ],
     "ownership_surges": []
   },
   "flagged": [
@@ -23,7 +125,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 31.2,
+      "sel": 31.0,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -33,7 +135,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 5.6,
-      "sel": 22.1,
+      "sel": 22.0,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -53,7 +155,7 @@
       "team": "MCI",
       "pos": "DEF",
       "cost": 6.0,
-      "sel": 13.8,
+      "sel": 13.7,
       "news": "Unspecified injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -63,7 +165,7 @@
       "team": "HUL",
       "pos": "MID",
       "cost": 5.3,
-      "sel": 9.4,
+      "sel": 9.3,
       "news": "Hamstring injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -73,7 +175,7 @@
       "team": "AVL",
       "pos": "MID",
       "cost": 6.2,
-      "sel": 8.5,
+      "sel": 8.4,
       "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -123,7 +225,7 @@
       "team": "NFO",
       "pos": "DEF",
       "cost": 4.9,
-      "sel": 5.3,
+      "sel": 5.2,
       "news": "Ankle injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
@@ -2006,7 +2108,7 @@
       "pos": "FWD",
       "cost": 7.1,
       "form": 11.0,
-      "sel": 31.9,
+      "sel": 32.1,
       "xgi90": 0.54,
       "ep_next": 11.0
     },
@@ -2036,9 +2138,19 @@
       "pos": "FWD",
       "cost": 5.7,
       "form": 9.0,
-      "sel": 10.9,
+      "sel": 11.0,
       "xgi90": 0.82,
       "ep_next": 9.0
+    },
+    {
+      "name": "Van Hecke",
+      "team": "TOT",
+      "pos": "DEF",
+      "cost": 5.1,
+      "form": 8.7,
+      "sel": 15.3,
+      "xgi90": 0.24,
+      "ep_next": 8.7
     },
     {
       "name": "Evanilson",
@@ -2046,19 +2158,9 @@
       "pos": "FWD",
       "cost": 6.5,
       "form": 8.0,
-      "sel": 24.2,
+      "sel": 24.3,
       "xgi90": 0.59,
       "ep_next": 8.0
-    },
-    {
-      "name": "Van Hecke",
-      "team": "TOT",
-      "pos": "DEF",
-      "cost": 5.1,
-      "form": 7.5,
-      "sel": 15.2,
-      "xgi90": 0.24,
-      "ep_next": 7.5
     },
     {
       "name": "McBurnie",
@@ -2096,7 +2198,7 @@
       "pos": "MID",
       "cost": 5.7,
       "form": 7.3,
-      "sel": 2.8,
+      "sel": 2.9,
       "xgi90": 0.59,
       "ep_next": 7.3
     },
@@ -2116,7 +2218,7 @@
       "pos": "MID",
       "cost": 7.2,
       "form": 7.0,
-      "sel": 5.9,
+      "sel": 6.0,
       "xgi90": 0.35,
       "ep_next": 7.0
     },
@@ -2136,7 +2238,7 @@
       "pos": "MID",
       "cost": 4.9,
       "form": 6.3,
-      "sel": 0.2,
+      "sel": 0.3,
       "xgi90": 0.14,
       "ep_next": 6.3
     },
@@ -2166,7 +2268,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 6.3,
-      "sel": 9.8,
+      "sel": 9.9,
       "xgi90": 0.15,
       "ep_next": 6.3
     },
@@ -2176,7 +2278,7 @@
       "pos": "MID",
       "cost": 5.0,
       "form": 6.3,
-      "sel": 0.0,
+      "sel": 0.1,
       "xgi90": 0.17,
       "ep_next": 6.3
     },
@@ -2291,14 +2393,14 @@
       "ep_next": 5.7
     },
     {
-      "name": "McGinn",
-      "team": "AVL",
-      "pos": "MID",
-      "cost": 5.4,
-      "form": 5.3,
-      "sel": 3.8,
-      "xgi90": 0.46,
-      "ep_next": 5.3
+      "name": "Kinsky",
+      "team": "TOT",
+      "pos": "GKP",
+      "cost": 4.4,
+      "form": 5.7,
+      "sel": 15.7,
+      "xgi90": 0.0,
+      "ep_next": 5.7
     }
   ],
   "fixtures": {
@@ -3026,7 +3128,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1549554,
+    "overall_rank": 1549557,
     "total_points": 629,
     "bank": 0.5,
     "value": 101.3,
@@ -3072,7 +3174,7 @@
         "news": "",
         "chance": null,
         "form": 5.3,
-        "sel": 48.1,
+        "sel": 48.2,
         "ep_next": 5.3,
         "slot": 3,
         "captain": false,
@@ -3088,7 +3190,7 @@
         "news": "",
         "chance": null,
         "form": 3.7,
-        "sel": 18.1,
+        "sel": 18.0,
         "ep_next": 3.7,
         "slot": 4,
         "captain": false,
@@ -3120,7 +3222,7 @@
         "news": "",
         "chance": null,
         "form": 4.0,
-        "sel": 48.3,
+        "sel": 48.4,
         "ep_next": 4.0,
         "slot": 6,
         "captain": false,
@@ -3136,7 +3238,7 @@
         "news": "",
         "chance": null,
         "form": 4.0,
-        "sel": 54.0,
+        "sel": 54.1,
         "ep_next": 4.0,
         "slot": 7,
         "captain": false,
@@ -3184,7 +3286,7 @@
         "news": "",
         "chance": null,
         "form": 8.0,
-        "sel": 24.2,
+        "sel": 24.3,
         "ep_next": 8.0,
         "slot": 10,
         "captain": false,
@@ -3215,9 +3317,9 @@
         "status": "a",
         "news": "",
         "chance": null,
-        "form": 4.8,
+        "form": 5.7,
         "sel": 15.7,
-        "ep_next": 4.8,
+        "ep_next": 5.7,
         "slot": 12,
         "captain": false,
         "vice": false,
@@ -3227,12 +3329,12 @@
         "name": "Gonzalo",
         "team": "FUL",
         "pos": "FWD",
-        "cost": 5.9,
+        "cost": 5.8,
         "status": "a",
         "news": "",
         "chance": null,
         "form": 2.0,
-        "sel": 3.6,
+        "sel": 3.5,
         "ep_next": 2.0,
         "slot": 13,
         "captain": false,
@@ -3264,7 +3366,7 @@
         "news": "",
         "chance": null,
         "form": 0.7,
-        "sel": 6.6,
+        "sel": 6.5,
         "ep_next": 0.7,
         "slot": 15,
         "captain": false,
