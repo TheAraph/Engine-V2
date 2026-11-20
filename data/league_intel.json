@@ -16,7 +16,7 @@
           "pos": "MID",
           "cost": 5.5,
           "league_own": 0.0,
-          "global_own": 2.4
+          "global_own": 2.5
         },
         {
           "name": "Bassey",
@@ -37,7 +37,7 @@
           "pos": "FWD",
           "cost": 5.8,
           "league_own": 3.6,
-          "global_own": 3.5
+          "global_own": 3.4
         },
         {
           "name": "Davis",
@@ -58,14 +58,14 @@
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 28.6,
-          "global_own": 17.8
+          "global_own": 17.7
         },
         {
           "name": "Evanilson",
           "pos": "FWD",
           "cost": 6.5,
           "league_own": 28.6,
-          "global_own": 24.6
+          "global_own": 24.9
         }
       ],
       "exposure": [
@@ -74,21 +74,21 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 64.3,
-          "global_own": 25.1
+          "global_own": 25.3
         },
         {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.2,
           "league_own": 60.7,
-          "global_own": 32.8
+          "global_own": 33.4
         },
         {
           "name": "Tavernier",
           "pos": "MID",
           "cost": 6.7,
           "league_own": 57.1,
-          "global_own": 31.8
+          "global_own": 32.0
         }
       ],
       "captains": [
@@ -126,7 +126,7 @@
           "pos": "MID",
           "cost": 5.5,
           "league_own": 0.0,
-          "global_own": 2.4
+          "global_own": 2.5
         },
         {
           "name": "Bassey",
@@ -140,21 +140,21 @@
           "pos": "FWD",
           "cost": 6.5,
           "league_own": 0.0,
-          "global_own": 24.6
+          "global_own": 24.9
         },
         {
           "name": "Gonzalo",
           "pos": "FWD",
           "cost": 5.8,
           "league_own": 0.0,
-          "global_own": 3.5
+          "global_own": 3.4
         },
         {
           "name": "Hall",
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 12.5,
-          "global_own": 17.8
+          "global_own": 17.7
         },
         {
           "name": "Davis",
@@ -184,21 +184,21 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 62.5,
-          "global_own": 25.1
+          "global_own": 25.3
         },
         {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.2,
           "league_own": 62.5,
-          "global_own": 32.8
+          "global_own": 33.4
         },
         {
           "name": "Calvert-Lewin",
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 17.1
+          "global_own": 16.9
         },
         {
           "name": "Verbruggen",
