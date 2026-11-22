@@ -7,7 +7,7 @@
     {
       "league": "Classics League",
       "id": 37785,
-      "my_rank": 17,
+      "my_rank": 16,
       "rivals_sampled": 28,
       "gw": 10,
       "edges": [
@@ -51,21 +51,21 @@
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 15.9
+          "global_own": 16.0
         },
         {
           "name": "Hall",
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 28.6,
-          "global_own": 16.8
+          "global_own": 16.7
         },
         {
           "name": "Evanilson",
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 28.6,
-          "global_own": 26.4
+          "global_own": 26.5
         }
       ],
       "exposure": [
@@ -81,14 +81,14 @@
           "pos": "FWD",
           "cost": 7.2,
           "league_own": 60.7,
-          "global_own": 35.9
+          "global_own": 36.0
         },
         {
           "name": "Tavernier",
           "pos": "MID",
           "cost": 6.7,
           "league_own": 57.1,
-          "global_own": 32.8
+          "global_own": 32.9
         }
       ],
       "captains": [
@@ -140,7 +140,7 @@
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 0.0,
-          "global_own": 26.4
+          "global_own": 26.5
         },
         {
           "name": "Gonzalo",
@@ -154,7 +154,7 @@
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 12.5,
-          "global_own": 16.8
+          "global_own": 16.7
         },
         {
           "name": "Davis",
@@ -175,7 +175,7 @@
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 15.9
+          "global_own": 16.0
         }
       ],
       "exposure": [
@@ -191,7 +191,7 @@
           "pos": "FWD",
           "cost": 7.2,
           "league_own": 62.5,
-          "global_own": 35.9
+          "global_own": 36.0
         },
         {
           "name": "Calvert-Lewin",
@@ -205,7 +205,7 @@
           "pos": "GKP",
           "cost": 4.7,
           "league_own": 50.0,
-          "global_own": 24.3
+          "global_own": 24.4
         }
       ],
       "captains": [
