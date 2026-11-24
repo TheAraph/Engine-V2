@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "gw": 10,
+  "gw": 11,
   "entry": "6050572",
   "manager": "Adam Ryan",
   "leagues": [
@@ -9,7 +9,7 @@
       "id": 37785,
       "my_rank": 16,
       "rivals_sampled": 28,
-      "gw": 10,
+      "gw": 11,
       "edges": [
         {
           "name": "Ayari",
@@ -43,8 +43,15 @@
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
-          "league_own": 17.9,
+          "league_own": 14.3,
           "global_own": 6.1
+        },
+        {
+          "name": "Hall",
+          "pos": "DEF",
+          "cost": 5.2,
+          "league_own": 17.9,
+          "global_own": 16.2
         },
         {
           "name": "Kinsky",
@@ -54,62 +61,51 @@
           "global_own": 16.2
         },
         {
-          "name": "Hall",
-          "pos": "DEF",
-          "cost": 5.2,
-          "league_own": 28.6,
-          "global_own": 16.2
-        },
-        {
           "name": "Evanilson",
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 28.6,
-          "global_own": 27.2
+          "global_own": 27.4
         }
       ],
       "exposure": [
         {
-          "name": "Konsa",
-          "pos": "DEF",
-          "cost": 4.9,
-          "league_own": 64.3,
-          "global_own": 25.4
-        },
-        {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.3,
+          "league_own": 64.3,
+          "global_own": 36.5
+        },
+        {
+          "name": "Konsa",
+          "pos": "DEF",
+          "cost": 4.9,
           "league_own": 60.7,
-          "global_own": 36.4
+          "global_own": 25.4
         },
         {
           "name": "Tavernier",
           "pos": "MID",
           "cost": 6.8,
-          "league_own": 57.1,
+          "league_own": 53.6,
           "global_own": 33.5
         }
       ],
       "captains": [
         {
           "name": "Haaland",
-          "share": 71.4
+          "share": 89.3
         },
         {
-          "name": "Calafiori",
-          "share": 7.1
-        },
-        {
-          "name": "Isak",
-          "share": 7.1
-        },
-        {
-          "name": "Rogers",
+          "name": "N.Jackson",
           "share": 3.6
         },
         {
           "name": "Palmer",
+          "share": 3.6
+        },
+        {
+          "name": "Saka",
           "share": 3.6
         }
       ]
@@ -119,7 +115,7 @@
       "id": 978874,
       "my_rank": 5,
       "rivals_sampled": 8,
-      "gw": 10,
+      "gw": 11,
       "edges": [
         {
           "name": "Ayari",
@@ -140,7 +136,7 @@
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 0.0,
-          "global_own": 27.2
+          "global_own": 27.4
         },
         {
           "name": "Gonzalo",
@@ -180,18 +176,11 @@
       ],
       "exposure": [
         {
-          "name": "Konsa",
-          "pos": "DEF",
-          "cost": 4.9,
-          "league_own": 62.5,
-          "global_own": 25.4
-        },
-        {
           "name": "N.Jackson",
           "pos": "FWD",
           "cost": 7.3,
-          "league_own": 62.5,
-          "global_own": 36.4
+          "league_own": 87.5,
+          "global_own": 36.5
         },
         {
           "name": "Calvert-Lewin",
@@ -199,6 +188,13 @@
           "cost": 6.0,
           "league_own": 50.0,
           "global_own": 17.2
+        },
+        {
+          "name": "Konsa",
+          "pos": "DEF",
+          "cost": 4.9,
+          "league_own": 50.0,
+          "global_own": 25.4
         },
         {
           "name": "Verbruggen",
