@@ -1,97 +1,52 @@
 {
-  "generated_at": "2026-11-25T09:21:46.935585+00:00",
+  "generated_at": "2026-11-25T17:29:36.577613+00:00",
   "next_gw": 12,
   "deadline": "2026-11-27T18:30:00Z",
   "is_first_run": false,
   "totals": {
     "players": 674,
-    "flagged": 193,
-    "managers": 11328577
+    "flagged": 194,
+    "managers": 11329848
   },
   "changes": {
-    "new_injuries": [],
-    "worsened": [],
-    "recovered": [
+    "new_injuries": [
       {
-        "name": "Yoro",
-        "team": "MUN",
+        "name": "Boscagli",
+        "team": "BHA",
         "pos": "DEF",
-        "cost": 4.8,
-        "sel": 0.4,
-        "news": "",
-        "chance": 100
+        "cost": 4.5,
+        "sel": 0.8,
+        "news": "Illness - 75% chance of playing",
+        "chance": 75
       }
     ],
-    "price_rises": [
+    "worsened": [
       {
-        "name": "Hill",
-        "team": "BOU",
-        "pos": "DEF",
-        "cost": 5.7,
-        "sel": 4.5,
-        "news": "",
-        "chance": null,
-        "from": 5.6,
-        "to": 5.7
-      }
-    ],
-    "price_falls": [
-      {
-        "name": "Merino",
-        "team": "ARS",
+        "name": "Gakpo",
+        "team": "LIV",
         "pos": "MID",
-        "cost": 5.6,
-        "sel": 0.4,
-        "news": "",
-        "chance": null,
-        "from": 5.7,
-        "to": 5.6
-      },
-      {
-        "name": "Andrey Santos",
-        "team": "MUN",
-        "pos": "MID",
-        "cost": 4.6,
-        "sel": 0.4,
-        "news": "",
-        "chance": null,
-        "from": 4.7,
-        "to": 4.6
-      },
-      {
-        "name": "Henry",
-        "team": "BRE",
-        "pos": "DEF",
-        "cost": 4.3,
-        "sel": 0.1,
-        "news": "Hip injury - Unknown return date",
+        "cost": 7.1,
+        "sel": 6.5,
+        "news": "Calf injury - Expected back 2 Dec",
         "chance": 0,
-        "from": 4.4,
-        "to": 4.3
+        "from": 75,
+        "to": 0
       },
       {
-        "name": "Grimes",
-        "team": "COV",
+        "name": "Gravenberch",
+        "team": "LIV",
         "pos": "MID",
-        "cost": 4.7,
-        "sel": 0.1,
-        "news": "",
-        "chance": null,
-        "from": 4.8,
-        "to": 4.7
-      },
-      {
-        "name": "Schlager",
-        "team": "NFO",
-        "pos": "MID",
-        "cost": 4.9,
-        "sel": 0.1,
-        "news": "",
-        "chance": 100,
-        "from": 5.0,
-        "to": 4.9
+        "cost": 5.8,
+        "sel": 0.8,
+        "news": "Foot injury - Unknown return date",
+        "chance": 0,
+        "from": 75,
+        "to": 0
       }
     ],
+    "recovered": [],
+    "price_rises": [],
+    "price_falls": [],
     "form_risers": [],
     "ownership_surges": []
   },
@@ -101,7 +56,7 @@
       "team": "ARS",
       "pos": "GKP",
       "cost": 6.3,
-      "sel": 45.5,
+      "sel": 45.3,
       "news": "Shoulder injury - 50% chance of playing",
       "chance": 50,
       "status": "doubtful"
@@ -111,7 +66,7 @@
       "team": "CHE",
       "pos": "FWD",
       "cost": 7.6,
-      "sel": 27.6,
+      "sel": 27.5,
       "news": "Thigh injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -121,7 +76,7 @@
       "team": "EVE",
       "pos": "DEF",
       "cost": 6.2,
-      "sel": 17.6,
+      "sel": 17.5,
       "news": "Suspended until 13 Dec",
       "chance": 0,
       "status": "suspended"
@@ -131,18 +86,8 @@
       "team": "NEW",
       "pos": "DEF",
       "cost": 5.2,
-      "sel": 16.1,
+      "sel": 16.0,
       "news": "Unspecified injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
-    },
-    {
-      "name": "Gakpo",
-      "team": "LIV",
-      "pos": "MID",
-      "cost": 7.1,
-      "sel": 6.6,
-      "news": "Calf injury - 75% chance of playing",
       "chance": 75,
       "status": "doubtful"
     },
@@ -155,6 +100,16 @@
       "news": "Suspended until 5 Dec",
       "chance": 0,
       "status": "suspended"
+    },
+    {
+      "name": "Gakpo",
+      "team": "LIV",
+      "pos": "MID",
+      "cost": 7.1,
+      "sel": 6.5,
+      "news": "Calf injury - Expected back 2 Dec",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Davis",
@@ -201,7 +156,7 @@
       "team": "SUN",
       "pos": "FWD",
       "cost": 5.7,
-      "sel": 4.0,
+      "sel": 3.9,
       "news": "Muscular injury - Unknown return date",
       "chance": 0,
       "status": "injured"
@@ -347,14 +302,24 @@
       "status": "injured"
     },
     {
+      "name": "Boscagli",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 4.5,
+      "sel": 0.8,
+      "news": "Illness - 75% chance of playing",
+      "chance": 75,
+      "status": "doubtful"
+    },
+    {
       "name": "Gravenberch",
       "team": "LIV",
       "pos": "MID",
       "cost": 5.8,
       "sel": 0.8,
-      "news": "Foot injury - 75% chance of playing",
-      "chance": 75,
-      "status": "doubtful"
+      "news": "Foot injury - Unknown return date",
+      "chance": 0,
+      "status": "injured"
     },
     {
       "name": "Collins",
@@ -2034,7 +1999,7 @@
       "pos": "MID",
       "cost": 7.4,
       "form": 9.7,
-      "sel": 10.2,
+      "sel": 10.4,
       "xgi90": 0.46,
       "ep_next": 9.7
     },
@@ -2064,7 +2029,7 @@
       "pos": "DEF",
       "cost": 5.2,
       "form": 8.3,
-      "sel": 19.5,
+      "sel": 19.6,
       "xgi90": 0.23,
       "ep_next": 8.3
     },
@@ -2074,7 +2039,7 @@
       "pos": "DEF",
       "cost": 5.7,
       "form": 8.0,
-      "sel": 4.5,
+      "sel": 4.6,
       "xgi90": 0.13,
       "ep_next": 8.0
     },
@@ -2084,7 +2049,7 @@
       "pos": "FWD",
       "cost": 6.6,
       "form": 8.0,
-      "sel": 27.5,
+      "sel": 27.6,
       "xgi90": 0.64,
       "ep_next": 8.0
     },
@@ -2094,7 +2059,7 @@
       "pos": "FWD",
       "cost": 7.3,
       "form": 7.3,
-      "sel": 36.5,
+      "sel": 36.6,
       "xgi90": 0.53,
       "ep_next": 7.3
     },
@@ -2124,7 +2089,7 @@
       "pos": "MID",
       "cost": 5.0,
       "form": 7.0,
-      "sel": 1.8,
+      "sel": 1.9,
       "xgi90": 0.47,
       "ep_next": 7.0
     },
@@ -2154,7 +2119,7 @@
       "pos": "MID",
       "cost": 5.7,
       "form": 6.7,
-      "sel": 1.3,
+      "sel": 1.4,
       "xgi90": 0.26,
       "ep_next": 6.7
     },
@@ -2216,16 +2181,6 @@
       "form": 6.0,
       "sel": 1.2,
       "xgi90": 0.43,
-      "ep_next": 6.0
-    },
-    {
-      "name": "Boscagli",
-      "team": "BHA",
-      "pos": "DEF",
-      "cost": 4.5,
-      "form": 6.0,
-      "sel": 0.8,
-      "xgi90": 0.15,
       "ep_next": 6.0
     },
     {
@@ -2294,7 +2249,7 @@
       "pos": "DEF",
       "cost": 5.3,
       "form": 5.7,
-      "sel": 5.2,
+      "sel": 5.3,
       "xgi90": 0.25,
       "ep_next": 5.7
     },
@@ -2326,6 +2281,16 @@
       "form": 5.3,
       "sel": 3.9,
       "xgi90": 0.07,
+      "ep_next": 5.3
+    },
+    {
+      "name": "De Cuyper",
+      "team": "BHA",
+      "pos": "DEF",
+      "cost": 5.5,
+      "form": 5.3,
+      "sel": 50.2,
+      "xgi90": 0.43,
       "ep_next": 5.3
     }
   ],
@@ -3054,7 +3019,7 @@
   "squad": {
     "name": "Qahbaleba FC",
     "manager": "Adam Ryan",
-    "overall_rank": 1751280,
+    "overall_rank": 1751278,
     "total_points": 660,
     "bank": 0.5,
     "value": 101.7,
@@ -3068,7 +3033,7 @@
         "news": "Shoulder injury - 50% chance of playing",
         "chance": 50,
         "form": 4.0,
-        "sel": 45.5,
+        "sel": 45.3,
         "ep_next": 2.0,
         "slot": 1,
         "captain": false,
@@ -3116,7 +3081,7 @@
         "news": "Unspecified injury - 75% chance of playing",
         "chance": 75,
         "form": 2.3,
-        "sel": 16.1,
+        "sel": 16.0,
         "ep_next": 1.7,
         "slot": 4,
         "captain": false,
@@ -3148,7 +3113,7 @@
         "news": "",
         "chance": null,
         "form": 5.3,
-        "sel": 49.5,
+        "sel": 49.6,
         "ep_next": 5.3,
         "slot": 6,
         "captain": false,
@@ -3180,7 +3145,7 @@
         "news": "",
         "chance": 100,
         "form": 4.0,
-        "sel": 27.3,
+        "sel": 27.2,
         "ep_next": 4.0,
         "slot": 8,
         "captain": false,
@@ -3212,7 +3177,7 @@
         "news": "",
         "chance": null,
         "form": 8.0,
-        "sel": 27.5,
+        "sel": 27.6,
         "ep_next": 8.0,
         "slot": 10,
         "captain": false,
@@ -3228,7 +3193,7 @@
         "news": "",
         "chance": 100,
         "form": 2.0,
-        "sel": 77.5,
+        "sel": 77.4,
         "ep_next": 2.0,
         "slot": 11,
         "captain": true,
