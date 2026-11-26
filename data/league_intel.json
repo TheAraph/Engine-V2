@@ -30,7 +30,7 @@
           "pos": "MID",
           "cost": 7.5,
           "league_own": 3.6,
-          "global_own": 13.7
+          "global_own": 13.6
         },
         {
           "name": "Gonzalo",
@@ -44,28 +44,28 @@
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 14.3,
-          "global_own": 6.1
+          "global_own": 6.0
         },
         {
           "name": "Hall",
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 17.9,
-          "global_own": 16.0
+          "global_own": 15.9
         },
         {
           "name": "Kinsky",
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 16.3
+          "global_own": 16.4
         },
         {
           "name": "Evanilson",
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 28.6,
-          "global_own": 27.6
+          "global_own": 27.7
         }
       ],
       "exposure": [
@@ -81,14 +81,14 @@
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 60.7,
-          "global_own": 25.3
+          "global_own": 25.2
         },
         {
           "name": "Tavernier",
           "pos": "MID",
           "cost": 6.8,
           "league_own": 53.6,
-          "global_own": 33.6
+          "global_own": 33.7
         }
       ],
       "captains": [
@@ -136,7 +136,7 @@
           "pos": "FWD",
           "cost": 6.6,
           "league_own": 0.0,
-          "global_own": 27.6
+          "global_own": 27.7
         },
         {
           "name": "Gonzalo",
@@ -150,28 +150,28 @@
           "pos": "DEF",
           "cost": 5.2,
           "league_own": 12.5,
-          "global_own": 16.0
+          "global_own": 15.9
         },
         {
           "name": "Davis",
           "pos": "DEF",
           "cost": 4.0,
           "league_own": 12.5,
-          "global_own": 6.1
+          "global_own": 6.0
         },
         {
           "name": "Rice",
           "pos": "MID",
           "cost": 7.5,
           "league_own": 25.0,
-          "global_own": 13.7
+          "global_own": 13.6
         },
         {
           "name": "Kinsky",
           "pos": "GKP",
           "cost": 4.4,
           "league_own": 25.0,
-          "global_own": 16.3
+          "global_own": 16.4
         }
       ],
       "exposure": [
@@ -187,21 +187,21 @@
           "pos": "FWD",
           "cost": 6.0,
           "league_own": 50.0,
-          "global_own": 17.4
+          "global_own": 17.6
         },
         {
           "name": "Konsa",
           "pos": "DEF",
           "cost": 4.9,
           "league_own": 50.0,
-          "global_own": 25.3
+          "global_own": 25.2
         },
         {
           "name": "Verbruggen",
           "pos": "GKP",
           "cost": 4.7,
           "league_own": 50.0,
-          "global_own": 24.8
+          "global_own": 24.9
         }
       ],
       "captains": [
